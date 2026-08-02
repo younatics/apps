@@ -113,3 +113,22 @@ footer {
     font-size: 38px;
   }
 }
+
+/* App Store call to action in the page header. Safari also renders the
+   apple-itunes-app smart banner, but that banner never appears on Chrome,
+   in-app browsers, or desktop — this link is the fallback for everyone else. */
+.cta a {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cta a:hover,
+.cta a:focus-visible {
+  filter: brightness(1.08);
+}
