@@ -8,6 +8,36 @@
  "conditions": {},
  "picks": [
   {
+   "name": "화수헌",
+   "category": "cafe",
+   "distance_km": 23.3,
+   "lat": 36.63912171,
+   "lng": 128.256148,
+   "address": "경상북도 문경시 산양면 현리3길 9",
+   "reasons": [
+    "23.3 km",
+    "낮에 영업",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 109.1
+  },
+  {
+   "name": "하회세계탈박물관",
+   "category": "culture",
+   "distance_km": 3.6,
+   "lat": 36.548609725,
+   "lng": 128.5277448156,
+   "address": "경상북도 안동시 풍천면 전서로 206",
+   "reasons": [
+    "3.6 km",
+    "낮에 영업",
+    "소형/중형",
+    "최근 확인"
+   ],
+   "score": 103.2
+  },
+  {
    "name": "안동 하회마을 [유네스코 세계유산]",
    "category": "travel",
    "distance_km": 3.5,
@@ -51,6 +81,18 @@
    "score": 85.6
   },
   {
+   "name": "안동고택 이상루",
+   "category": "lodging",
+   "distance_km": 16.8,
+   "lat": 36.634748453,
+   "lng": 128.6784947054,
+   "address": "경상북도 안동시 서후면 풍산태사로 3193-6 (서후면)",
+   "reasons": [
+    "16.8 km"
+   ],
+   "score": 79.4
+  },
+  {
    "name": "용문사성보유물관",
    "category": "culture",
    "distance_km": 21.1,
@@ -62,18 +104,6 @@
     "최근 확인"
    ],
    "score": 80.7
-  },
-  {
-   "name": "안동고택 이상루",
-   "category": "lodging",
-   "distance_km": 16.8,
-   "lat": 36.634748453,
-   "lng": 128.6784947054,
-   "address": "경상북도 안동시 서후면 풍산태사로 3193-6 (서후면)",
-   "reasons": [
-    "16.8 km"
-   ],
-   "score": 79.4
   },
   {
    "name": "덕용재4.9",

@@ -23,6 +23,20 @@
    "score": 123.4
   },
   {
+   "name": "힐링독",
+   "category": "cafe",
+   "distance_km": 0.7,
+   "lat": 35.86574447,
+   "lng": 128.597425,
+   "address": "대구광역시 중구 동성로3길 8",
+   "reasons": [
+    "0.7 km",
+    "낮에 영업",
+    "댕오늘 추천"
+   ],
+   "score": 113.2
+  },
+  {
    "name": "국채보상운동기념공원",
    "category": "park",
    "distance_km": 0.3,
@@ -46,25 +60,67 @@
    "address": "",
    "reasons": [
     "4.9 km",
-    "지금 영업 중",
+    "낮에 영업",
     "맑아서 야외"
    ],
    "score": 103.7
   },
   {
-   "name": "동촌유원지",
-   "category": "travel",
-   "distance_km": 4.6,
-   "lat": 35.8825752,
-   "lng": 128.6506105,
-   "address": "대구광역시 동구 효목동 산 234-29",
+   "name": "도그플레이스",
+   "category": "cafe",
+   "distance_km": 10.8,
+   "lat": 35.79384319,
+   "lng": 128.529652,
+   "address": "대구광역시 달서구 한실로6길 155",
    "reasons": [
-    "4.6 km",
-    "전 견종 동반 가능",
+    "10.8 km",
+    "낮에 영업",
+    "댕오늘 추천"
+   ],
+   "score": 108.0
+  },
+  {
+   "name": "대구교육박물관",
+   "category": "culture",
+   "distance_km": 3.0,
+   "lat": 35.8973687,
+   "lng": 128.611838,
+   "address": "대구광역시 북구 대동로1길 40",
+   "reasons": [
+    "3.0 km",
+    "낮에 영업",
+    "최근 확인"
+   ],
+   "score": 100.7
+  },
+  {
+   "name": "대명유수지",
+   "category": "travel",
+   "distance_km": 11.4,
+   "lat": 35.822096,
+   "lng": 128.490731,
+   "address": "대구 달서구 대천동 816",
+   "reasons": [
+    "11.4 km",
+    "낮에 영업",
     "맑아서 야외",
     "최근 확인"
    ],
-   "score": 99.8
+   "score": 100.8
+  },
+  {
+   "name": "대구보건대학교 인당뮤지엄",
+   "category": "culture",
+   "distance_km": 8.0,
+   "lat": 35.92684451,
+   "lng": 128.544028,
+   "address": "대구광역시 북구 영송로 15",
+   "reasons": [
+    "8.0 km",
+    "낮에 영업",
+    "최근 확인"
+   ],
+   "score": 100.0
   },
   {
    "name": "히로텔",
@@ -80,55 +136,17 @@
    "score": 94.5
   },
   {
-   "name": "유원게스트하우스",
-   "category": "lodging",
-   "distance_km": 4.7,
-   "lat": 35.8343097649,
-   "lng": 128.5753098848,
-   "address": "대구광역시 남구 앞산순환로93길 48 (대명동)",
-   "reasons": [
-    "4.7 km",
-    "최근 확인"
-   ],
-   "score": 89.9
-  },
-  {
-   "name": "캠프다운",
-   "category": "restaurant",
-   "distance_km": 14.8,
-   "lat": 35.8271252444725,
-   "lng": 128.446550603486,
-   "address": "경상북도 고령군 다산면 좌학길 106 2동 캠프다운",
-   "reasons": [
-    "14.8 km",
-    "최근 확인"
-   ],
-   "score": 84.8
-  },
-  {
-   "name": "은해사성보박물관",
-   "category": "culture",
-   "distance_km": 21.8,
-   "lat": 35.99026252,
-   "lng": 128.794311,
-   "address": "경상북도 영천시 청통면 청통로 951",
-   "reasons": [
-    "21.8 km",
-    "최근 확인"
-   ],
-   "score": 79.9
-  },
-  {
-   "name": "킹콩하우스애견카페",
+   "name": "와글",
    "category": "cafe",
-   "distance_km": 19.5,
-   "lat": 35.90827531,
-   "lng": 128.813088,
-   "address": "경상북도 경산시 하양읍 하양로 26",
+   "distance_km": 15.2,
+   "lat": 35.83932737,
+   "lng": 128.765259,
+   "address": "경상북도 경산시 압량읍 압독2로8길 21",
    "reasons": [
-    "19.5 km"
+    "15.2 km",
+    "낮에 영업"
    ],
-   "score": 79.5
+   "score": 92.6
   }
  ],
  "links": []
