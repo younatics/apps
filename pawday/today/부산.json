@@ -38,6 +38,20 @@
    "score": 116.0
   },
   {
+   "name": "녹음광장",
+   "category": "travel",
+   "distance_km": 0.1,
+   "lat": 35.17992599,
+   "lng": 129.075095,
+   "address": "부산광역시 연제구 중앙대로 1001",
+   "reasons": [
+    "0.1 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 108.7
+  },
+  {
    "name": "빅토리아 베이커리 가든",
    "category": "cafe",
    "distance_km": 8.3,
@@ -65,6 +79,19 @@
    "score": 105.2
   },
   {
+   "name": "이플러",
+   "category": "cafe",
+   "distance_km": 4.9,
+   "lat": 35.14968451,
+   "lng": 129.114694,
+   "address": "부산광역시 수영구 남천바다로33번길 27",
+   "reasons": [
+    "4.9 km",
+    "지금 영업 중"
+   ],
+   "score": 102.4
+  },
+  {
    "name": "해운대 동백섬",
    "category": "travel",
    "distance_km": 7.5,
@@ -80,19 +107,6 @@
    "score": 99.8
   },
   {
-   "name": "이플러",
-   "category": "cafe",
-   "distance_km": 4.9,
-   "lat": 35.14968451,
-   "lng": 129.114694,
-   "address": "부산광역시 수영구 남천바다로33번길 27",
-   "reasons": [
-    "4.9 km",
-    "지금 영업 중"
-   ],
-   "score": 102.4
-  },
-  {
    "name": "감천문화마을",
    "category": "culture",
    "distance_km": 10.9,
@@ -106,18 +120,17 @@
    "score": 94.2
   },
   {
-   "name": "밀락더마켓",
-   "category": "travel",
-   "distance_km": 5.5,
-   "lat": 35.1542200827,
-   "lng": 129.1270373527,
-   "address": "부산광역시 수영구 민락수변로17번길 56",
+   "name": "어밤부",
+   "category": "restaurant",
+   "distance_km": 11.0,
+   "lat": 35.1737141,
+   "lng": 129.196609,
+   "address": "부산광역시 해운대구 송정광어골로 87 한림빌딩 1층",
    "reasons": [
-    "5.5 km",
-    "맑아서 야외",
+    "11.0 km",
     "최근 확인"
    ],
-   "score": 94.9
+   "score": 89.3
   },
   {
    "name": "흰여울문화마을",
@@ -131,19 +144,6 @@
     "지금 영업 중"
    ],
    "score": 90.8
-  },
-  {
-   "name": "원시학",
-   "category": "restaurant",
-   "distance_km": 7.7,
-   "lat": 35.166279066,
-   "lng": 129.1583939802,
-   "address": "부산광역시 해운대구 우동1로20번가길 31 (우동)",
-   "reasons": [
-    "7.7 km",
-    "최근 확인"
-   ],
-   "score": 85.7
   }
  ],
  "links": []

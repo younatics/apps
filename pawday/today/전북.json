@@ -50,19 +50,6 @@
    "score": 104.0
   },
   {
-   "name": "롯데백화점 전주점",
-   "category": "restaurant",
-   "distance_km": 2.6,
-   "lat": 35.8344588976618,
-   "lng": 127.121908184239,
-   "address": "전북특별자치도 전주시 완산구 온고을로 2 (서신동)",
-   "reasons": [
-    "2.6 km",
-    "최근 확인"
-   ],
-   "score": 102.8
-  },
-  {
    "name": "백로공원",
    "category": "park",
    "distance_km": 4.3,
@@ -103,19 +90,6 @@
    "score": 95.7
   },
   {
-   "name": "라이프워크 메가스토어 전주점",
-   "category": "restaurant",
-   "distance_km": 0.7,
-   "lat": 35.8203298453882,
-   "lng": 127.142032573007,
-   "address": "전북특별자치도 전주시 완산구 전주객사3길 72 (고사동)",
-   "reasons": [
-    "0.7 km",
-    "최근 확인"
-   ],
-   "score": 100.3
-  },
-  {
    "name": "한국전통문화전당",
    "category": "culture",
    "distance_km": 0.4,
@@ -137,6 +111,19 @@
    "address": "전라북도 완주군 상관면 월암길 30-42",
    "reasons": [
     "7.3 km",
+    "최근 확인"
+   ],
+   "score": 89.9
+  },
+  {
+   "name": "전주공예품전시관",
+   "category": "culture",
+   "distance_km": 1.2,
+   "lat": 35.8143573257916,
+   "lng": 127.153084664656,
+   "address": "전북특별자치도 전주시 완산구 태조로 15 (교동)",
+   "reasons": [
+    "1.2 km",
     "최근 확인"
    ],
    "score": 89.9
