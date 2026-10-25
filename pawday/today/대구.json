@@ -1,25 +1,38 @@
 {
  "province": "대구",
  "date": "2026-10-25",
- "walk_index": 60,
+ "walk_index": 100,
  "reasons": [
-  "강수 확률 60%",
-  "비 예보"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "대구",
   "date": "2026-10-25",
-  "temp_max": 19.0,
+  "temp_max": 18.0,
   "temp_min": 17.0,
-  "rain_prob_max": 60,
-  "precip_type": "비",
+  "rain_prob_max": 30,
+  "precip_type": "",
   "sky": "흐림",
-  "wind_max": 2.4,
-  "pm10": 8.0,
-  "pm25": 5.0,
-  "fetched_at": "2026-10-25T19:37+09:00"
+  "wind_max": 2.1,
+  "pm10": 7.0,
+  "pm25": 6.0,
+  "fetched_at": "2026-10-25T20:37+09:00"
  },
  "picks": [
+  {
+   "name": "수성유원지",
+   "category": "travel",
+   "distance_km": 4.9,
+   "lat": 35.82929006,
+   "lng": 128.618108,
+   "address": "",
+   "reasons": [
+    "4.9 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 98.8
+  },
   {
    "name": "말랑캣고양이카페",
    "category": "cafe",
@@ -30,24 +43,23 @@
    "reasons": [
     "0.7 km",
     "지금 영업 중",
-    "실내",
     "최근 확인"
    ],
-   "score": 100.0
+   "score": 97.8
   },
   {
-   "name": "바람구름",
-   "category": "cafe",
-   "distance_km": 2.0,
-   "lat": 35.85367944,
-   "lng": 128.604812,
-   "address": "대구광역시 남구 명덕로64길 26",
+   "name": "앞산공원",
+   "category": "park",
+   "distance_km": 5.6,
+   "lat": 35.82248314,
+   "lng": 128.585483,
+   "address": "대구광역시 남구 앞산순환로 574-116",
    "reasons": [
-    "2.0 km",
+    "5.6 km",
     "지금 영업 중",
-    "실내"
+    "맑아서 야외"
    ],
-   "score": 98.8
+   "score": 95.0
   },
   {
    "name": "국채보상운동기념관",
@@ -60,48 +72,49 @@
     "0.2 km",
     "최근 확인"
    ],
-   "score": 93.4
+   "score": 97.5
   },
   {
-   "name": "스테이원향",
-   "category": "lodging",
-   "distance_km": 1.9,
-   "lat": 35.85426304,
-   "lng": 128.599568,
-   "address": "대구광역시 남구 이천로28길 27-2",
-   "reasons": [
-    "1.9 km",
-    "소형/중형",
-    "실내"
-   ],
-   "score": 87.4
-  },
-  {
-   "name": "수성유원지",
+   "name": "동촌유원지",
    "category": "travel",
-   "distance_km": 4.9,
-   "lat": 35.82929006,
-   "lng": 128.618108,
-   "address": "",
+   "distance_km": 4.6,
+   "lat": 35.8825752,
+   "lng": 128.6506105,
+   "address": "대구광역시 동구 효목동 산 234-29",
    "reasons": [
-    "4.9 km",
+    "4.6 km",
+    "전 견종 동반 가능",
+    "맑아서 야외",
+    "최근 확인"
+   ],
+   "score": 98.4
+  },
+  {
+   "name": "바람구름",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.85367944,
+   "lng": 128.604812,
+   "address": "대구광역시 남구 명덕로64길 26",
+   "reasons": [
+    "2.0 km",
     "지금 영업 중"
    ],
-   "score": 84.1
+   "score": 96.6
   },
   {
-   "name": "두류공원",
+   "name": "비밀정원 대구동성로점",
    "category": "park",
-   "distance_km": 4.5,
-   "lat": 35.85089685,
-   "lng": 128.558791,
-   "address": "대구광역시 달서구 공원순환로 36",
+   "distance_km": 0.5,
+   "lat": 35.8681770088525,
+   "lng": 128.598292225157,
+   "address": "대구광역시 중구 동성로3길 64 (공평동) 1층",
    "reasons": [
-    "4.5 km",
-    "지금 영업 중",
-    "소형/중형"
+    "0.5 km",
+    "맑아서 야외",
+    "최근 확인"
    ],
-   "score": 82.2
+   "score": 95.9
   },
   {
    "name": "대구교육박물관",
@@ -114,7 +127,7 @@
     "3.0 km",
     "최근 확인"
    ],
-   "score": 85.1
+   "score": 88.7
   },
   {
    "name": "히로텔",
@@ -127,34 +140,20 @@
     "0.2 km",
     "최근 확인"
    ],
-   "score": 84.4
+   "score": 86.0
   },
   {
-   "name": "동촌유원지",
-   "category": "travel",
-   "distance_km": 4.6,
-   "lat": 35.8825752,
-   "lng": 128.6506105,
-   "address": "대구광역시 동구 효목동 산 234-29",
+   "name": "캠프다운",
+   "category": "restaurant",
+   "distance_km": 14.8,
+   "lat": 35.8271252444725,
+   "lng": 128.446550603486,
+   "address": "경상북도 고령군 다산면 좌학길 106 2동 캠프다운",
    "reasons": [
-    "4.6 km",
-    "전 견종 동반 가능",
+    "14.8 km",
     "최근 확인"
    ],
-   "score": 83.9
-  },
-  {
-   "name": "앞산공원",
-   "category": "park",
-   "distance_km": 5.6,
-   "lat": 35.82248314,
-   "lng": 128.585483,
-   "address": "대구광역시 남구 앞산순환로 574-116",
-   "reasons": [
-    "5.6 km",
-    "지금 영업 중"
-   ],
-   "score": 81.9
+   "score": 79.6
   }
  ],
  "links": []

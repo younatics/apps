@@ -8,15 +8,15 @@
  "conditions": {
   "province": "경북",
   "date": "2026-10-25",
-  "temp_max": 18.0,
+  "temp_max": 16.0,
   "temp_min": 16.0,
   "rain_prob_max": 30,
   "precip_type": "",
   "sky": "흐림",
-  "wind_max": 3.5,
-  "pm10": 10.0,
-  "pm25": 5.0,
-  "fetched_at": "2026-10-25T19:37+09:00"
+  "wind_max": 3.1,
+  "pm10": 14.0,
+  "pm25": 7.0,
+  "fetched_at": "2026-10-25T20:37+09:00"
  },
  "picks": [
   {
@@ -32,7 +32,7 @@
     "맑아서 야외",
     "최근 확인"
    ],
-   "score": 89.8
+   "score": 91.2
   },
   {
    "name": "안동 하회마을 [유네스코 세계유산]",
@@ -46,34 +46,33 @@
     "맑아서 야외",
     "최근 확인"
    ],
-   "score": 88.5
+   "score": 90.4
   },
   {
-   "name": "미스터멍",
-   "category": "cafe",
-   "distance_km": 22.3,
-   "lat": 36.54828656,
-   "lng": 128.753412,
-   "address": "경상북도 안동시 강남로 492",
+   "name": "덕용재4.9",
+   "category": "lodging",
+   "distance_km": 15.5,
+   "lat": 36.6918174421,
+   "lng": 128.4096697675,
+   "address": "경상북도 예천군 용문면 금당실길 78-1",
    "reasons": [
-    "22.3 km",
-    "지금 영업 중",
+    "15.5 km",
     "최근 확인"
    ],
-   "score": 78.5
+   "score": 72.4
   },
   {
-   "name": "용문사성보유물관",
-   "category": "culture",
-   "distance_km": 21.1,
-   "lat": 36.73150562,
-   "lng": 128.370525,
-   "address": "경상북도 예천군 용문면 용문사길 285-30",
+   "name": "게스트하우스 play at home(플레이앳홈)",
+   "category": "lodging",
+   "distance_km": 19.3,
+   "lat": 36.5672736337,
+   "lng": 128.7215095058,
+   "address": "경상북도 안동시 금곡길 21-8 (금곡동)",
    "reasons": [
-    "21.1 km",
+    "19.3 km",
     "최근 확인"
    ],
-   "score": 71.2
+   "score": 75.0
   },
   {
    "name": "낙강물길공원",
@@ -87,33 +86,20 @@
     "맑아서 야외",
     "최근 확인"
    ],
-   "score": 72.7
+   "score": 73.3
   },
   {
-   "name": "게스트하우스 play at home(플레이앳홈)",
-   "category": "lodging",
-   "distance_km": 19.3,
-   "lat": 36.5672736337,
-   "lng": 128.7215095058,
-   "address": "경상북도 안동시 금곡길 21-8 (금곡동)",
+   "name": "용문사성보유물관",
+   "category": "culture",
+   "distance_km": 21.1,
+   "lat": 36.73150562,
+   "lng": 128.370525,
+   "address": "경상북도 예천군 용문면 용문사길 285-30",
    "reasons": [
-    "19.3 km",
+    "21.1 km",
     "최근 확인"
    ],
-   "score": 72.4
-  },
-  {
-   "name": "덕용재4.9",
-   "category": "lodging",
-   "distance_km": 15.5,
-   "lat": 36.6918174421,
-   "lng": 128.4096697675,
-   "address": "경상북도 예천군 용문면 금당실길 78-1",
-   "reasons": [
-    "15.5 km",
-    "최근 확인"
-   ],
-   "score": 70.8
+   "score": 71.5
   }
  ],
  "links": []
