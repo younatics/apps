@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 2.3,
-  "pm10": 16.0,
-  "pm25": 9.0,
-  "fetched_at": "2026-10-25T20:37+09:00"
+  "pm10": 13.0,
+  "pm25": 6.0,
+  "fetched_at": "2026-10-25T21:37+09:00"
  },
  "picks": [
   {
@@ -77,19 +77,6 @@
    "score": 92.8
   },
   {
-   "name": "똥꼬냥",
-   "category": "cafe",
-   "distance_km": 6.3,
-   "lat": 36.60221231,
-   "lng": 126.67152,
-   "address": "충청남도 홍성군 홍성읍 의사로 54",
-   "reasons": [
-    "6.3 km",
-    "지금 영업 중"
-   ],
-   "score": 89.2
-  },
-  {
    "name": "서산휴게소 반려견놀이터",
    "category": "playground",
    "distance_km": 13.4,
@@ -115,19 +102,6 @@
     "8.0 km"
    ],
    "score": 83.1
-  },
-  {
-   "name": "스퀘어독스 서산점",
-   "category": "cafe",
-   "distance_km": 23.4,
-   "lat": 36.76198508,
-   "lng": 126.444495,
-   "address": "충청남도 서산시 양열로 291",
-   "reasons": [
-    "23.4 km",
-    "지금 영업 중"
-   ],
-   "score": 81.7
   },
   {
    "name": "펜션앤호텔뷰",
