@@ -102,33 +102,6 @@
    "score": 104.8
   },
   {
-   "name": "38도씨식당",
-   "category": "restaurant",
-   "distance_km": 21.7,
-   "lat": 37.54942988,
-   "lng": 126.921615,
-   "address": "서울특별시 마포구 와우산로17길 19-17",
-   "reasons": [
-    "21.7 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 105.4
-  },
-  {
-   "name": "동화마을 카페오즈 원피스카페",
-   "category": "cafe",
-   "distance_km": 7.9,
-   "lat": 37.4784086,
-   "lng": 126.61984799999999,
-   "address": "인천광역시 중구 11-93",
-   "reasons": [
-    "7.9 km",
-    "최근 확인"
-   ],
-   "score": 95.6
-  },
-  {
    "name": "럭키차이나 LUCKYCHINA",
    "category": "restaurant",
    "distance_km": 7.9,
@@ -155,6 +128,34 @@
     "요즘 많이 찾는"
    ],
    "score": 98.0
+  },
+  {
+   "name": "동화마을 카페오즈 원피스카페",
+   "category": "cafe",
+   "distance_km": 7.9,
+   "lat": 37.4784086,
+   "lng": 126.61984799999999,
+   "address": "인천광역시 중구 11-93",
+   "reasons": [
+    "7.9 km",
+    "최근 확인"
+   ],
+   "score": 95.6
+  },
+  {
+   "name": "목구멍 홍대입구역점",
+   "category": "restaurant",
+   "distance_km": 22.0,
+   "lat": 37.5567791,
+   "lng": 126.9204804,
+   "address": "서울특별시 마포구 월드컵북로4길 8 1층",
+   "reasons": [
+    "22.0 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 많이 찾는"
+   ],
+   "score": 93.8
   }
  ],
  "links": []
