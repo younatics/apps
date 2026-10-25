@@ -69,6 +69,33 @@
    "score": 104.5
   },
   {
+   "name": "고목",
+   "category": "restaurant",
+   "distance_km": 20.6,
+   "lat": 37.7900602644,
+   "lng": 127.5260837699,
+   "address": "강원특별자치도 춘천시 남산면 남이섬길 1 남이섬 내 중앙잣나무길 중간",
+   "reasons": [
+    "20.6 km",
+    "최근 확인",
+    "교차 확인됨"
+   ],
+   "score": 92.9
+  },
+  {
+   "name": "카페드220볼트",
+   "category": "cafe",
+   "distance_km": 5.5,
+   "lat": 37.85697561,
+   "lng": 127.7837723,
+   "address": "강원 춘천시 동내면 금촌로 107-27",
+   "reasons": [
+    "5.5 km",
+    "요즘 많이 찾는"
+   ],
+   "score": 94.0
+  },
+  {
    "name": "춘천시립도서관(장난감도서관)",
    "category": "culture",
    "distance_km": 3.1,
@@ -82,19 +109,6 @@
    "score": 88.1
   },
   {
-   "name": "고목",
-   "category": "restaurant",
-   "distance_km": 20.6,
-   "lat": 37.7900602644,
-   "lng": 127.5260837699,
-   "address": "강원특별자치도 춘천시 남산면 남이섬길 1 남이섬 내 중앙잣나무길 중간",
-   "reasons": [
-    "20.6 km",
-    "최근 확인"
-   ],
-   "score": 83.9
-  },
-  {
    "name": "수한예",
    "category": "lodging",
    "distance_km": 3.4,
@@ -105,18 +119,6 @@
     "3.4 km"
    ],
    "score": 83.6
-  },
-  {
-   "name": "카페드220볼트",
-   "category": "cafe",
-   "distance_km": 5.5,
-   "lat": 37.85697561,
-   "lng": 127.7837723,
-   "address": "강원 춘천시 동내면 금촌로 107-27",
-   "reasons": [
-    "5.5 km"
-   ],
-   "score": 84.0
   },
   {
    "name": "해원의 작은집",
@@ -139,9 +141,10 @@
    "address": "강원특별자치도 춘천시 남산면 남이섬길 1",
    "reasons": [
     "20.6 km",
-    "최근 확인"
+    "최근 확인",
+    "요즘 많이 찾는"
    ],
-   "score": 75.6
+   "score": 82.7
   }
  ],
  "links": []
