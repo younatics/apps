@@ -51,19 +51,6 @@
    "score": 95.4
   },
   {
-   "name": "오리진",
-   "category": "cafe",
-   "distance_km": 3.9,
-   "lat": 34.79425917,
-   "lng": 126.429195,
-   "address": "전라남도 목포시 미항로 75",
-   "reasons": [
-    "3.9 km",
-    "지금 영업 중"
-   ],
-   "score": 92.0
-  },
-  {
    "name": "패션갤러리 롯데아울렛 남악점",
    "category": "culture",
    "distance_km": 1.4,
