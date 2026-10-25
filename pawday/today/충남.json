@@ -1,0 +1,147 @@
+{
+ "province": "충남",
+ "date": "2026-10-25",
+ "walk_index": 100,
+ "reasons": [
+  "산책하기 좋은 날"
+ ],
+ "conditions": {
+  "province": "충남",
+  "date": "2026-10-25",
+  "temp_max": 19.0,
+  "temp_min": 16.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 2.4,
+  "pm10": 18.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "개심사",
+   "category": "travel",
+   "distance_km": 12.3,
+   "lat": 36.74690048,
+   "lng": 126.589969,
+   "address": "충청남도 서산시 운산면 개심사로 321-86",
+   "reasons": [
+    "12.3 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천"
+   ],
+   "score": 108.2
+  },
+  {
+   "name": "홍예공원",
+   "category": "park",
+   "distance_km": 0.8,
+   "lat": 36.65456194,
+   "lng": 126.665506,
+   "address": "충청남도 홍성군 홍북읍 홍예공원로 38",
+   "reasons": [
+    "0.8 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 93.4
+  },
+  {
+   "name": "애향공원",
+   "category": "park",
+   "distance_km": 0.9,
+   "lat": 36.66190273,
+   "lng": 126.682327,
+   "address": "충청남도 예산군 삽교읍 애향11길 8",
+   "reasons": [
+    "0.9 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 93.2
+  },
+  {
+   "name": "여하정",
+   "category": "travel",
+   "distance_km": 6.7,
+   "lat": 36.59917903,
+   "lng": 126.661615,
+   "address": "",
+   "reasons": [
+    "6.7 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 91.7
+  },
+  {
+   "name": "빙고 애견카페",
+   "category": "cafe",
+   "distance_km": 4.6,
+   "lat": 36.61821859,
+   "lng": 126.663931,
+   "address": "충청남도 홍성군 홍성읍 도청대로 149",
+   "reasons": [
+    "4.6 km",
+    "지금 영업 중"
+   ],
+   "score": 89.3
+  },
+  {
+   "name": "똥꼬냥",
+   "category": "cafe",
+   "distance_km": 6.3,
+   "lat": 36.60221231,
+   "lng": 126.67152,
+   "address": "충청남도 홍성군 홍성읍 의사로 54",
+   "reasons": [
+    "6.3 km",
+    "지금 영업 중"
+   ],
+   "score": 87.6
+  },
+  {
+   "name": "서산휴게소 반려견놀이터",
+   "category": "playground",
+   "distance_km": 13.4,
+   "lat": 36.74290504,
+   "lng": 126.565021,
+   "address": "충청남도 서산시 해미면 서해안고속도로 241",
+   "reasons": [
+    "13.4 km",
+    "지금 영업 중",
+    "소형/중형",
+    "맑아서 야외"
+   ],
+   "score": 81.8
+  },
+  {
+   "name": "돌꽃펜션",
+   "category": "lodging",
+   "distance_km": 8.0,
+   "lat": 36.67489159,
+   "lng": 126.585267,
+   "address": "충청남도 서산시 해미면 한티2길 36-4",
+   "reasons": [
+    "8.0 km"
+   ],
+   "score": 80.1
+  },
+  {
+   "name": "펜션앤호텔뷰",
+   "category": "lodging",
+   "distance_km": 24.2,
+   "lat": 36.50344382,
+   "lng": 126.483204,
+   "address": "충청남도 보령시 천북면 홍보로 1061-175",
+   "reasons": [
+    "24.2 km",
+    "소형/중형"
+   ],
+   "score": 65.2
+  }
+ ],
+ "links": []
+}

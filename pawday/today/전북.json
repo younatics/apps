@@ -1,0 +1,159 @@
+{
+ "province": "전북",
+ "date": "2026-10-25",
+ "walk_index": 100,
+ "reasons": [
+  "산책하기 좋은 날"
+ ],
+ "conditions": {
+  "province": "전북",
+  "date": "2026-10-25",
+  "temp_max": 19.0,
+  "temp_min": 17.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "구름많음",
+  "wind_max": 1.8,
+  "pm10": 18.0,
+  "pm25": 11.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "전주월드컵경기장",
+   "category": "travel",
+   "distance_km": 9.0,
+   "lat": 35.86808385,
+   "lng": 127.064503,
+   "address": "전라북도 전주시 덕진구 기린대로 1055",
+   "reasons": [
+    "9.0 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천"
+   ],
+   "score": 110.8
+  },
+  {
+   "name": "인후공원 유아숲체험원",
+   "category": "park",
+   "distance_km": 2.1,
+   "lat": 35.84104399,
+   "lng": 127.158143,
+   "address": "",
+   "reasons": [
+    "2.1 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 96.4
+  },
+  {
+   "name": "완산칠봉꽃동산",
+   "category": "travel",
+   "distance_km": 1.7,
+   "lat": 35.80856634,
+   "lng": 127.14674,
+   "address": "",
+   "reasons": [
+    "1.7 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 96.8
+  },
+  {
+   "name": "효자공원",
+   "category": "park",
+   "distance_km": 2.9,
+   "lat": 35.81104873,
+   "lng": 127.120151,
+   "address": "전라북도 전주시 완산구 서원로 238",
+   "reasons": [
+    "2.9 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 95.5
+  },
+  {
+   "name": "전주반려동물놀이터 같이가개",
+   "category": "playground",
+   "distance_km": 6.9,
+   "lat": 35.86752188,
+   "lng": 127.092441,
+   "address": "",
+   "reasons": [
+    "6.9 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 87.0
+  },
+  {
+   "name": "엠픽 전주점",
+   "category": "restaurant",
+   "distance_km": 0.7,
+   "lat": 35.8188705626325,
+   "lng": 127.144646453598,
+   "address": "전북특별자치도 전주시 완산구 전주객사4길 24-14 (고사동)",
+   "reasons": [
+    "0.7 km",
+    "최근 확인"
+   ],
+   "score": 88.8
+  },
+  {
+   "name": "전망 카페",
+   "category": "cafe",
+   "distance_km": 1.0,
+   "lat": 35.81636288,
+   "lng": 127.154015,
+   "address": "전라북도 전주시 완산구 한지길 89",
+   "reasons": [
+    "1.0 km",
+    "지금 영업 중"
+   ],
+   "score": 88.6
+  },
+  {
+   "name": "전주사연생태박물관",
+   "category": "culture",
+   "distance_km": 1.9,
+   "lat": 35.81159258,
+   "lng": 127.162587,
+   "address": "전라북도 전주시 완산구 바람쐬는길 21",
+   "reasons": [
+    "1.9 km",
+    "지금 영업 중"
+   ],
+   "score": 87.6
+  },
+  {
+   "name": "벼리채",
+   "category": "lodging",
+   "distance_km": 1.8,
+   "lat": 35.80848953,
+   "lng": 127.151771,
+   "address": "전라북도 전주시 완산구 서학3길 67",
+   "reasons": [
+    "1.8 km"
+   ],
+   "score": 86.2
+  },
+  {
+   "name": "에잇세컨즈 전주점",
+   "category": "restaurant",
+   "distance_km": 0.7,
+   "lat": 35.8189832843297,
+   "lng": 127.143992454183,
+   "address": "전북특별자치도 전주시 완산구 전주객사4길 26 (고사동)",
+   "reasons": [
+    "0.7 km",
+    "최근 확인"
+   ],
+   "score": 88.8
+  }
+ ],
+ "links": []
+}

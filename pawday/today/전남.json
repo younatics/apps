@@ -1,0 +1,145 @@
+{
+ "province": "전남",
+ "date": "2026-10-25",
+ "walk_index": 60,
+ "reasons": [
+  "강수 확률 60%",
+  "비 예보"
+ ],
+ "conditions": {
+  "province": "전남",
+  "date": "2026-10-25",
+  "temp_max": 18.0,
+  "temp_min": 17.0,
+  "rain_prob_max": 60,
+  "precip_type": "비",
+  "sky": "흐림",
+  "wind_max": 1.6,
+  "pm10": 7.0,
+  "pm25": 5.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "유달산",
+   "category": "travel",
+   "distance_km": 8.7,
+   "lat": 34.7942397,
+   "lng": 126.371353,
+   "address": "",
+   "reasons": [
+    "8.7 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 99.0
+  },
+  {
+   "name": "온스",
+   "category": "cafe",
+   "distance_km": 3.2,
+   "lat": 34.79743583,
+   "lng": 126.435759,
+   "address": "전라남도 목포시 미항로 145",
+   "reasons": [
+    "3.2 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 90.7
+  },
+  {
+   "name": "패션갤러리 롯데아울렛 남악점",
+   "category": "culture",
+   "distance_km": 1.4,
+   "lat": 34.8036160875165,
+   "lng": 126.464690943532,
+   "address": "전남광주통합특별시 무안군 삼향읍 남악로162번길 80 1층",
+   "reasons": [
+    "1.4 km",
+    "최근 확인"
+   ],
+   "score": 82.9
+  },
+  {
+   "name": "1974유달동미스박",
+   "category": "cafe",
+   "distance_km": 3.7,
+   "lat": 34.80393238,
+   "lng": 126.425756,
+   "address": "전라남도 목포시 비파로 61",
+   "reasons": [
+    "3.7 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 90.2
+  },
+  {
+   "name": "수변공원",
+   "category": "park",
+   "distance_km": 1.7,
+   "lat": 34.80126213,
+   "lng": 126.460434,
+   "address": "",
+   "reasons": [
+    "1.7 km",
+    "지금 영업 중"
+   ],
+   "score": 80.4
+  },
+  {
+   "name": "무안 동이트는집",
+   "category": "lodging",
+   "distance_km": 5.6,
+   "lat": 34.80345788,
+   "lng": 126.522759,
+   "address": "전라남도 무안군 일로읍 일로로 753-111",
+   "reasons": [
+    "5.6 km",
+    "실내"
+   ],
+   "score": 82.2
+  },
+  {
+   "name": "장미의거리",
+   "category": "travel",
+   "distance_km": 3.7,
+   "lat": 34.80222876,
+   "lng": 126.42576,
+   "address": "전라남도 목포시 장미로 40",
+   "reasons": [
+    "3.7 km",
+    "지금 영업 중"
+   ],
+   "score": 82.6
+  },
+  {
+   "name": "옥암수변공원",
+   "category": "park",
+   "distance_km": 2.2,
+   "lat": 34.80230385,
+   "lng": 126.445983,
+   "address": "전라남도 목포시 남악로58번길 18",
+   "reasons": [
+    "2.2 km",
+    "지금 영업 중"
+   ],
+   "score": 79.8
+  },
+  {
+   "name": "주식회사 더 오래뜰(게스트하우스 오래뜰)",
+   "category": "lodging",
+   "distance_km": 8.1,
+   "lat": 34.7943501009,
+   "lng": 126.3782306228,
+   "address": "전남광주통합특별시 목포시 북교길 27 (북교동)",
+   "reasons": [
+    "8.1 km",
+    "최근 확인"
+   ],
+   "score": 76.2
+  }
+ ],
+ "links": []
+}

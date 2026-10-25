@@ -1,0 +1,165 @@
+{
+ "province": "세종",
+ "date": "2026-10-25",
+ "walk_index": 100,
+ "reasons": [
+  "산책하기 좋은 날"
+ ],
+ "conditions": {
+  "province": "세종",
+  "date": "2026-10-25",
+  "temp_max": 17.0,
+  "temp_min": 16.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "흐림",
+  "wind_max": 2.4,
+  "pm10": 16.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "유림공원",
+   "category": "park",
+   "distance_km": 14.6,
+   "lat": 36.3607306283,
+   "lng": 127.3577063021,
+   "address": "대전광역시 유성구 어은로 27",
+   "reasons": [
+    "14.6 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "최근 확인",
+    "댕오늘 추천"
+   ],
+   "score": 110.7
+  },
+  {
+   "name": "정부대전청사자연마당",
+   "category": "travel",
+   "distance_km": 16.0,
+   "lat": 36.3588,
+   "lng": 127.385,
+   "address": "대전광역시 서구 둔산동 930",
+   "reasons": [
+    "16.0 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "최근 확인",
+    "댕오늘 추천"
+   ],
+   "score": 109.8
+  },
+  {
+   "name": "청남대",
+   "category": "travel",
+   "distance_km": 18.1,
+   "lat": 36.4622489,
+   "lng": 127.490095,
+   "address": "충청북도 청주시 상당구 문의면 청남대길 646",
+   "reasons": [
+    "18.1 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천"
+   ],
+   "score": 104.4
+  },
+  {
+   "name": "레인바우",
+   "category": "cafe",
+   "distance_km": 3.0,
+   "lat": 36.4896483,
+   "lng": 127.25785,
+   "address": "세종특별자치시 나성북로 9",
+   "reasons": [
+    "3.0 km",
+    "지금 영업 중",
+    "소형/중형"
+   ],
+   "score": 90.9
+  },
+  {
+   "name": "고래들근린공원",
+   "category": "park",
+   "distance_km": 10.6,
+   "lat": 36.3865439,
+   "lng": 127.30993,
+   "address": "",
+   "reasons": [
+    "10.6 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 88.5
+  },
+  {
+   "name": "개인공간",
+   "category": "cafe",
+   "distance_km": 11.9,
+   "lat": 36.39024444,
+   "lng": 127.217441,
+   "address": "충청남도 공주시 반포면 도예촌길 74-13",
+   "reasons": [
+    "11.9 km",
+    "지금 영업 중",
+    "최근 확인"
+   ],
+   "score": 87.2
+  },
+  {
+   "name": "충청남도산림박물관",
+   "category": "culture",
+   "distance_km": 6.9,
+   "lat": 36.43769938,
+   "lng": 127.232743,
+   "address": "세종특별자치시 금남면 산림박물관길 110",
+   "reasons": [
+    "6.9 km",
+    "최근 확인"
+   ],
+   "score": 80.8
+  },
+  {
+   "name": "신탄진휴게소 반려견놀이터",
+   "category": "playground",
+   "distance_km": 13.1,
+   "lat": 36.42560177,
+   "lng": 127.418666,
+   "address": "대전광역시 대덕구 덕암로 51",
+   "reasons": [
+    "13.1 km",
+    "맑아서 야외"
+   ],
+   "score": 76.1
+  },
+  {
+   "name": "롯데하이마트 공주점",
+   "category": "restaurant",
+   "distance_km": 13.9,
+   "lat": 36.4725431742424,
+   "lng": 127.133750421785,
+   "address": "충청남도 공주시 번영1로 51 (신관동)",
+   "reasons": [
+    "13.9 km",
+    "최근 확인"
+   ],
+   "score": 76.8
+  },
+  {
+   "name": "학림재",
+   "category": "lodging",
+   "distance_km": 11.9,
+   "lat": 36.5510558482,
+   "lng": 127.1899356188,
+   "address": "세종특별자치시 장군면 태산길 75-3",
+   "reasons": [
+    "11.9 km",
+    "최근 확인"
+   ],
+   "score": 71.7
+  }
+ ],
+ "links": []
+}

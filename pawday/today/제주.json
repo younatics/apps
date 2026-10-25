@@ -1,0 +1,161 @@
+{
+ "province": "제주",
+ "date": "2026-10-25",
+ "walk_index": 60,
+ "reasons": [
+  "강수 확률 60%",
+  "비 예보"
+ ],
+ "conditions": {
+  "province": "제주",
+  "date": "2026-10-25",
+  "temp_max": 21.0,
+  "temp_min": 21.0,
+  "rain_prob_max": 60,
+  "precip_type": "비",
+  "sky": "흐림",
+  "wind_max": 8.0,
+  "pm10": 6.0,
+  "pm25": 3.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "퍼펫 애견카페",
+   "category": "cafe",
+   "distance_km": 0.3,
+   "lat": 33.50107202,
+   "lng": 126.528469,
+   "address": "제주특별자치도 제주시 중앙로 204",
+   "reasons": [
+    "0.3 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 93.9
+  },
+  {
+   "name": "미악산",
+   "category": "travel",
+   "distance_km": 22.2,
+   "lat": 33.30056466,
+   "lng": 126.554208,
+   "address": "제주특별자치도 서귀포시 인정오름로 387-63",
+   "reasons": [
+    "22.2 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 90.1
+  },
+  {
+   "name": "한섬 FX 마인 더캐시미어 제주점",
+   "category": "restaurant",
+   "distance_km": 5.4,
+   "lat": 33.4698115556,
+   "lng": 126.4853321892,
+   "address": "제주특별자치도 제주시 1100로 3178 (노형동)",
+   "reasons": [
+    "5.4 km",
+    "최근 확인"
+   ],
+   "score": 87.3
+  },
+  {
+   "name": "펫다방",
+   "category": "cafe",
+   "distance_km": 5.0,
+   "lat": 33.48326033,
+   "lng": 126.481067,
+   "address": "제주특별자치도 제주시 1100로 3328",
+   "reasons": [
+    "5.0 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 88.9
+  },
+  {
+   "name": "스누피가든",
+   "category": "travel",
+   "distance_km": 23.8,
+   "lat": 33.4433716489,
+   "lng": 126.7786050101,
+   "address": "제주특별자치도 제주시 구좌읍 금백조로 930",
+   "reasons": [
+    "23.8 km",
+    "실내",
+    "최근 확인"
+   ],
+   "score": 84.6
+  },
+  {
+   "name": "문화공간 휴",
+   "category": "culture",
+   "distance_km": 1.8,
+   "lat": 33.5149626717876,
+   "lng": 126.524228396162,
+   "address": "제주특별자치도 제주시 중앙로8길 2 (일도일동) 1층",
+   "reasons": [
+    "1.8 km",
+    "최근 확인"
+   ],
+   "score": 82.4
+  },
+  {
+   "name": "엠 할리데이 제주점",
+   "category": "restaurant",
+   "distance_km": 1.6,
+   "lat": 33.512837715448,
+   "lng": 126.524440112964,
+   "address": "제주특별자치도 제주시 중앙로 60 (일도일동)",
+   "reasons": [
+    "1.6 km",
+    "최근 확인"
+   ],
+   "score": 86.2
+  },
+  {
+   "name": "수목원테마파크",
+   "category": "park",
+   "distance_km": 5.1,
+   "lat": 33.47065125,
+   "lng": 126.488217,
+   "address": "제주특별자치도 제주시 은수길 69",
+   "reasons": [
+    "5.1 km",
+    "지금 영업 중",
+    "소형/중형"
+   ],
+   "score": 81.2
+  },
+  {
+   "name": "올레낭",
+   "category": "lodging",
+   "distance_km": 15.8,
+   "lat": 33.43484435,
+   "lng": 126.379982,
+   "address": "제주특별자치도 제주시 애월읍 장소로 205",
+   "reasons": [
+    "15.8 km",
+    "실내"
+   ],
+   "score": 78.8
+  },
+  {
+   "name": "김녕해수욕장",
+   "category": "park",
+   "distance_km": 20.1,
+   "lat": 33.5572081368,
+   "lng": 126.7365512139,
+   "address": "제주특별자치도 제주시 구좌읍 구좌해안로 237",
+   "reasons": [
+    "20.1 km",
+    "지금 영업 중",
+    "최근 확인"
+   ],
+   "score": 80.4
+  }
+ ],
+ "links": []
+}

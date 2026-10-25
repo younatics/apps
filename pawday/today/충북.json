@@ -1,0 +1,165 @@
+{
+ "province": "충북",
+ "date": "2026-10-25",
+ "walk_index": 100,
+ "reasons": [
+  "산책하기 좋은 날"
+ ],
+ "conditions": {
+  "province": "충북",
+  "date": "2026-10-25",
+  "temp_max": 18.0,
+  "temp_min": 16.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "흐림",
+  "wind_max": 1.9,
+  "pm10": 11.0,
+  "pm25": 7.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "문암생태공원",
+   "category": "park",
+   "distance_km": 5.1,
+   "lat": 36.6745490433,
+   "lng": 127.4478174154,
+   "address": "충청북도 청주시 흥덕구 문암동 122-2",
+   "reasons": [
+    "5.1 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "최근 확인",
+    "댕오늘 추천"
+   ],
+   "score": 118.4
+  },
+  {
+   "name": "상당산성",
+   "category": "travel",
+   "distance_km": 5.3,
+   "lat": 36.66351734,
+   "lng": 127.542359,
+   "address": "충청북도 청주시 상당구 성내로118번길 1",
+   "reasons": [
+    "5.3 km",
+    "지금 영업 중",
+    "소형/중형",
+    "맑아서 야외",
+    "댕오늘 추천"
+   ],
+   "score": 114.1
+  },
+  {
+   "name": "청남대",
+   "category": "travel",
+   "distance_km": 20.0,
+   "lat": 36.4622489,
+   "lng": 127.490095,
+   "address": "충청북도 청주시 상당구 문의면 청남대길 646",
+   "reasons": [
+    "20.0 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천"
+   ],
+   "score": 103.3
+  },
+  {
+   "name": "운천공원",
+   "category": "park",
+   "distance_km": 1.7,
+   "lat": 36.64284527,
+   "lng": 127.470121,
+   "address": "",
+   "reasons": [
+    "1.7 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 96.8
+  },
+  {
+   "name": "헤이독",
+   "category": "cafe",
+   "distance_km": 1.1,
+   "lat": 36.63246253,
+   "lng": 127.488979,
+   "address": "충청북도 청주시 상당구 성안로 50",
+   "reasons": [
+    "1.1 km",
+    "지금 영업 중"
+   ],
+   "score": 93.0
+  },
+  {
+   "name": "한국공예관",
+   "category": "culture",
+   "distance_km": 1.6,
+   "lat": 36.65619554,
+   "lng": 127.492382,
+   "address": "충청북도 청주시 청원구 상당로 314",
+   "reasons": [
+    "1.6 km",
+    "지금 영업 중",
+    "최근 확인"
+   ],
+   "score": 92.2
+  },
+  {
+   "name": "코닥 청주점",
+   "category": "restaurant",
+   "distance_km": 0.6,
+   "lat": 36.6367227503504,
+   "lng": 127.489317711959,
+   "address": "충청북도 청주시 상당구 성안로 1 (북문로1가) 1층",
+   "reasons": [
+    "0.6 km",
+    "최근 확인"
+   ],
+   "score": 88.9
+  },
+  {
+   "name": "지오다노 청주점",
+   "category": "restaurant",
+   "distance_km": 0.8,
+   "lat": 36.6353988843191,
+   "lng": 127.488861309655,
+   "address": "충청북도 청주시 상당구 성안로 16 (북문로1가) 1층",
+   "reasons": [
+    "0.8 km",
+    "최근 확인"
+   ],
+   "score": 88.7
+  },
+  {
+   "name": "크루몽살롱",
+   "category": "cafe",
+   "distance_km": 1.1,
+   "lat": 36.63624968,
+   "lng": 127.478822,
+   "address": "충청북도 청주시 서원구 사운로 81",
+   "reasons": [
+    "1.1 km",
+    "지금 영업 중"
+   ],
+   "score": 88.5
+  },
+  {
+   "name": "보강천 반려견 놀이터",
+   "category": "playground",
+   "distance_km": 17.5,
+   "lat": 36.78517,
+   "lng": 127.5722,
+   "address": "충청북도 증평군 증평읍 연탄리 225-2",
+   "reasons": [
+    "17.5 km",
+    "맑아서 야외",
+    "최근 확인"
+   ],
+   "score": 72.4
+  }
+ ],
+ "links": []
+}

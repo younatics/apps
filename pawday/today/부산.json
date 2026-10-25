@@ -1,0 +1,160 @@
+{
+ "province": "부산",
+ "date": "2026-10-25",
+ "walk_index": 60,
+ "reasons": [
+  "강수 확률 70%",
+  "비 예보"
+ ],
+ "conditions": {
+  "province": "부산",
+  "date": "2026-10-25",
+  "temp_max": 19.0,
+  "temp_min": 18.0,
+  "rain_prob_max": 70,
+  "precip_type": "비",
+  "sky": "흐림",
+  "wind_max": 5.3,
+  "pm10": 6.0,
+  "pm25": 5.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "부산시민공원",
+   "category": "park",
+   "distance_km": 2.4,
+   "lat": 35.16545511,
+   "lng": 129.055854,
+   "address": "부산광역시 부산진구 시민공원로 73",
+   "reasons": [
+    "2.4 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 105.1
+  },
+  {
+   "name": "부산어린이대공원",
+   "category": "park",
+   "distance_km": 2.6,
+   "lat": 35.18250474,
+   "lng": 129.046693,
+   "address": "부산광역시 부산진구 새싹로 295",
+   "reasons": [
+    "2.6 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 104.8
+  },
+  {
+   "name": "스포독",
+   "category": "cafe",
+   "distance_km": 4.6,
+   "lat": 35.17658669,
+   "lng": 129.12649,
+   "address": "부산광역시 해운대구 센텀동로 102",
+   "reasons": [
+    "4.6 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 93.7
+  },
+  {
+   "name": "냥냥댕댕 카페 수제간식",
+   "category": "cafe",
+   "distance_km": 0.7,
+   "lat": 35.17432988,
+   "lng": 129.072028,
+   "address": "부산광역시 부산진구 중앙대로 947",
+   "reasons": [
+    "0.7 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 93.5
+  },
+  {
+   "name": "감천문화마을",
+   "category": "culture",
+   "distance_km": 10.9,
+   "lat": 35.09686103,
+   "lng": 129.01109,
+   "address": "부산광역시 사하구 옥천로 130",
+   "reasons": [
+    "10.9 km",
+    "지금 영업 중"
+   ],
+   "score": 85.2
+  },
+  {
+   "name": "마이퍼주는집",
+   "category": "restaurant",
+   "distance_km": 10.7,
+   "lat": 35.08372709,
+   "lng": 129.071869,
+   "address": "부산광역시 영도구 동삼로 120",
+   "reasons": [
+    "10.7 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 83.9
+  },
+  {
+   "name": "녹음광장",
+   "category": "travel",
+   "distance_km": 0.1,
+   "lat": 35.17992599,
+   "lng": 129.075095,
+   "address": "부산광역시 연제구 중앙대로 1001",
+   "reasons": [
+    "0.1 km",
+    "지금 영업 중"
+   ],
+   "score": 82.2
+  },
+  {
+   "name": "부산 사직종합운동장 실내체육관 2층",
+   "category": "playground",
+   "distance_km": 2.0,
+   "lat": 35.19231214,
+   "lng": 129.060681,
+   "address": "부산광역시 동래구 사직로 55-32",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중"
+   ],
+   "score": 80.0
+  },
+  {
+   "name": "흰여울문화마을",
+   "category": "culture",
+   "distance_km": 11.5,
+   "lat": 35.07988975,
+   "lng": 129.04354,
+   "address": "부산광역시 영도구 절영로 194",
+   "reasons": [
+    "11.5 km",
+    "지금 영업 중"
+   ],
+   "score": 81.8
+  },
+  {
+   "name": "부산아시아드조각광장",
+   "category": "travel",
+   "distance_km": 1.8,
+   "lat": 35.19277099,
+   "lng": 129.063412,
+   "address": "부산광역시 동래구 종합운동장로 29",
+   "reasons": [
+    "1.8 km",
+    "지금 영업 중"
+   ],
+   "score": 80.2
+  }
+ ],
+ "links": []
+}

@@ -1,0 +1,160 @@
+{
+ "province": "대구",
+ "date": "2026-10-25",
+ "walk_index": 60,
+ "reasons": [
+  "강수 확률 60%",
+  "비 예보"
+ ],
+ "conditions": {
+  "province": "대구",
+  "date": "2026-10-25",
+  "temp_max": 19.0,
+  "temp_min": 17.0,
+  "rain_prob_max": 60,
+  "precip_type": "비",
+  "sky": "흐림",
+  "wind_max": 2.4,
+  "pm10": 6.0,
+  "pm25": 4.0,
+  "fetched_at": "2026-10-25T18:41+09:00"
+ },
+ "picks": [
+  {
+   "name": "힐링독",
+   "category": "cafe",
+   "distance_km": 0.7,
+   "lat": 35.86574447,
+   "lng": 128.597425,
+   "address": "대구광역시 중구 동성로3길 8",
+   "reasons": [
+    "0.7 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 97.9
+  },
+  {
+   "name": "바람구름",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.85367944,
+   "lng": 128.604812,
+   "address": "대구광역시 남구 명덕로64길 26",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중",
+    "실내"
+   ],
+   "score": 96.5
+  },
+  {
+   "name": "국채보상운동기념관",
+   "category": "culture",
+   "distance_km": 0.2,
+   "lat": 35.86930105,
+   "lng": 128.601739,
+   "address": "대구광역시 중구 국채보상로 670",
+   "reasons": [
+    "0.2 km",
+    "최근 확인"
+   ],
+   "score": 90.7
+  },
+  {
+   "name": "스테이원향",
+   "category": "lodging",
+   "distance_km": 1.9,
+   "lat": 35.85426304,
+   "lng": 128.599568,
+   "address": "대구광역시 남구 이천로28길 27-2",
+   "reasons": [
+    "1.9 km",
+    "소형/중형",
+    "실내"
+   ],
+   "score": 86.1
+  },
+  {
+   "name": "두류공원",
+   "category": "park",
+   "distance_km": 4.5,
+   "lat": 35.85089685,
+   "lng": 128.558791,
+   "address": "대구광역시 달서구 공원순환로 36",
+   "reasons": [
+    "4.5 km",
+    "지금 영업 중",
+    "소형/중형"
+   ],
+   "score": 81.9
+  },
+  {
+   "name": "동촌유원지",
+   "category": "travel",
+   "distance_km": 4.6,
+   "lat": 35.8825752,
+   "lng": 128.6506105,
+   "address": "대구광역시 동구 효목동 산 234-29",
+   "reasons": [
+    "4.6 km",
+    "전 견종 동반 가능",
+    "최근 확인"
+   ],
+   "score": 81.5
+  },
+  {
+   "name": "히로텔",
+   "category": "lodging",
+   "distance_km": 0.2,
+   "lat": 35.870084006,
+   "lng": 128.6031119965,
+   "address": "대구광역시 중구 국채보상로 657-12 (동인동2가)",
+   "reasons": [
+    "0.2 km",
+    "최근 확인"
+   ],
+   "score": 84.2
+  },
+  {
+   "name": "대구교육박물관",
+   "category": "culture",
+   "distance_km": 3.0,
+   "lat": 35.8973687,
+   "lng": 128.611838,
+   "address": "대구광역시 북구 대동로1길 40",
+   "reasons": [
+    "3.0 km",
+    "최근 확인"
+   ],
+   "score": 83.1
+  },
+  {
+   "name": "수성유원지",
+   "category": "travel",
+   "distance_km": 4.9,
+   "lat": 35.82929006,
+   "lng": 128.618108,
+   "address": "",
+   "reasons": [
+    "4.9 km",
+    "지금 영업 중"
+   ],
+   "score": 81.4
+  },
+  {
+   "name": "앞산공원",
+   "category": "park",
+   "distance_km": 5.6,
+   "lat": 35.82248314,
+   "lng": 128.585483,
+   "address": "대구광역시 남구 앞산순환로 574-116",
+   "reasons": [
+    "5.6 km",
+    "지금 영업 중"
+   ],
+   "score": 80.8
+  }
+ ],
+ "links": []
+}
