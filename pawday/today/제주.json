@@ -81,6 +81,19 @@
    "score": 95.1
   },
   {
+   "name": "뉴발란스 제주점",
+   "category": "restaurant",
+   "distance_km": 1.7,
+   "lat": 33.5144874595037,
+   "lng": 126.525619570515,
+   "address": "제주특별자치도 제주시 관덕로11길 16 (일도일동)",
+   "reasons": [
+    "1.7 km",
+    "최근 확인"
+   ],
+   "score": 98.7
+  },
+  {
    "name": "문화공간 휴",
    "category": "culture",
    "distance_km": 1.8,
@@ -132,20 +145,6 @@
     "15.8 km"
    ],
    "score": 85.6
-  },
-  {
-   "name": "돌하르방미술관",
-   "category": "culture",
-   "distance_km": 15.3,
-   "lat": 33.5395721737,
-   "lng": 126.689646886,
-   "address": "제주특별자치도 제주시 조천읍 북촌서1길 70",
-   "reasons": [
-    "15.3 km",
-    "전 견종 동반 가능",
-    "최근 확인"
-   ],
-   "score": 86.5
   }
  ],
  "links": []

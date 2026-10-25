@@ -80,6 +80,19 @@
    "score": 99.8
   },
   {
+   "name": "이플러",
+   "category": "cafe",
+   "distance_km": 4.9,
+   "lat": 35.14968451,
+   "lng": 129.114694,
+   "address": "부산광역시 수영구 남천바다로33번길 27",
+   "reasons": [
+    "4.9 km",
+    "지금 영업 중"
+   ],
+   "score": 102.4
+  },
+  {
    "name": "감천문화마을",
    "category": "culture",
    "distance_km": 10.9,
@@ -131,18 +144,6 @@
     "최근 확인"
    ],
    "score": 85.7
-  },
-  {
-   "name": "캔버스 블랙",
-   "category": "lodging",
-   "distance_km": 7.4,
-   "lat": 35.1594102909,
-   "lng": 129.1530057486,
-   "address": "부산광역시 해운대구 해운대해변로197번길 14 (우동)",
-   "reasons": [
-    "7.4 km"
-   ],
-   "score": 84.8
   }
  ],
  "links": []

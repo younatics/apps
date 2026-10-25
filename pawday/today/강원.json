@@ -108,6 +108,18 @@
    "score": 90.5
   },
   {
+   "name": "신북커피",
+   "category": "cafe",
+   "distance_km": 6.9,
+   "lat": 37.9296128,
+   "lng": 127.7788168,
+   "address": "강원 춘천시 신북읍 신샘밭로 622-7 신북커피",
+   "reasons": [
+    "6.9 km"
+   ],
+   "score": 94.6
+  },
+  {
    "name": "수한예",
    "category": "lodging",
    "distance_km": 3.4,
@@ -130,20 +142,6 @@
     "5.8 km"
    ],
    "score": 88.8
-  },
-  {
-   "name": "고목",
-   "category": "restaurant",
-   "distance_km": 20.6,
-   "lat": 37.7900602644,
-   "lng": 127.5260837699,
-   "address": "강원특별자치도 춘천시 남산면 남이섬길 1 남이섬 내 중앙잣나무길 중간",
-   "reasons": [
-    "20.6 km",
-    "최근 확인",
-    "교차 확인됨"
-   ],
-   "score": 85.9
   }
  ],
  "links": []
