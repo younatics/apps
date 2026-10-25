@@ -120,19 +120,6 @@
    "score": 94.2
   },
   {
-   "name": "어밤부",
-   "category": "restaurant",
-   "distance_km": 11.0,
-   "lat": 35.1737141,
-   "lng": 129.196609,
-   "address": "부산광역시 해운대구 송정광어골로 87 한림빌딩 1층",
-   "reasons": [
-    "11.0 km",
-    "최근 확인"
-   ],
-   "score": 89.3
-  },
-  {
    "name": "흰여울문화마을",
    "category": "culture",
    "distance_km": 11.5,
@@ -144,6 +131,19 @@
     "지금 영업 중"
    ],
    "score": 90.8
+  },
+  {
+   "name": "원시학",
+   "category": "restaurant",
+   "distance_km": 7.7,
+   "lat": 35.166279066,
+   "lng": 129.1583939802,
+   "address": "부산광역시 해운대구 우동1로20번가길 31 (우동)",
+   "reasons": [
+    "7.7 km",
+    "최근 확인"
+   ],
+   "score": 85.7
   }
  ],
  "links": []
