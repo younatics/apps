@@ -5,19 +5,7 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "충북",
-  "date": "2026-10-25",
-  "temp_max": 17.0,
-  "temp_min": 16.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
-  "sky": "흐림",
-  "wind_max": 1.7,
-  "pm10": 10.0,
-  "pm25": 5.0,
-  "fetched_at": "2026-10-25T22:37+09:00"
- },
+ "conditions": {},
  "picks": [
   {
    "name": "문암생태공원",
@@ -134,17 +122,17 @@
    "score": 78.7
   },
   {
-   "name": "증평 에듀팜(벨포레 리조트)",
-   "category": "lodging",
-   "distance_km": 24.0,
-   "lat": 36.8451482012,
-   "lng": 127.5821167825,
-   "address": "충청북도 증평군 도안면 벨포레길 346",
+   "name": "로이드 청주점",
+   "category": "restaurant",
+   "distance_km": 0.9,
+   "lat": 36.6342474425224,
+   "lng": 127.489295462937,
+   "address": "충청북도 청주시 상당구 성안로 29 (북문로1가)",
    "reasons": [
-    "24.0 km",
+    "0.9 km",
     "최근 확인"
    ],
-   "score": 72.7
+   "score": 91.1
   }
  ],
  "links": []

@@ -1,25 +1,40 @@
 {
  "province": "경남",
  "date": "2026-10-25",
- "walk_index": 60,
+ "walk_index": 100,
  "reasons": [
-  "강수 확률 60%",
-  "비 예보"
+  "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "경남",
-  "date": "2026-10-25",
-  "temp_max": 18.0,
-  "temp_min": 18.0,
-  "rain_prob_max": 60,
-  "precip_type": "비",
-  "sky": "흐림",
-  "wind_max": 1.9,
-  "pm10": 5.0,
-  "pm25": 2.0,
-  "fetched_at": "2026-10-25T22:37+09:00"
- },
+ "conditions": {},
  "picks": [
+  {
+   "name": "장미공원",
+   "category": "park",
+   "distance_km": 3.4,
+   "lat": 35.20742439,
+   "lng": 128.690275,
+   "address": "경상남도 창원시 성산구 창원대로 927",
+   "reasons": [
+    "3.4 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 98.6
+  },
+  {
+   "name": "습지공원",
+   "category": "park",
+   "distance_km": 3.6,
+   "lat": 35.20583813,
+   "lng": 128.693404,
+   "address": "",
+   "reasons": [
+    "3.6 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 96.5
+  },
   {
    "name": "AT비지니스호텔",
    "category": "lodging",
@@ -31,20 +46,7 @@
     "2.0 km",
     "최근 확인"
    ],
-   "score": 87.9
-  },
-  {
-   "name": "습지공원",
-   "category": "park",
-   "distance_km": 3.6,
-   "lat": 35.20583813,
-   "lng": 128.693404,
-   "address": "",
-   "reasons": [
-    "3.6 km",
-    "지금 영업 중"
-   ],
-   "score": 84.5
+   "score": 89.4
   },
   {
    "name": "성산패총전시관",
@@ -57,20 +59,35 @@
     "3.6 km",
     "최근 확인"
    ],
-   "score": 87.7
+   "score": 89.2
   },
   {
-   "name": "장미공원",
-   "category": "park",
-   "distance_km": 3.4,
-   "lat": 35.20742439,
-   "lng": 128.690275,
-   "address": "경상남도 창원시 성산구 창원대로 927",
+   "name": "무진정",
+   "category": "travel",
+   "distance_km": 24.6,
+   "lat": 35.25541978,
+   "lng": 128.422748,
+   "address": "경상남도 함안군 함안면 괴산4길 25",
    "reasons": [
-    "3.4 km",
-    "지금 영업 중"
+    "24.6 km",
+    "지금 영업 중",
+    "맑아서 야외"
    ],
-   "score": 86.6
+   "score": 85.8
+  },
+  {
+   "name": "여좌천(여좌천로망스다리)",
+   "category": "travel",
+   "distance_km": 9.7,
+   "lat": 35.1551,
+   "lng": 128.6594,
+   "address": "경상남도 창원시 진해구 여좌동 217",
+   "reasons": [
+    "9.7 km",
+    "맑아서 야외",
+    "최근 확인"
+   ],
+   "score": 85.4
   },
   {
    "name": "카페 플랜비",
@@ -83,20 +100,7 @@
     "10.2 km",
     "최근 확인"
    ],
-   "score": 81.0
-  },
-  {
-   "name": "무진정",
-   "category": "travel",
-   "distance_km": 24.6,
-   "lat": 35.25541978,
-   "lng": 128.422748,
-   "address": "경상남도 함안군 함안면 괴산4길 25",
-   "reasons": [
-    "24.6 km",
-    "지금 영업 중"
-   ],
-   "score": 73.8
+   "score": 82.5
   },
   {
    "name": "315아트센터",
@@ -109,20 +113,7 @@
     "10.6 km",
     "최근 확인"
    ],
-   "score": 77.5
-  },
-  {
-   "name": "여좌천(여좌천로망스다리)",
-   "category": "travel",
-   "distance_km": 9.7,
-   "lat": 35.1551,
-   "lng": 128.6594,
-   "address": "경상남도 창원시 진해구 여좌동 217",
-   "reasons": [
-    "9.7 km",
-    "최근 확인"
-   ],
-   "score": 73.4
+   "score": 79.0
   }
  ],
  "links": []

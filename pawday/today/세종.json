@@ -5,19 +5,7 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "세종",
-  "date": "2026-10-25",
-  "temp_max": 16.0,
-  "temp_min": 16.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
-  "sky": "흐림",
-  "wind_max": 2.2,
-  "pm10": 11.0,
-  "pm25": 4.0,
-  "fetched_at": "2026-10-25T22:37+09:00"
- },
+ "conditions": {},
  "picks": [
   {
    "name": "유림공원",

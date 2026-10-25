@@ -5,19 +5,7 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "전북",
-  "date": "2026-10-25",
-  "temp_max": 18.0,
-  "temp_min": 17.0,
-  "rain_prob_max": 20,
-  "precip_type": "",
-  "sky": "구름많음",
-  "wind_max": 0.7,
-  "pm10": 12.0,
-  "pm25": 6.0,
-  "fetched_at": "2026-10-25T22:37+09:00"
- },
+ "conditions": {},
  "picks": [
   {
    "name": "전주월드컵경기장",
@@ -141,17 +129,17 @@
    "score": 89.3
   },
   {
-   "name": "디어마이펫",
-   "category": "lodging",
-   "distance_km": 7.3,
-   "lat": 35.77790008,
-   "lng": 127.204844,
-   "address": "전라북도 완주군 상관면 월암길 30-42",
+   "name": "에잇세컨즈 전주점",
+   "category": "restaurant",
+   "distance_km": 0.7,
+   "lat": 35.8189832843297,
+   "lng": 127.143992454183,
+   "address": "전북특별자치도 전주시 완산구 전주객사4길 26 (고사동)",
    "reasons": [
-    "7.3 km",
+    "0.7 km",
     "최근 확인"
    ],
-   "score": 84.5
+   "score": 91.5
   }
  ],
  "links": []
