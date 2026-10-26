@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "울산",
+  "date": "2026-10-26",
+  "temp_max": 21.0,
+  "temp_min": 15.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "흐림",
+  "wind_max": 5.7,
+  "pm10": 25.0,
+  "pm25": 14.0,
+  "fetched_at": "2026-10-26T11:37+09:00"
+ },
  "picks": [
   {
    "name": "울산대공원",

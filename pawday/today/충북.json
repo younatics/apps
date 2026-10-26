@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "충북",
+  "date": "2026-10-26",
+  "temp_max": 22.0,
+  "temp_min": 14.0,
+  "rain_prob_max": 20,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 2.5,
+  "pm10": 17.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-26T11:37+09:00"
+ },
  "picks": [
   {
    "name": "문암생태공원",

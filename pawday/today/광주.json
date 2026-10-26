@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "광주",
+  "date": "2026-10-26",
+  "temp_max": 25.0,
+  "temp_min": 16.0,
+  "rain_prob_max": 0,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 3.4,
+  "pm10": 10.0,
+  "pm25": 6.0,
+  "fetched_at": "2026-10-26T11:37+09:00"
+ },
  "picks": [
   {
    "name": "518기념공원",
@@ -113,21 +125,21 @@
    "tier": "B"
   },
   {
-   "name": "카페하녹",
+   "name": "밀크레페",
    "category": "cafe",
-   "distance_km": 18.0,
-   "lat": 35.23716634,
-   "lng": 127.026525,
-   "address": "전라남도 담양군 창평면 창평현로 714-40",
+   "distance_km": 21.7,
+   "lat": 35.33042215,
+   "lng": 126.967895,
+   "address": "전라남도 담양군 월산면 담장로 67",
    "reasons": [
-    "18.0 km",
+    "21.7 km",
     "지금 영업 중",
     "댕오늘 추천",
     "요즘 많이 찾는"
    ],
-   "score": 117.6,
+   "score": 117.8,
    "match": 68,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "name": "양림동 펭귄마을공예거리",

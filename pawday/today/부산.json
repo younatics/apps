@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "부산",
+  "date": "2026-10-26",
+  "temp_max": 23.0,
+  "temp_min": 17.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 6.0,
+  "pm10": 24.0,
+  "pm25": 11.0,
+  "fetched_at": "2026-10-26T11:37+09:00"
+ },
  "picks": [
   {
    "name": "부산아시아드조각광장",
