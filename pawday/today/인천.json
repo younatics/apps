@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "인천",
+  "date": "2026-10-26",
+  "temp_max": 19.0,
+  "temp_min": 14.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "흐림",
+  "wind_max": 2.6,
+  "pm10": 16.0,
+  "pm25": 4.0,
+  "fetched_at": "2026-10-26T10:37+09:00"
+ },
  "picks": [
   {
    "name": "소래포구",
@@ -137,6 +149,21 @@
    "score": 113.3
   },
   {
+   "name": "앤드아워",
+   "category": "cafe",
+   "distance_km": 6.8,
+   "lat": 37.478846,
+   "lng": 126.6331087,
+   "address": "인천광역시 동구 수문통로 27",
+   "reasons": [
+    "6.8 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 많이 찾는"
+   ],
+   "score": 109.4
+  },
+  {
    "name": "평안도식당 신촌점",
    "category": "restaurant",
    "distance_km": 23.4,
@@ -150,21 +177,6 @@
     "요즘 많이 찾는"
    ],
    "score": 102.3
-  },
-  {
-   "name": "월미도레미",
-   "category": "cafe",
-   "distance_km": 9.7,
-   "lat": 37.4751857,
-   "lng": 126.59793330000001,
-   "address": "인천광역시 중구 월미문화로 35",
-   "reasons": [
-    "9.7 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 많이 찾는"
-   ],
-   "score": 105.6
   }
  ],
  "links": []

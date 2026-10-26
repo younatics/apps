@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "대전",
+  "date": "2026-10-26",
+  "temp_max": 23.0,
+  "temp_min": 14.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 2.7,
+  "pm10": 15.0,
+  "pm25": 7.0,
+  "fetched_at": "2026-10-26T10:37+09:00"
+ },
  "picks": [
   {
    "name": "정부대전청사자연마당",
@@ -90,6 +102,21 @@
    "score": 119.3
   },
   {
+   "name": "복래옥식당",
+   "category": "restaurant",
+   "distance_km": 1.9,
+   "lat": 36.3661111,
+   "lng": 127.37611109999997,
+   "address": "대전광역시",
+   "reasons": [
+    "1.9 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 많이 찾는"
+   ],
+   "score": 111.0
+  },
+  {
    "name": "고반식당 대전엑스포점",
    "category": "restaurant",
    "distance_km": 3.0,
@@ -144,20 +171,6 @@
     "최근 확인"
    ],
    "score": 103.2
-  },
-  {
-   "name": "복래옥식당",
-   "category": "restaurant",
-   "distance_km": 1.9,
-   "lat": 36.3661111,
-   "lng": 127.37611109999997,
-   "address": "대전광역시",
-   "reasons": [
-    "1.9 km",
-    "최근 확인",
-    "교차 확인됨"
-   ],
-   "score": 103.0
   }
  ],
  "links": []

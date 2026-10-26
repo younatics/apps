@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "충북",
+  "date": "2026-10-26",
+  "temp_max": 22.0,
+  "temp_min": 14.0,
+  "rain_prob_max": 20,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 2.6,
+  "pm10": 17.0,
+  "pm25": 7.0,
+  "fetched_at": "2026-10-26T10:37+09:00"
+ },
  "picks": [
   {
    "name": "문암생태공원",
@@ -133,6 +145,21 @@
    "score": 92.6
   },
   {
+   "name": "복래옥식당",
+   "category": "restaurant",
+   "distance_km": 32.3,
+   "lat": 36.3661111,
+   "lng": 127.37611109999997,
+   "address": "대전광역시",
+   "reasons": [
+    "32.3 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 많이 찾는"
+   ],
+   "score": 96.6
+  },
+  {
    "name": "한남대학교 중앙박물관",
    "category": "culture",
    "distance_km": 32.7,
@@ -145,20 +172,6 @@
     "최근 확인"
    ],
    "score": 90.9
-  },
-  {
-   "name": "도그홀릭",
-   "category": "cafe",
-   "distance_km": 40.0,
-   "lat": 36.77355154,
-   "lng": 127.071583,
-   "address": "충청남도 아산시 배방읍 북수로 98-1",
-   "reasons": [
-    "40.0 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 94.5
   }
  ],
  "links": []

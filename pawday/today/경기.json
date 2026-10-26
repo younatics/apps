@@ -5,7 +5,19 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {},
+ "conditions": {
+  "province": "경기",
+  "date": "2026-10-26",
+  "temp_max": 20.0,
+  "temp_min": 15.0,
+  "rain_prob_max": 30,
+  "precip_type": "",
+  "sky": "흐림",
+  "wind_max": 2.2,
+  "pm10": 13.0,
+  "pm25": 4.0,
+  "fetched_at": "2026-10-26T10:37+09:00"
+ },
  "picks": [
   {
    "name": "기흥레스피아호수공원",
@@ -119,6 +131,21 @@
    "score": 120.5
   },
   {
+   "name": "히말라야 정원",
+   "category": "restaurant",
+   "distance_km": 0.5,
+   "lat": 37.2635018,
+   "lng": 127.03386909999999,
+   "address": "경기도 수원시 팔달구 인계동 권광로180번길 19",
+   "reasons": [
+    "0.5 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 많이 찾는"
+   ],
+   "score": 115.1
+  },
+  {
    "name": "홍라드 인계나혜석점",
    "category": "restaurant",
    "distance_km": 0.5,
@@ -131,20 +158,6 @@
     "요즘 많이 찾는"
    ],
    "score": 114.7
-  },
-  {
-   "name": "히말라야 정원",
-   "category": "restaurant",
-   "distance_km": 0.5,
-   "lat": 37.2635018,
-   "lng": 127.03386909999999,
-   "address": "경기도 수원시 팔달구 인계동 권광로180번길 19",
-   "reasons": [
-    "0.5 km",
-    "최근 확인",
-    "교차 확인됨"
-   ],
-   "score": 107.1
   },
   {
    "name": "티크닉 앨리웨이 광교점",
