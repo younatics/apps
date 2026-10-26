@@ -5,19 +5,7 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "대전",
-  "date": "2026-10-26",
-  "temp_max": 23.0,
-  "temp_min": 14.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
-  "sky": "맑음",
-  "wind_max": 2.2,
-  "pm10": 19.0,
-  "pm25": 8.0,
-  "fetched_at": "2026-10-26T13:37+09:00"
- },
+ "conditions": {},
  "picks": [
   {
    "name": "둔산선사유적지",

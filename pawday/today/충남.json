@@ -5,19 +5,7 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "충남",
-  "date": "2026-10-26",
-  "temp_max": 21.0,
-  "temp_min": 14.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
-  "sky": "맑음",
-  "wind_max": 2.9,
-  "pm10": 22.0,
-  "pm25": 7.0,
-  "fetched_at": "2026-10-26T13:37+09:00"
- },
+ "conditions": {},
  "picks": [
   {
    "name": "개심사",
@@ -136,6 +124,21 @@
    ],
    "score": 93.7,
    "match": 72,
+   "tier": "C"
+  },
+  {
+   "name": "우유창고",
+   "category": "restaurant",
+   "distance_km": 23.0,
+   "lat": 36.4887812406861,
+   "lng": 126.525665645228,
+   "address": "충청남도 보령시 천북면 홍보로 573",
+   "reasons": [
+    "23.0 km",
+    "최근 확인"
+   ],
+   "score": 73.3,
+   "match": 59,
    "tier": "C"
   }
  ],

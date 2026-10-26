@@ -5,19 +5,7 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "강원",
-  "date": "2026-10-26",
-  "temp_max": 20.0,
-  "temp_min": 13.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
-  "sky": "구름많음",
-  "wind_max": 1.5,
-  "pm10": 19.0,
-  "pm25": 4.0,
-  "fetched_at": "2026-10-26T13:37+09:00"
- },
+ "conditions": {},
  "picks": [
   {
    "name": "감자밭",

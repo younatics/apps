@@ -5,19 +5,7 @@
  "reasons": [
   "산책하기 좋은 날"
  ],
- "conditions": {
-  "province": "대구",
-  "date": "2026-10-26",
-  "temp_max": 22.0,
-  "temp_min": 15.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
-  "sky": "맑음",
-  "wind_max": 2.5,
-  "pm10": 22.0,
-  "pm25": 9.0,
-  "fetched_at": "2026-10-26T13:37+09:00"
- },
+ "conditions": {},
  "picks": [
   {
    "name": "두류공원",
