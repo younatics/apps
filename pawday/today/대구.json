@@ -16,7 +16,7 @@
   "wind_max": 0.7,
   "pm10": 24.0,
   "pm25": 13.0,
-  "fetched_at": "2026-10-26T21:37+09:00",
+  "fetched_at": "2026-10-26T21:47+09:00",
   "hourly": [
    {
     "h": 21,
@@ -297,5 +297,32 @@
   }
  ],
  "links": [],
- "events": []
+ "events": [
+  {
+   "id": "a99e4b0a8443",
+   "title": "2026 경산 반려문화축제",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "time": "",
+   "venue": "남천강변",
+   "address": "경상북도 경산시 진량읍 대구대로 201",
+   "lat": 35.90453897,
+   "lng": 128.8428133,
+   "province": "경북",
+   "kind": "festival",
+   "dog": "unknown",
+   "dog_text": "",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "(재)경산문화관광재단",
+   "url": "www.gbgs.go.kr",
+   "image": "",
+   "image_credit": "",
+   "source": "official:std_festival",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "반려동식물 특강 · 체험 행사",
+   "status": "upcoming"
+  }
+ ]
 }

@@ -16,7 +16,7 @@
   "wind_max": 2.2,
   "pm10": 19.0,
   "pm25": 11.0,
-  "fetched_at": "2026-10-26T21:37+09:00",
+  "fetched_at": "2026-10-26T21:47+09:00",
   "hourly": [
    {
     "h": 21,
@@ -316,8 +316,8 @@
    "fee_text": "정가 10,000원 · 사전등록 무료",
    "organizer": "케이펫페어",
    "url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_busan2/",
-   "image": "",
-   "image_credit": "",
+   "image": "https://d5bvmdkxgb6q.cloudfront.net/wp-content/uploads/2026/07/16224352/2026-%EC%BC%80%EC%9D%B4%ED%8E%AB%ED%8E%98%EC%96%B4-%EB%A9%94%EA%B0%80%EC%A3%BC-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BCRGB_17.%EB%B6%80%EC%82%B0.jpg",
+   "image_credit": "케이펫페어",
    "source": "organizer:k-pet.co.kr",
    "grade": "organizer",
    "confidence": 0.9,
