@@ -16,7 +16,7 @@
   "wind_max": 2.0,
   "pm10": 22.0,
   "pm25": 10.0,
-  "fetched_at": "2026-10-26T21:47+09:00",
+  "fetched_at": "2026-10-26T21:50+09:00",
   "hourly": [
    {
     "h": 21,
@@ -346,32 +346,6 @@
    "grade": "official",
    "confidence": 1.0,
    "summary": "2026 포천 펫스타 in 아트밸리는 반려가족 그리고 반려동물을 사랑하는 누구나 함께 즐길 수 있는 참여형 반려문화 축제이다. 아름다운 한탄강 생태경관단지를 배경으로 반려견과 함께 걷는 댕댕트레킹을 비롯하여 펫니스 ",
-   "status": "upcoming"
-  },
-  {
-   "id": "6d0a4b7f8c03",
-   "title": "2026 포천 펫스타 in 아트밸리",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "time": "10:00~18:00",
-   "venue": "포천 아트밸리",
-   "address": "경기도 포천시 신북면 아트밸리로 234",
-   "lat": 37.92317414931059,
-   "lng": 127.23724560487442,
-   "province": "경기",
-   "kind": "other",
-   "dog": "ok",
-   "dog_text": "반려견과 함께 즐길 수 있는 프로그램",
-   "fee": "paid",
-   "fee_text": "유료(아트밸리 입장료 참고)",
-   "organizer": "포천시",
-   "url": "https://jjangbot.com/festival/f/3545306/",
-   "image": "",
-   "image_credit": "",
-   "source": "news:jjangbot.com",
-   "grade": "news",
-   "confidence": 0.7,
-   "summary": "포천 아트밸리에서 반려견과 트레킹, 펫림픽 등을 즐기는 축제예요.",
    "status": "upcoming"
   },
   {

@@ -16,7 +16,7 @@
   "wind_max": 2.1,
   "pm10": 21.0,
   "pm25": 9.0,
-  "fetched_at": "2026-10-26T21:47+09:00",
+  "fetched_at": "2026-10-26T21:50+09:00",
   "hourly": [
    {
     "h": 21,
@@ -324,32 +324,6 @@
    "confidence": 1.0,
    "summary": "누구나 자신의 속도로 즐기는 주말 아침, ‘쉬엄쉬엄모닝’이 열린다. 걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방식으로 참여할 수 있는 서울형 아침 운동 프로그램이다. 기록과 순",
    "status": "ongoing"
-  },
-  {
-   "id": "6d0a4b7f8c03",
-   "title": "2026 포천 펫스타 in 아트밸리",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "time": "10:00~18:00",
-   "venue": "포천 아트밸리",
-   "address": "경기도 포천시 신북면 아트밸리로 234",
-   "lat": 37.92317414931059,
-   "lng": 127.23724560487442,
-   "province": "경기",
-   "kind": "other",
-   "dog": "ok",
-   "dog_text": "반려견과 함께 즐길 수 있는 프로그램",
-   "fee": "paid",
-   "fee_text": "유료(아트밸리 입장료 참고)",
-   "organizer": "포천시",
-   "url": "https://jjangbot.com/festival/f/3545306/",
-   "image": "",
-   "image_credit": "",
-   "source": "news:jjangbot.com",
-   "grade": "news",
-   "confidence": 0.7,
-   "summary": "포천 아트밸리에서 반려견과 트레킹, 펫림픽 등을 즐기는 축제예요.",
-   "status": "upcoming"
   },
   {
    "id": "ba4439de64bb",
