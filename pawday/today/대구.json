@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.5,
-  "pm10": 24.0,
-  "pm25": 12.0,
-  "fetched_at": "2026-10-26T11:37+09:00"
+  "pm10": 22.0,
+  "pm25": 11.0,
+  "fetched_at": "2026-10-26T12:37+09:00"
  },
  "picks": [
   {
@@ -111,6 +111,22 @@
    "tier": "B"
   },
   {
+   "name": "멍뭉몽",
+   "category": "cafe",
+   "distance_km": 7.5,
+   "lat": 35.92527557,
+   "lng": 128.552186,
+   "address": "대구광역시 북구 태암남로 43",
+   "reasons": [
+    "7.5 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 118.0,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "힐링독",
    "category": "cafe",
    "distance_km": 0.7,
@@ -144,6 +160,22 @@
    "tier": "S"
   },
   {
+   "name": "바람구름",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.85367944,
+   "lng": 128.604812,
+   "address": "대구광역시 남구 명덕로64길 26",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 113.8,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "태경옥",
    "category": "restaurant",
    "distance_km": 0.6,
@@ -159,38 +191,6 @@
    "score": 116.0,
    "match": 61,
    "tier": "A"
-  },
-  {
-   "name": "도그플레이스",
-   "category": "cafe",
-   "distance_km": 10.8,
-   "lat": 35.79384319,
-   "lng": 128.529652,
-   "address": "대구광역시 달서구 한실로6길 155",
-   "reasons": [
-    "10.8 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 110.8,
-   "match": 68,
-   "tier": "B"
-  },
-  {
-   "name": "대구보건대학교 인당뮤지엄",
-   "category": "culture",
-   "distance_km": 8.0,
-   "lat": 35.92684451,
-   "lng": 128.544028,
-   "address": "대구광역시 북구 영송로 15",
-   "reasons": [
-    "8.0 km",
-    "지금 영업 중",
-    "최근 확인"
-   ],
-   "score": 103.6,
-   "match": 67,
-   "tier": "B"
   }
  ],
  "links": []
