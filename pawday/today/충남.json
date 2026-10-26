@@ -16,7 +16,7 @@
   "wind_max": 1.8,
   "pm10": 26.0,
   "pm25": 12.0,
-  "fetched_at": "2026-10-26T20:37+09:00",
+  "fetched_at": "2026-10-26T20:56+09:00",
   "hourly": [
    {
     "h": 21,
@@ -218,22 +218,6 @@
    "tier": "A"
   },
   {
-   "name": "도그홀릭",
-   "category": "cafe",
-   "distance_km": 37.8,
-   "lat": 36.77355154,
-   "lng": 127.071583,
-   "address": "충청남도 아산시 배방읍 북수로 98-1",
-   "reasons": [
-    "37.8 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 97.9,
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "꽃지해수욕장",
    "category": "park",
    "distance_km": 34.9,
@@ -267,6 +251,22 @@
    "tier": "B"
   },
   {
+   "name": "개스트하우스",
+   "category": "cafe",
+   "distance_km": 27.2,
+   "lat": 36.90104791,
+   "lng": 126.631978,
+   "address": "충청남도 당진시 우두로 9",
+   "reasons": [
+    "27.2 km",
+    "지금 영업 중",
+    "소형/중형"
+   ],
+   "score": 86.7,
+   "match": 66,
+   "tier": "B"
+  },
+  {
    "name": "베라데로펜션",
    "category": "lodging",
    "distance_km": 32.9,
@@ -282,5 +282,6 @@
    "tier": "C"
   }
  ],
- "links": []
+ "links": [],
+ "events": []
 }

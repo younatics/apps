@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.1,
-  "pm10": 21.0,
+  "pm10": 20.0,
   "pm25": 8.0,
-  "fetched_at": "2026-10-26T20:37+09:00",
+  "fetched_at": "2026-10-26T20:56+09:00",
   "hourly": [
    {
     "h": 21,
@@ -291,5 +291,33 @@
    "tier": "B"
   }
  ],
- "links": []
+ "links": [],
+ "events": [
+  {
+   "id": "5e75b7dc0950",
+   "title": "2026 메가주 일산 시즌2",
+   "start": "2026-11-20",
+   "end": "2026-11-22",
+   "time": "09:30~18:00",
+   "venue": "킨텍스 1전시장 2~5홀",
+   "address": "경기 고양시 일산서구 킨텍스로 217-60",
+   "lat": 37.66894152341134,
+   "lng": 126.74627635601331,
+   "province": "경기",
+   "kind": "fair",
+   "dog": "ok",
+   "dog_text": "반려동물 동반 박람회",
+   "fee": "free",
+   "fee_text": "정가 12,000원 · 사전등록 무료",
+   "organizer": "케이펫페어",
+   "url": "https://k-pet.co.kr/26pet_megazoo2/",
+   "image": "",
+   "image_credit": "",
+   "source": "organizer:k-pet.co.kr",
+   "grade": "organizer",
+   "confidence": 0.9,
+   "summary": "",
+   "status": "upcoming"
+  }
+ ]
 }

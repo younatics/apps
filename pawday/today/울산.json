@@ -16,7 +16,7 @@
   "wind_max": 1.6,
   "pm10": 30.0,
   "pm25": 14.0,
-  "fetched_at": "2026-10-26T20:37+09:00",
+  "fetched_at": "2026-10-26T20:56+09:00",
   "hourly": [
    {
     "h": 21,
@@ -294,5 +294,33 @@
    "tier": "B"
   }
  ],
- "links": []
+ "links": [],
+ "events": [
+  {
+   "id": "5f80b307d494",
+   "title": "2026 케이펫페어 부산 시즌2",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "time": "10:00~18:00",
+   "venue": "벡스코 2전시장 4홀",
+   "address": "부산 해운대구 APEC로 30",
+   "lat": 35.16570050983977,
+   "lng": 129.13502405919212,
+   "province": "부산",
+   "kind": "fair",
+   "dog": "ok",
+   "dog_text": "반려동물 동반 박람회",
+   "fee": "free",
+   "fee_text": "정가 10,000원 · 사전등록 무료",
+   "organizer": "케이펫페어",
+   "url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_busan2/",
+   "image": "",
+   "image_credit": "",
+   "source": "organizer:k-pet.co.kr",
+   "grade": "organizer",
+   "confidence": 0.9,
+   "summary": "",
+   "status": "upcoming"
+  }
+ ]
 }

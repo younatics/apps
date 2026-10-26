@@ -16,7 +16,7 @@
   "wind_max": 0.7,
   "pm10": 23.0,
   "pm25": 13.0,
-  "fetched_at": "2026-10-26T20:37+09:00",
+  "fetched_at": "2026-10-26T20:56+09:00",
   "hourly": [
    {
     "h": 21,
@@ -283,5 +283,59 @@
    "tier": "C"
   }
  ],
- "links": []
+ "links": [],
+ "events": [
+  {
+   "id": "6f6e149d7d9a",
+   "title": "2026 제18회 사천시농업한마당축제",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "time": "",
+   "venue": "사천시 노을광장 일원",
+   "address": "경남 사천시 용현면 덕곡리 501",
+   "lat": 35.00391695204929,
+   "lng": 128.0631816227171,
+   "province": "경남",
+   "kind": "festival",
+   "dog": "unknown",
+   "dog_text": "",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "사천시농업한마당축제추진위원회",
+   "url": "https://www.kns.tv/news/articleView.html?idxno=1022760",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.kns.tv",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려동물 놀이터와 농·축·특산물 체험 등이 열리는 축제예요.",
+   "status": "upcoming"
+  },
+  {
+   "id": "5f80b307d494",
+   "title": "2026 케이펫페어 부산 시즌2",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "time": "10:00~18:00",
+   "venue": "벡스코 2전시장 4홀",
+   "address": "부산 해운대구 APEC로 30",
+   "lat": 35.16570050983977,
+   "lng": 129.13502405919212,
+   "province": "부산",
+   "kind": "fair",
+   "dog": "ok",
+   "dog_text": "반려동물 동반 박람회",
+   "fee": "free",
+   "fee_text": "정가 10,000원 · 사전등록 무료",
+   "organizer": "케이펫페어",
+   "url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_busan2/",
+   "image": "",
+   "image_credit": "",
+   "source": "organizer:k-pet.co.kr",
+   "grade": "organizer",
+   "confidence": 0.9,
+   "summary": "",
+   "status": "upcoming"
+  }
+ ]
 }
