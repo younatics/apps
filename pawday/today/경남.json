@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "구름많음",
   "wind_max": 4.0,
-  "pm10": 16.0,
-  "pm25": 7.0,
-  "fetched_at": "2026-10-26T08:37+09:00"
+  "pm10": 19.0,
+  "pm25": 10.0,
+  "fetched_at": "2026-10-26T09:37+09:00"
  },
  "picks": [
   {
@@ -161,19 +161,17 @@
    "score": 100.6
   },
   {
-   "name": "까치까치(kkachi kkachi)",
-   "category": "restaurant",
-   "distance_km": 32.9,
-   "lat": 35.0983886,
-   "lng": 129.0115971,
-   "address": "부산광역시 서구 아미동 231-28",
+   "name": "댕포유",
+   "category": "cafe",
+   "distance_km": 15.9,
+   "lat": 35.23515568,
+   "lng": 128.867118,
+   "address": "경상남도 김해시 내외중앙로 60",
    "reasons": [
-    "32.9 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 많이 찾는"
+    "15.9 km",
+    "지금 영업 중"
    ],
-   "score": 98.4
+   "score": 98.6
   }
  ],
  "links": []
