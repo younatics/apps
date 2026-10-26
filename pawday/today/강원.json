@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "구름많음",
   "wind_max": 1.5,
-  "pm10": 17.0,
-  "pm25": 5.0,
-  "fetched_at": "2026-10-26T12:37+09:00"
+  "pm10": 19.0,
+  "pm25": 4.0,
+  "fetched_at": "2026-10-26T13:37+09:00"
  },
  "picks": [
   {
@@ -93,6 +93,22 @@
    "tier": "S"
   },
   {
+   "name": "퍼피쿵",
+   "category": "cafe",
+   "distance_km": 2.9,
+   "lat": 37.8567333,
+   "lng": 127.720274,
+   "address": "강원도 춘천시 안마산로 34-17",
+   "reasons": [
+    "2.9 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 117.3,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "소울 로스터리",
    "category": "cafe",
    "distance_km": 5.8,
@@ -127,21 +143,6 @@
    "score": 109.5,
    "match": 64,
    "tier": "A"
-  },
-  {
-   "name": "예와생스튜디오카페",
-   "category": "cafe",
-   "distance_km": 6.4,
-   "lat": 37.92083812,
-   "lng": 127.7822099,
-   "address": "강원 춘천시 동면 가산로 186-5",
-   "reasons": [
-    "6.4 km",
-    "요즘 많이 찾는"
-   ],
-   "score": 109.3,
-   "match": 59,
-   "tier": "B"
   },
   {
    "name": "세계주류마켓",

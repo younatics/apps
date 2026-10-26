@@ -16,7 +16,7 @@
   "wind_max": 2.2,
   "pm10": 19.0,
   "pm25": 8.0,
-  "fetched_at": "2026-10-26T12:37+09:00"
+  "fetched_at": "2026-10-26T13:37+09:00"
  },
  "picks": [
   {
@@ -145,6 +145,22 @@
    "tier": "B"
   },
   {
+   "name": "냥다방",
+   "category": "cafe",
+   "distance_km": 0.7,
+   "lat": 36.35295741,
+   "lng": 127.377795,
+   "address": "대전광역시 서구 둔산로31번길 28",
+   "reasons": [
+    "0.7 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 114.8,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "고반식당 대전엑스포점",
    "category": "restaurant",
    "distance_km": 3.0,
@@ -160,22 +176,6 @@
    "score": 112.2,
    "match": 61,
    "tier": "A"
-  },
-  {
-   "name": "꿈",
-   "category": "cafe",
-   "distance_km": 8.4,
-   "lat": 36.42586127,
-   "lng": 127.388107,
-   "address": "대전광역시 유성구 관들1길 14",
-   "reasons": [
-    "8.4 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 106.9,
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "복래옥식당",
