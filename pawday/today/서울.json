@@ -1,9 +1,9 @@
 {
  "province": "서울",
  "date": "2026-10-27",
- "walk_index": 92,
+ "walk_index": 100,
  "reasons": [
-  "미세먼지 보통"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "서울",
@@ -13,27 +13,11 @@
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 6.0,
-  "pm10": 35.0,
-  "pm25": 17.0,
-  "fetched_at": "2026-10-27T10:37+09:00",
+  "wind_max": 5.8,
+  "pm10": 30.0,
+  "pm25": 14.0,
+  "fetched_at": "2026-10-27T11:37+09:00",
   "hourly": [
-   {
-    "h": 10,
-    "date": "20261027",
-    "temp": 13.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 11,
-    "date": "20261027",
-    "temp": 14.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 12,
     "date": "20261027",
@@ -110,6 +94,22 @@
     "h": 21,
     "date": "20261027",
     "temp": 8.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261027",
+    "temp": 8.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261027",
+    "temp": 7.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -191,19 +191,19 @@
    "tier": "A"
   },
   {
-   "name": "아이라이크마운틴",
+   "name": "혼자두면장판뜯어서차린개카페",
    "category": "cafe",
-   "distance_km": 4.2,
-   "lat": 37.53303616,
-   "lng": 126.998938,
-   "address": "서울특별시 용산구 대사관로6가길 9",
+   "distance_km": 9.8,
+   "lat": 37.48512152,
+   "lng": 126.935676,
+   "address": "서울특별시 관악구 남부순환로 1665",
    "reasons": [
-    "4.2 km",
+    "9.8 km",
     "지금 영업 중",
     "댕오늘 추천",
     "요즘 많이 찾는"
    ],
-   "score": 124.9,
+   "score": 126.5,
    "match": 68,
    "tier": "S"
   },
@@ -223,6 +223,23 @@
    ],
    "score": 129.6,
    "match": 72,
+   "tier": "S"
+  },
+  {
+   "name": "아이라이크마운틴",
+   "category": "cafe",
+   "distance_km": 4.2,
+   "lat": 37.53303616,
+   "lng": 126.998938,
+   "address": "서울특별시 용산구 대사관로6가길 9",
+   "reasons": [
+    "4.2 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 124.9,
+   "match": 68,
    "tier": "S"
   },
   {
@@ -278,23 +295,6 @@
    "score": 121.9,
    "match": 64,
    "tier": "A"
-  },
-  {
-   "name": "커멍커멍",
-   "category": "cafe",
-   "distance_km": 12.3,
-   "lat": 37.56009264,
-   "lng": 126.838304,
-   "address": "서울특별시 강서구 강서로 385",
-   "reasons": [
-    "12.3 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 많이 찾는"
-   ],
-   "score": 122.4,
-   "match": 68,
-   "tier": "B"
   }
  ],
  "links": [],
@@ -352,8 +352,60 @@
    "status": "ongoing"
   },
   {
-   "id": "af568816f670",
-   "title": "2026 성남시 반려동물 페스티벌",
+   "id": "fdf7659ea876",
+   "title": "2026 서울 댕냥데이즈",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "",
+   "venue": "문화비축기지",
+   "address": "서울 마포구 상암동",
+   "lat": 37.57107560511949,
+   "lng": 126.89423666008835,
+   "province": "서울",
+   "kind": "festival",
+   "dog": "leash",
+   "dog_text": "목줄 착용, 배변 수거, 짖음 배려 등 펫티켓 실천을 안내할 예정이다.",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "서울시",
+   "url": "https://www.nsenior.co.kr/news/article.html?no=138933",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.nsenior.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려동물과 함께하는 문화축제로 공연·전시·체험과 유기견 입양 행사를 열어요.",
+   "status": "upcoming"
+  },
+  {
+   "id": "9600a78cb655",
+   "title": "2026 서초 웰니스 펫스타",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "13:00~17:00",
+   "venue": "서초문화예술공원 잔디광장",
+   "address": "서울 서초구 바우뫼로12길 40",
+   "lat": 37.467818092082,
+   "lng": 127.030656752773,
+   "province": "서울",
+   "kind": "other",
+   "dog": "ok",
+   "dog_text": "반려견과 함께하는 웰니스 축제 한마당",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "서초구",
+   "url": "https://biz.heraldcorp.com/article/10915548",
+   "image": "",
+   "image_credit": "",
+   "source": "news:biz.heraldcorp.com",
+   "grade": "news",
+   "confidence": 0.75,
+   "summary": "반려견 건강 체험과 독댄스, 보물찾기를 즐기는 웰니스 축제예요.",
+   "status": "upcoming"
+  },
+  {
+   "id": "86d9f9f91868",
+   "title": "2026 반려동물 페스티벌",
    "start": "2026-10-31",
    "end": "2026-10-31",
    "time": "10:00~16:30",
@@ -364,17 +416,17 @@
    "province": "경기",
    "kind": "festival",
    "dog": "ok",
-   "dog_text": "반려동물과 함께 가을 나들이를 하기 좋아요.",
+   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
    "fee": "unknown",
    "fee_text": "",
-   "organizer": "",
-   "url": "https://thisweekend.events/festivals/gyeonggi/%EB%AA%A8%EB%91%90%EB%AA%A8%EC%97%AC%EB%AA%A8%EB%9E%80",
-   "image": "",
-   "image_credit": "",
-   "source": "news:thisweekend.events",
-   "grade": "news",
-   "confidence": 0.75,
-   "summary": "10월 31일 성남시청 광장에서 반려동물 페스티벌이 열려요.",
+   "organizer": "성남시",
+   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
+   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
+   "image_credit": "m.snvision.seongnam.go.kr",
+   "source": "official:m.snvision.seongnam.go.kr",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
    "status": "upcoming"
   },
   {

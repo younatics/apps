@@ -10,30 +10,14 @@
   "date": "2026-10-27",
   "temp_max": 17.0,
   "temp_min": 8.0,
-  "rain_prob_max": 20,
+  "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 6.4,
-  "pm10": 23.0,
-  "pm25": 11.0,
-  "fetched_at": "2026-10-27T10:37+09:00",
+  "wind_max": 6.3,
+  "pm10": 24.0,
+  "pm25": 12.0,
+  "fetched_at": "2026-10-27T11:37+09:00",
   "hourly": [
-   {
-    "h": 10,
-    "date": "20261027",
-    "temp": 15.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 11,
-    "date": "20261027",
-    "temp": 16.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 12,
     "date": "20261027",
@@ -110,6 +94,22 @@
     "h": 21,
     "date": "20261027",
     "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261027",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261027",
+    "temp": 8.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -191,6 +191,23 @@
    "tier": "A"
   },
   {
+   "name": "도기온",
+   "category": "cafe",
+   "distance_km": 15.0,
+   "lat": 35.88087834,
+   "lng": 128.767006,
+   "address": "경상북도 경산시 하양읍 대경로 117",
+   "reasons": [
+    "15.0 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 121.8,
+   "match": 68,
+   "tier": "A"
+  },
+  {
    "name": "국립대구박물관",
    "category": "culture",
    "distance_km": 4.4,
@@ -228,6 +245,22 @@
    "tier": "S"
   },
   {
+   "name": "힐링독",
+   "category": "cafe",
+   "distance_km": 0.7,
+   "lat": 35.86574447,
+   "lng": 128.597425,
+   "address": "대구광역시 중구 동성로3길 8",
+   "reasons": [
+    "0.7 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 120.1,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "태경옥",
    "category": "restaurant",
    "distance_km": 0.6,
@@ -260,39 +293,6 @@
    "score": 116.9,
    "match": 61,
    "tier": "S"
-  },
-  {
-   "name": "써니씨드업",
-   "category": "restaurant",
-   "distance_km": 0.9,
-   "lat": 35.8749107,
-   "lng": 128.5918017,
-   "address": "대구광역시 중구 태평로28길 14 1층",
-   "reasons": [
-    "0.9 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 많이 찾는"
-   ],
-   "score": 116.8,
-   "match": 61,
-   "tier": "S"
-  },
-  {
-   "name": "미드웨이(Midway)",
-   "category": "cafe",
-   "distance_km": 1.2,
-   "lat": 35.8610003,
-   "lng": 128.6050357,
-   "address": "대구광역시 중구 대봉동 18-10",
-   "reasons": [
-    "1.2 km",
-    "최근 확인",
-    "교차 확인됨"
-   ],
-   "score": 107.5,
-   "match": 61,
-   "tier": "B"
   }
  ],
  "links": [],
