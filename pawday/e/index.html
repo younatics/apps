@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-itunes-app" content="app-id=6826581588">
+<title>댕오늘 — 강아지와 가는 행사</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 17px/1.6 -apple-system, system-ui, sans-serif; margin: 0; color: #2b1d12; background: linear-gradient(180deg,#fff4ea,#ffe3cc); min-height: 100vh; }
+  main { max-width: 520px; margin: 0 auto; padding: 64px 24px 96px; text-align: center; }
+  .eyebrow { font-size: 15px; color: #6b5240; margin: 0 0 6px; }
+  h1 { font-size: 34px; letter-spacing: -0.02em; margin: 0 0 12px; word-break: keep-all; }
+  p { margin: 0 0 24px; color: #4a3626; }
+  .btn { display: block; padding: 16px 20px; margin: 12px 0; border-radius: 14px; font-weight: 600; text-decoration: none; }
+  .primary { background: #F66B55; color: #fff; }
+  .secondary { background: #fff; color: #c9402c; border: 1px solid rgba(0,0,0,.08); }
+  footer { margin-top: 40px; font-size: 13px; color: #6b5240; }
+  footer a { color: #c9402c; }
+</style>
+</head>
+<body>
+<main>
+  <p class="eyebrow">댕오늘 · 강아지와 오늘 어디 가지</p>
+  <h1 id="name">강아지와 갈 수 있는 행사</h1>
+  <p id="hint">댕오늘 앱에서 날짜, 장소, 동반 조건을 보고 캘린더에 넣어요.</p>
+  <a class="btn primary" id="store" href="https://apps.apple.com/app/id6826581588">App Store에서 댕오늘 받기</a>
+  <a class="btn secondary" id="open" href="#">앱이 있으면 여기로 열려요</a>
+  <footer><a href="https://younatics.github.io/apps/pawday/">댕오늘 소개</a> · <a href="https://younatics.github.io/apps/pawday/privacy/">개인정보</a></footer>
+</main>
+<script>
+  // The name rides in the link (?n=) so the page needs no data file; the id (?id=) is what the app opens. Text only — never HTML.
+  const q = new URLSearchParams(location.search);
+  const name = (q.get('n') || '').trim();
+  if (name) { document.getElementById('name').textContent = name; document.title = name + ' — 댕오늘'; }
+  document.getElementById('open').setAttribute('href', location.href);
+  const banner = document.querySelector('meta[name="apple-itunes-app"]');
+  banner.setAttribute('content', 'app-id=6826581588, app-argument=' + location.href);
+</script>
+</body>
+</html>
