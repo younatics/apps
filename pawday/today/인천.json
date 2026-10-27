@@ -1,9 +1,9 @@
 {
  "province": "인천",
  "date": "2026-10-27",
- "walk_index": 92,
+ "walk_index": 100,
  "reasons": [
-  "미세먼지 보통"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "인천",
@@ -14,18 +14,10 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 4.6,
-  "pm10": 31.0,
+  "pm10": 29.0,
   "pm25": 5.0,
-  "fetched_at": "2026-10-27T18:37+09:00",
+  "fetched_at": "2026-10-27T19:37+09:00",
   "hourly": [
-   {
-    "h": 18,
-    "date": "20261027",
-    "temp": 10.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 19,
     "date": "20261027",
@@ -110,6 +102,14 @@
     "h": 5,
     "date": "20261028",
     "temp": 4.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 6,
+    "date": "20261028",
+    "temp": 3.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -278,20 +278,18 @@
    "tier": "S"
   },
   {
-   "name": "성곡반려견놀이터",
-   "category": "playground",
-   "distance_km": 15.0,
-   "lat": 37.32350549,
-   "lng": 126.736686,
-   "address": "",
+   "name": "플레이그라운드 브루어리 탭룸 송도 PLAYGROUND BREWERY TAPROOM SONGDO",
+   "category": "restaurant",
+   "distance_km": 8.3,
+   "lat": 37.3962438,
+   "lng": 126.6492296,
+   "address": "인천광역시 연수구 컨벤시아대로 80 현대 힐스테이트 401동 139호",
    "reasons": [
-    "15.0 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "댕오늘 추천"
+    "8.3 km",
+    "최근 확인"
    ],
-   "score": 116.1,
-   "match": 72,
+   "score": 105.8,
+   "match": 64,
    "tier": "B"
   }
  ],
@@ -299,6 +297,7 @@
  "events": [
   {
    "id": "8936706e84c6",
+   "aliases": [],
    "title": "2026 쉬엄쉬엄모닝",
    "start": "2026-10-18",
    "end": "2026-11-29",
@@ -325,6 +324,7 @@
   },
   {
    "id": "b0e567869ee6",
+   "aliases": [],
    "title": "2026 롯데시네마 부평갈산관 반려견 동반 플리마켓",
    "start": "2026-10-27",
    "end": "2026-10-27",
@@ -351,6 +351,7 @@
   },
   {
    "id": "fdf7659ea876",
+   "aliases": [],
    "title": "2026 서울 댕냥데이즈",
    "start": "2026-10-31",
    "end": "2026-10-31",
@@ -377,6 +378,7 @@
   },
   {
    "id": "9600a78cb655",
+   "aliases": [],
    "title": "2026 서초 웰니스 펫스타",
    "start": "2026-10-31",
    "end": "2026-10-31",
@@ -402,33 +404,8 @@
    "status": "upcoming"
   },
   {
-   "id": "86d9f9f91868",
-   "title": "2026 반려동물 페스티벌",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "10:00~16:30",
-   "venue": "성남시청 광장",
-   "address": "경기도 성남시 중원구 성남대로 997",
-   "lat": 37.4118319368872,
-   "lng": 127.128210618758,
-   "province": "경기",
-   "kind": "festival",
-   "dog": "ok",
-   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "성남시",
-   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
-   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
-   "image_credit": "m.snvision.seongnam.go.kr",
-   "source": "official:m.snvision.seongnam.go.kr",
-   "grade": "official",
-   "confidence": 1.0,
-   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
-   "status": "upcoming"
-  },
-  {
    "id": "5e75b7dc0950",
+   "aliases": [],
    "title": "2026 메가주 일산 시즌2",
    "start": "2026-11-20",
    "end": "2026-11-22",

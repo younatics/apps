@@ -14,18 +14,10 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 4.4,
-  "pm10": 35.0,
-  "pm25": 4.0,
-  "fetched_at": "2026-10-27T18:37+09:00",
+  "pm10": 31.0,
+  "pm25": 3.0,
+  "fetched_at": "2026-10-27T19:37+09:00",
   "hourly": [
-   {
-    "h": 18,
-    "date": "20261027",
-    "temp": 11.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 19,
     "date": "20261027",
@@ -108,6 +100,14 @@
    },
    {
     "h": 5,
+    "date": "20261028",
+    "temp": 4.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 6,
     "date": "20261028",
     "temp": 4.0,
     "pop": 0,
@@ -242,22 +242,21 @@
    "tier": "S"
   },
   {
-   "name": "댕글라이프",
+   "name": "루체인알티스",
    "category": "cafe",
-   "distance_km": 9.9,
-   "lat": 37.29056702,
-   "lng": 127.134959,
-   "address": "경기도 용인시 기흥구 석성로301번길 23",
+   "distance_km": 17.1,
+   "lat": 37.39633325,
+   "lng": 126.930747,
+   "address": "경기도 안양시 만안구 태평로60번길 42",
    "reasons": [
-    "9.9 km",
+    "17.1 km",
     "지금 영업 중",
-    "소형/중형",
     "댕오늘 추천",
     "요즘 많이 찾는"
    ],
-   "score": 120.4,
-   "match": 67,
-   "tier": "A"
+   "score": 119.7,
+   "match": 68,
+   "tier": "B"
   },
   {
    "name": "구갈레스피아반려견놀이터",
@@ -298,6 +297,7 @@
  "events": [
   {
    "id": "8936706e84c6",
+   "aliases": [],
    "title": "2026 쉬엄쉬엄모닝",
    "start": "2026-10-18",
    "end": "2026-11-29",
@@ -324,6 +324,7 @@
   },
   {
    "id": "b0e567869ee6",
+   "aliases": [],
    "title": "2026 롯데시네마 부평갈산관 반려견 동반 플리마켓",
    "start": "2026-10-27",
    "end": "2026-10-27",
@@ -349,33 +350,8 @@
    "status": "ongoing"
   },
   {
-   "id": "86d9f9f91868",
-   "title": "2026 반려동물 페스티벌",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "10:00~16:30",
-   "venue": "성남시청 광장",
-   "address": "경기도 성남시 중원구 성남대로 997",
-   "lat": 37.4118319368872,
-   "lng": 127.128210618758,
-   "province": "경기",
-   "kind": "festival",
-   "dog": "ok",
-   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "성남시",
-   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
-   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
-   "image_credit": "m.snvision.seongnam.go.kr",
-   "source": "official:m.snvision.seongnam.go.kr",
-   "grade": "official",
-   "confidence": 1.0,
-   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
-   "status": "upcoming"
-  },
-  {
    "id": "9600a78cb655",
+   "aliases": [],
    "title": "2026 서초 웰니스 펫스타",
    "start": "2026-10-31",
    "end": "2026-10-31",
@@ -402,6 +378,7 @@
   },
   {
    "id": "fdf7659ea876",
+   "aliases": [],
    "title": "2026 서울 댕냥데이즈",
    "start": "2026-10-31",
    "end": "2026-10-31",
@@ -428,6 +405,7 @@
   },
   {
    "id": "b7c3645bd03c",
+   "aliases": [],
    "title": "천안 시민과 함께하는 2026 K-DOG FESTIVAL",
    "start": "2026-10-31",
    "end": "2026-11-01",
@@ -453,7 +431,39 @@
    "status": "upcoming"
   },
   {
+   "id": "86d9f9f91868",
+   "aliases": [
+    "af568816f670"
+   ],
+   "title": "2026 반려동물 페스티벌",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "10:00~16:30",
+   "venue": "성남시청 광장",
+   "address": "경기도 성남시 중원구 성남대로 997",
+   "lat": null,
+   "lng": null,
+   "province": "경기",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "성남시",
+   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
+   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
+   "image_credit": "m.snvision.seongnam.go.kr",
+   "source": "official:m.snvision.seongnam.go.kr",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
+   "status": "upcoming"
+  },
+  {
    "id": "ba4439de64bb",
+   "aliases": [
+    "6d0a4b7f8c03"
+   ],
    "title": "포천펫스타",
    "start": "2026-11-14",
    "end": "2026-11-14",
@@ -480,6 +490,7 @@
   },
   {
    "id": "5e75b7dc0950",
+   "aliases": [],
    "title": "2026 메가주 일산 시즌2",
    "start": "2026-11-20",
    "end": "2026-11-22",
