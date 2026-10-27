@@ -272,7 +272,7 @@
   },
   {
    "name": "둔산선사유적지",
-   "category": "travel",
+   "category": "culture",
    "distance_km": 1.3,
    "lat": 36.36095306,
    "lng": 127.378937,
@@ -280,12 +280,11 @@
    "reasons": [
     "1.3 km",
     "지금 영업 중",
-    "맑아서 야외",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 132.8,
-   "match": 72,
+   "score": 128.3,
+   "match": 68,
    "tier": "S"
   },
   {
@@ -324,6 +323,24 @@
    "tier": "S"
   },
   {
+   "name": "청남대",
+   "category": "travel",
+   "distance_km": 15.6,
+   "lat": 36.4622489,
+   "lng": 127.490095,
+   "address": "충청북도 청주시 상당구 문의면 청남대길 646",
+   "reasons": [
+    "15.6 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 120.6,
+   "match": 72,
+   "tier": "S"
+  },
+  {
    "name": "뚜드림",
    "category": "cafe",
    "distance_km": 7.9,
@@ -356,23 +373,6 @@
    "score": 119.3,
    "match": 68,
    "tier": "B"
-  },
-  {
-   "name": "대전선사박물관",
-   "category": "culture",
-   "distance_km": 5.9,
-   "lat": 36.37191134,
-   "lng": 127.32384,
-   "address": "대전광역시 유성구 노은동로 126",
-   "reasons": [
-    "5.9 km",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 120.8,
-   "match": 62,
-   "tier": "A"
   },
   {
    "name": "고반식당 대전엑스포점",

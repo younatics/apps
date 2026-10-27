@@ -250,7 +250,7 @@
   },
   {
    "name": "세계꽃식물원",
-   "category": "travel",
+   "category": "park",
    "distance_km": 19.5,
    "lat": 36.7502826733,
    "lng": 126.858915569,
@@ -314,6 +314,22 @@
    ],
    "score": 114.2,
    "match": 68,
+   "tier": "C"
+  },
+  {
+   "name": "여하정",
+   "category": "travel",
+   "distance_km": 6.7,
+   "lat": 36.59917903,
+   "lng": 126.661615,
+   "address": "충청남도 홍성군 홍성읍 오관리",
+   "reasons": [
+    "6.7 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 107.8,
+   "match": 72,
    "tier": "C"
   },
   {

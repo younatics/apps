@@ -356,6 +356,24 @@
    "tier": "S"
   },
   {
+   "name": "몬베튼",
+   "category": "restaurant",
+   "distance_km": 2.9,
+   "lat": 35.155003799999996,
+   "lng": 129.0660122,
+   "address": "부산광역시 부산진구 서전로58번길 62 1층",
+   "reasons": [
+    "2.9 km",
+    "낮에 영업",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 117.7,
+   "match": 64,
+   "tier": "S"
+  },
+  {
    "name": "카페 러마프",
    "category": "cafe",
    "distance_km": 4.7,
@@ -370,23 +388,6 @@
    "score": 116.9,
    "match": 68,
    "tier": "B"
-  },
-  {
-   "name": "포레스트3002",
-   "category": "cafe",
-   "distance_km": 18.0,
-   "lat": 35.1159142,
-   "lng": 128.893516,
-   "address": "부산광역시 강서구 낙동남로682번길 262",
-   "reasons": [
-    "18.0 km",
-    "낮에 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 116.4,
-   "match": 68,
-   "tier": "S"
   }
  ],
  "links": [],
