@@ -8,32 +8,16 @@
  "conditions": {
   "province": "강원",
   "date": "2026-10-27",
-  "temp_max": 15.0,
+  "temp_max": 10.0,
   "temp_min": 5.0,
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 4.9,
+  "wind_max": 3.0,
   "pm10": 31.0,
-  "pm25": 8.0,
-  "fetched_at": "2026-10-27T16:37+09:00",
+  "pm25": 7.0,
+  "fetched_at": "2026-10-27T17:37+09:00",
   "hourly": [
-   {
-    "h": 16,
-    "date": "20261027",
-    "temp": 14.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 17,
-    "date": "20261027",
-    "temp": 12.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 18,
     "date": "20261027",
@@ -113,28 +97,26 @@
     "pop": 0,
     "sky": "맑음",
     "pty": ""
+   },
+   {
+    "h": 4,
+    "date": "20261028",
+    "temp": 0.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 5,
+    "date": "20261028",
+    "temp": -1.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
    }
   ]
  },
  "picks": [
-  {
-   "name": "춘천송암스포츠타운",
-   "category": "travel",
-   "distance_km": 4.5,
-   "lat": 37.85525199,
-   "lng": 127.689958,
-   "address": "",
-   "reasons": [
-    "4.5 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 많이 찾는"
-   ],
-   "score": 133.7,
-   "match": 72,
-   "tier": "S"
-  },
   {
    "name": "감자밭",
    "category": "restaurant",
@@ -152,6 +134,24 @@
    ],
    "score": 129.4,
    "match": 67,
+   "tier": "S"
+  },
+  {
+   "name": "자라섬",
+   "category": "travel",
+   "distance_km": 18.8,
+   "lat": 37.81044078,
+   "lng": 127.53544,
+   "address": "",
+   "reasons": [
+    "18.8 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 121.7,
+   "match": 72,
    "tier": "S"
   },
   {
@@ -262,6 +262,21 @@
    "tier": "A"
   },
   {
+   "name": "세계주류마켓",
+   "category": "restaurant",
+   "distance_km": 5.4,
+   "lat": 37.83984386,
+   "lng": 127.7621803,
+   "address": "강원 춘천시 동내면 순환대로 632",
+   "reasons": [
+    "5.4 km",
+    "요즘 많이 찾는"
+   ],
+   "score": 111.3,
+   "match": 62,
+   "tier": "A"
+  },
+  {
    "name": "수한예",
    "category": "lodging",
    "distance_km": 3.4,
@@ -275,21 +290,6 @@
    "score": 105.1,
    "match": 59,
    "tier": "B"
-  },
-  {
-   "name": "세계주류마켓",
-   "category": "restaurant",
-   "distance_km": 5.4,
-   "lat": 37.83984386,
-   "lng": 127.7621803,
-   "address": "강원 춘천시 동내면 순환대로 632",
-   "reasons": [
-    "5.4 km",
-    "요즘 많이 찾는"
-   ],
-   "score": 107.7,
-   "match": 59,
-   "tier": "A"
   }
  ],
  "links": [

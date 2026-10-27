@@ -8,32 +8,16 @@
  "conditions": {
   "province": "대구",
   "date": "2026-10-27",
-  "temp_max": 17.0,
+  "temp_max": 14.0,
   "temp_min": 8.0,
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 6.0,
-  "pm10": 29.0,
+  "wind_max": 5.2,
+  "pm10": 25.0,
   "pm25": 9.0,
-  "fetched_at": "2026-10-27T16:37+09:00",
+  "fetched_at": "2026-10-27T17:37+09:00",
   "hourly": [
-   {
-    "h": 16,
-    "date": "20261027",
-    "temp": 17.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 17,
-    "date": "20261027",
-    "temp": 16.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 18,
     "date": "20261027",
@@ -110,6 +94,22 @@
     "h": 3,
     "date": "20261028",
     "temp": 5.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 4,
+    "date": "20261028",
+    "temp": 4.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 5,
+    "date": "20261028",
+    "temp": 4.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -245,22 +245,6 @@
    "tier": "S"
   },
   {
-   "name": "힐링독",
-   "category": "cafe",
-   "distance_km": 0.7,
-   "lat": 35.86574447,
-   "lng": 128.597425,
-   "address": "대구광역시 중구 동성로3길 8",
-   "reasons": [
-    "0.7 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 120.1,
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "태경옥",
    "category": "restaurant",
    "distance_km": 0.6,
@@ -273,23 +257,40 @@
     "교차 확인됨",
     "요즘 많이 찾는"
    ],
-   "score": 117.8,
-   "match": 61,
+   "score": 121.4,
+   "match": 64,
    "tier": "A"
   },
   {
-   "name": "멍뭉몽",
-   "category": "cafe",
-   "distance_km": 7.5,
-   "lat": 35.92527557,
-   "lng": 128.552186,
-   "address": "대구광역시 북구 태암남로 43",
+   "name": "카페동이 수성1가점",
+   "category": "restaurant",
+   "distance_km": 2.0,
+   "lat": 35.854967599999995,
+   "lng": 128.6096015,
+   "address": "대구광역시 수성구",
    "reasons": [
-    "7.5 km",
+    "2.0 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 많이 찾는"
+   ],
+   "score": 120.5,
+   "match": 64,
+   "tier": "S"
+  },
+  {
+   "name": "힐링독",
+   "category": "cafe",
+   "distance_km": 0.7,
+   "lat": 35.86574447,
+   "lng": 128.597425,
+   "address": "대구광역시 중구 동성로3길 8",
+   "reasons": [
+    "0.7 km",
     "지금 영업 중",
     "댕오늘 추천"
    ],
-   "score": 117.5,
+   "score": 120.1,
    "match": 68,
    "tier": "B"
   }
