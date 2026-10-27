@@ -9,31 +9,15 @@
   "province": "세종",
   "date": "2026-10-28",
   "temp_max": 13.0,
-  "temp_min": 2.0,
+  "temp_min": 5.0,
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 2.4,
-  "pm10": 27.0,
-  "pm25": 9.0,
-  "fetched_at": "2026-10-28T07:37+09:00",
+  "wind_max": 2.3,
+  "pm10": 24.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-28T08:37+09:00",
   "hourly": [
-   {
-    "h": 7,
-    "date": "20261028",
-    "temp": 2.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 8,
-    "date": "20261028",
-    "temp": 3.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 9,
     "date": "20261028",
@@ -209,27 +193,26 @@
     "pop": 0,
     "sky": "맑음",
     "pty": ""
+   },
+   {
+    "h": 7,
+    "date": "20261029",
+    "temp": 2.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 8,
+    "date": "20261029",
+    "temp": 4.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
    }
   ]
  },
  "picks": [
-  {
-   "name": "바투",
-   "category": "cafe",
-   "distance_km": 4.7,
-   "lat": 36.47523278,
-   "lng": 127.236648,
-   "address": "세종특별자치시 장군면 영평사길 27",
-   "reasons": [
-    "4.7 km",
-    "낮에 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 130.3,
-   "match": 68,
-   "tier": "S"
-  },
   {
    "name": "송림근린공원",
    "category": "park",
@@ -268,23 +251,6 @@
    "tier": "B"
   },
   {
-   "name": "정다운 아지트",
-   "category": "cafe",
-   "distance_km": 9.9,
-   "lat": 36.40176244,
-   "lng": 127.236169,
-   "address": "충청남도 공주시 반포면 정광터1길 70",
-   "reasons": [
-    "9.9 km",
-    "낮에 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 122.7,
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "옥녀봉체육공원",
    "category": "park",
    "distance_km": 17.2,
@@ -300,23 +266,6 @@
    ],
    "score": 121.8,
    "match": 72,
-   "tier": "A"
-  },
-  {
-   "name": "인풀",
-   "category": "cafe",
-   "distance_km": 10.8,
-   "lat": 36.53299966,
-   "lng": 127.18839,
-   "address": "세종특별자치시 장군면 들말양지길 124-3",
-   "reasons": [
-    "10.8 km",
-    "낮에 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 121.4,
-   "match": 68,
    "tier": "A"
   },
   {
@@ -338,24 +287,6 @@
    "tier": "S"
   },
   {
-   "name": "한국조폐공사 화폐박물관",
-   "category": "culture",
-   "distance_km": 13.4,
-   "lat": 36.37847117,
-   "lng": 127.370534,
-   "address": "대전광역시 유성구 과학로 80-67",
-   "reasons": [
-    "13.4 km",
-    "낮에 영업",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 119.2,
-   "match": 67,
-   "tier": "S"
-  },
-  {
    "name": "둔산선사유적지",
    "category": "culture",
    "distance_km": 15.5,
@@ -373,6 +304,39 @@
    "tier": "S"
   },
   {
+   "name": "대전선사박물관",
+   "category": "culture",
+   "distance_km": 12.4,
+   "lat": 36.37191134,
+   "lng": 127.32384,
+   "address": "대전광역시 유성구 노은동로 126",
+   "reasons": [
+    "12.4 km",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 115.4,
+   "match": 62,
+   "tier": "A"
+  },
+  {
+   "name": "퍼피스그린",
+   "category": "cafe",
+   "distance_km": 21.7,
+   "lat": 36.28658787,
+   "lng": 127.253189,
+   "address": "대전광역시 유성구 송정길84번길 66",
+   "reasons": [
+    "21.7 km",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 107.8,
+   "match": 63,
+   "tier": "B"
+  },
+  {
    "name": "한마음 정육식당",
    "category": "restaurant",
    "distance_km": 12.4,
@@ -385,6 +349,38 @@
    ],
    "score": 99.1,
    "match": 59,
+   "tier": "A"
+  },
+  {
+   "name": "탑립커피",
+   "category": "cafe",
+   "distance_km": 12.9,
+   "lat": 36.4084381236531,
+   "lng": 127.402784659472,
+   "address": "대전광역시 엑스포로 600 1층",
+   "reasons": [
+    "12.9 km",
+    "요즘 인기"
+   ],
+   "score": 103.7,
+   "match": 59,
+   "tier": "A"
+  },
+  {
+   "name": "고반식당 대전엑스포점",
+   "category": "restaurant",
+   "distance_km": 14.9,
+   "lat": 36.376307499999996,
+   "lng": 127.3947838,
+   "address": "대전광역시 유성구 도룡동 4-9 H211호",
+   "reasons": [
+    "14.9 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 101.3,
+   "match": 61,
    "tier": "A"
   }
  ],
