@@ -1,9 +1,8 @@
 {
  "province": "제주",
  "date": "2026-10-27",
- "walk_index": 82,
+ "walk_index": 90,
  "reasons": [
-  "미세먼지 보통",
   "바람 9 m/s"
  ],
  "conditions": {
@@ -15,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 9.1,
-  "pm10": 33.0,
+  "pm10": 29.0,
   "pm25": 8.0,
-  "fetched_at": "2026-10-27T14:37+09:00",
+  "fetched_at": "2026-10-27T15:37+09:00",
   "hourly": [
    {
     "h": 15,
