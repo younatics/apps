@@ -25,7 +25,7 @@
   <h1 id="name">강아지와 갈 수 있는 행사</h1>
   <p id="hint">댕오늘 앱에서 날짜, 장소, 동반 조건을 보고 캘린더에 넣어요.</p>
   <a class="btn primary" id="store" href="https://apps.apple.com/app/id6826581588">App Store에서 댕오늘 받기</a>
-  <a class="btn secondary" id="open" href="#">앱이 있으면 여기로 열려요</a>
+  <a class="btn secondary" id="open" href="#">이미 댕오늘이 있다면 앱에서 열기</a>
   <footer><a href="https://younatics.github.io/apps/pawday/">댕오늘 소개</a> · <a href="https://younatics.github.io/apps/pawday/privacy/">개인정보</a></footer>
 </main>
 <script>
@@ -33,7 +33,10 @@
   const q = new URLSearchParams(location.search);
   const name = (q.get('n') || '').trim();
   if (name) { document.getElementById('name').textContent = name; document.title = name + ' — 댕오늘'; }
-  document.getElementById('open').setAttribute('href', location.href);
+  // pawday://p?id=… — Instagram's and KakaoTalk's in-app browsers do not hand universal links to apps, and a same-domain tap in Safari
+  // stays in Safari; the custom scheme opens the app from both (iOS asks once).
+  const kind = location.pathname.split('/').filter(Boolean).pop();
+  document.getElementById('open').setAttribute('href', 'pawday://' + kind + location.search);
   const banner = document.querySelector('meta[name="apple-itunes-app"]');
   banner.setAttribute('content', 'app-id=6826581588, app-argument=' + location.href);
 </script>
