@@ -9,49 +9,17 @@
   "province": "충남",
   "date": "2026-10-28",
   "temp_max": 13.0,
-  "temp_min": 1.0,
+  "temp_min": 3.0,
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 3.4,
-  "pm10": 24.0,
-  "pm25": 5.0,
-  "fetched_at": "2026-10-28T00:07+09:00",
+  "wind_max": 3.5,
+  "pm10": 30.0,
+  "pm25": 6.0,
+  "fetched_at": "2026-10-28T05:30+09:00",
   "hourly": [
    {
-    "h": 0,
-    "date": "20261028",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 1,
-    "date": "20261028",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 2,
-    "date": "20261028",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 3,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 4,
+    "h": 6,
     "date": "20261028",
     "temp": 3.0,
     "pop": 0,
@@ -59,25 +27,9 @@
     "pty": ""
    },
    {
-    "h": 5,
-    "date": "20261028",
-    "temp": 2.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 6,
-    "date": "20261028",
-    "temp": 2.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
     "h": 7,
     "date": "20261028",
-    "temp": 2.0,
+    "temp": 3.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -101,13 +53,61 @@
    {
     "h": 10,
     "date": "20261028",
-    "temp": 9.0,
+    "temp": 8.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
    },
    {
     "h": 11,
+    "date": "20261028",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 12,
+    "date": "20261028",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 13,
+    "date": "20261028",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 14,
+    "date": "20261028",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 15,
+    "date": "20261028",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 16,
+    "date": "20261028",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
     "date": "20261028",
     "temp": 11.0,
     "pop": 0,
@@ -221,6 +221,22 @@
    "tier": "C"
   },
   {
+   "name": "우유창고",
+   "category": "restaurant",
+   "distance_km": 23.0,
+   "lat": 36.4887812406861,
+   "lng": 126.525665645228,
+   "address": "충청남도 보령시 천북면 홍보로 573",
+   "reasons": [
+    "23.0 km",
+    "최근 확인",
+    "요즘 많이 찾는"
+   ],
+   "score": 98.5,
+   "match": 59,
+   "tier": "A"
+  },
+  {
    "name": "서산(목포)",
    "category": "playground",
    "distance_km": 13.4,
@@ -234,22 +250,6 @@
    "score": 96.2,
    "match": 69,
    "tier": "C"
-  },
-  {
-   "name": "우유창고",
-   "category": "restaurant",
-   "distance_km": 23.0,
-   "lat": 36.4887812406861,
-   "lng": 126.525665645228,
-   "address": "충청남도 보령시 천북면 홍보로 573",
-   "reasons": [
-    "23.0 km",
-    "최근 확인",
-    "요즘 많이 찾는"
-   ],
-   "score": 89.1,
-   "match": 59,
-   "tier": "A"
   },
   {
    "name": "선장포노을공원",
@@ -270,6 +270,33 @@
  ],
  "links": [],
  "events": [
+  {
+   "id": "9890633c05ab",
+   "aliases": [],
+   "title": "2026 태안 가을꽃박람회",
+   "start": "2026-09-17",
+   "end": "2026-11-01",
+   "time": "09:00~18:00",
+   "venue": "네이처월드",
+   "address": "충남 태안군 남면 마검포길 200",
+   "lat": 36.6161122682353,
+   "lng": 126.300528282322,
+   "province": "충남",
+   "kind": "fair",
+   "dog": "ok",
+   "dog_text": "반려견 동반이 가능하다.",
+   "fee": "paid",
+   "fee_text": "입장료는 성인 10,000원, 청소년·유아 8,000원이다.",
+   "organizer": "",
+   "url": "https://www.pullbbang.com/board/boardView.pull?code=17432224",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.pullbbang.com",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "네이처월드에서 반려견과 함께 꽃밭과 조형물을 관람할 수 있어요.",
+   "status": "ongoing"
+  },
   {
    "id": "b7c3645bd03c",
    "aliases": [],

@@ -1,9 +1,9 @@
 {
  "province": "인천",
  "date": "2026-10-28",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "인천",
@@ -13,59 +13,11 @@
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 4.1,
-  "pm10": 26.0,
-  "pm25": 6.0,
-  "fetched_at": "2026-10-28T00:07+09:00",
+  "wind_max": 3.3,
+  "pm10": 40.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-28T05:30+09:00",
   "hourly": [
-   {
-    "h": 0,
-    "date": "20261028",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 1,
-    "date": "20261028",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 2,
-    "date": "20261028",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 3,
-    "date": "20261028",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 4,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 5,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 6,
     "date": "20261028",
@@ -113,6 +65,54 @@
     "pop": 0,
     "sky": "맑음",
     "pty": ""
+   },
+   {
+    "h": 12,
+    "date": "20261028",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 13,
+    "date": "20261028",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 14,
+    "date": "20261028",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 15,
+    "date": "20261028",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 16,
+    "date": "20261028",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
+    "date": "20261028",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
    }
   ]
  },
@@ -136,21 +136,22 @@
    "tier": "S"
   },
   {
-   "name": "월미도",
+   "name": "차이나타운",
    "category": "travel",
-   "distance_km": 9.6,
-   "lat": 37.47356174,
-   "lng": 126.5992,
-   "address": "",
+   "distance_km": 7.9,
+   "lat": 37.4740067930425,
+   "lng": 126.618678760635,
+   "address": "인천광역시 중구 차이나타운로59번길 12",
    "reasons": [
-    "9.6 km",
+    "7.9 km",
     "낮에 영업",
+    "소형/중형",
     "맑아서 야외",
     "댕오늘 추천",
     "요즘 많이 찾는"
    ],
-   "score": 128.0,
-   "match": 72,
+   "score": 128.4,
+   "match": 71,
    "tier": "S"
   },
   {
@@ -189,6 +190,24 @@
    "tier": "A"
   },
   {
+   "name": "인천광역시립박물관",
+   "category": "culture",
+   "distance_km": 6.1,
+   "lat": 37.42070925,
+   "lng": 126.65318,
+   "address": "인천광역시 연수구 청량로160번길 26",
+   "reasons": [
+    "6.1 km",
+    "낮에 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 124.5,
+   "match": 67,
+   "tier": "S"
+  },
+  {
    "name": "하비파크",
    "category": "cafe",
    "distance_km": 5.9,
@@ -206,40 +225,21 @@
    "tier": "A"
   },
   {
-   "name": "소래포구",
+   "name": "월미도",
    "category": "travel",
-   "distance_km": 7.1,
-   "lat": 37.3988547472,
-   "lng": 126.7400466626,
-   "address": "인천광역시 남동구 포구로 2-6",
+   "distance_km": 9.6,
+   "lat": 37.47356174,
+   "lng": 126.5992,
+   "address": "",
    "reasons": [
-    "7.1 km",
+    "9.6 km",
     "낮에 영업",
     "맑아서 야외",
-    "최근 확인",
     "댕오늘 추천",
     "요즘 많이 찾는"
    ],
-   "score": 127.9,
+   "score": 128.0,
    "match": 72,
-   "tier": "S"
-  },
-  {
-   "name": "인천도시역사관",
-   "category": "culture",
-   "distance_km": 9.3,
-   "lat": 37.39281282,
-   "lng": 126.635889,
-   "address": "인천광역시 연수구 인천광역시타워대로 238",
-   "reasons": [
-    "9.3 km",
-    "낮에 영업",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 많이 찾는"
-   ],
-   "score": 122.7,
-   "match": 67,
    "tier": "S"
   },
   {
@@ -278,21 +278,20 @@
    "tier": "S"
   },
   {
-   "name": "커멍커멍",
-   "category": "cafe",
-   "distance_km": 16.5,
-   "lat": 37.56009264,
-   "lng": 126.838304,
-   "address": "서울특별시 강서구 강서로 385",
+   "name": "다남숲멍빌리지",
+   "category": "restaurant",
+   "distance_km": 12.1,
+   "lat": 37.5639475005061,
+   "lng": 126.723235305443,
+   "address": "계양구 역골로43번길 7-4",
    "reasons": [
-    "16.5 km",
-    "낮에 영업",
+    "12.1 km",
     "댕오늘 추천",
     "요즘 많이 찾는"
    ],
-   "score": 118.1,
-   "match": 68,
-   "tier": "B"
+   "score": 113.7,
+   "match": 59,
+   "tier": "A"
   }
  ],
  "links": [],
@@ -369,13 +368,42 @@
    "fee": "unknown",
    "fee_text": "",
    "organizer": "서초구",
-   "url": "https://biz.heraldcorp.com/article/10915548",
+   "url": "https://yonbang.net/news/article.html?no=205263",
    "image": "",
    "image_credit": "",
    "source": "news:biz.heraldcorp.com",
    "grade": "news",
-   "confidence": 0.75,
-   "summary": "반려견 건강 체험과 독댄스, 보물찾기를 즐기는 웰니스 축제예요.",
+   "confidence": 0.8,
+   "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
+   "status": "upcoming"
+  },
+  {
+   "id": "86d9f9f91868",
+   "aliases": [
+    "af568816f670"
+   ],
+   "title": "2026 반려동물 페스티벌",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "10:00~16:30",
+   "venue": "성남시청 광장",
+   "address": "경기도 성남시 중원구 성남대로 997",
+   "lat": 37.41993055742254,
+   "lng": 127.12628813511819,
+   "province": "경기",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "성남시",
+   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
+   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
+   "image_credit": "m.snvision.seongnam.go.kr",
+   "source": "official:m.snvision.seongnam.go.kr",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
    "status": "upcoming"
   },
   {

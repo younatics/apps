@@ -9,67 +9,19 @@
   "province": "대구",
   "date": "2026-10-28",
   "temp_max": 14.0,
-  "temp_min": 2.0,
+  "temp_min": 4.0,
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 3.7,
-  "pm10": 24.0,
+  "wind_max": 2.5,
+  "pm10": 22.0,
   "pm25": 6.0,
-  "fetched_at": "2026-10-28T00:07+09:00",
+  "fetched_at": "2026-10-28T05:30+09:00",
   "hourly": [
-   {
-    "h": 0,
-    "date": "20261028",
-    "temp": 7.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 1,
-    "date": "20261028",
-    "temp": 7.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 2,
-    "date": "20261028",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 3,
-    "date": "20261028",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 4,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 5,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 6,
     "date": "20261028",
-    "temp": 3.0,
+    "temp": 4.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -77,7 +29,7 @@
    {
     "h": 7,
     "date": "20261028",
-    "temp": 3.0,
+    "temp": 4.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -85,7 +37,7 @@
    {
     "h": 8,
     "date": "20261028",
-    "temp": 4.0,
+    "temp": 5.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -93,7 +45,7 @@
    {
     "h": 9,
     "date": "20261028",
-    "temp": 6.0,
+    "temp": 7.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -101,7 +53,7 @@
    {
     "h": 10,
     "date": "20261028",
-    "temp": 8.0,
+    "temp": 9.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -109,7 +61,55 @@
    {
     "h": 11,
     "date": "20261028",
-    "temp": 10.0,
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 12,
+    "date": "20261028",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 13,
+    "date": "20261028",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 14,
+    "date": "20261028",
+    "temp": 14.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 15,
+    "date": "20261028",
+    "temp": 14.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 16,
+    "date": "20261028",
+    "temp": 14.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
+    "date": "20261028",
+    "temp": 13.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -297,6 +297,33 @@
  "links": [],
  "events": [
   {
+   "id": "efc9fd5414a0",
+   "aliases": [],
+   "title": "2026 달서 반려가족 희망나눔 축제",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "13:00~17:00",
+   "venue": "달서 반려견 놀이터",
+   "address": "대구 달서구 성서공단로 287",
+   "lat": 35.837688394578805,
+   "lng": 128.51323249004372,
+   "province": "대구",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견과 함께 즐기는 참여형 프로그램과 다양한 체험·홍보 부스를 운영한다.",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "대구 달서구",
+   "url": "https://m.ekn.kr/view.php?key=20261027029241667",
+   "image": "",
+   "image_credit": "",
+   "source": "news:m.ekn.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려견 퀴즈와 의상 경연, 체험 부스와 무료 건강상담을 운영해요.",
+   "status": "upcoming"
+  },
+  {
    "id": "a99e4b0a8443",
    "aliases": [],
    "title": "2026 경산 반려문화축제",
@@ -314,7 +341,7 @@
    "fee": "unknown",
    "fee_text": "",
    "organizer": "(재)경산문화관광재단",
-   "url": "www.gbgs.go.kr",
+   "url": "http://www.gbgs.go.kr",
    "image": "",
    "image_credit": "",
    "source": "official:std_festival",

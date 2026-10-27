@@ -1,9 +1,9 @@
 {
  "province": "경기",
  "date": "2026-10-28",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "경기",
@@ -13,63 +13,15 @@
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 3.6,
-  "pm10": 26.0,
-  "pm25": 4.0,
-  "fetched_at": "2026-10-28T00:07+09:00",
+  "wind_max": 2.7,
+  "pm10": 31.0,
+  "pm25": 6.0,
+  "fetched_at": "2026-10-28T05:30+09:00",
   "hourly": [
-   {
-    "h": 0,
-    "date": "20261028",
-    "temp": 7.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 1,
-    "date": "20261028",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 2,
-    "date": "20261028",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 3,
-    "date": "20261028",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 4,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 5,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 6,
     "date": "20261028",
-    "temp": 4.0,
+    "temp": 3.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -85,7 +37,7 @@
    {
     "h": 8,
     "date": "20261028",
-    "temp": 5.0,
+    "temp": 4.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -93,7 +45,7 @@
    {
     "h": 9,
     "date": "20261028",
-    "temp": 7.0,
+    "temp": 6.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -109,7 +61,55 @@
    {
     "h": 11,
     "date": "20261028",
-    "temp": 10.0,
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 12,
+    "date": "20261028",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 13,
+    "date": "20261028",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 14,
+    "date": "20261028",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 15,
+    "date": "20261028",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 16,
+    "date": "20261028",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
+    "date": "20261028",
+    "temp": 12.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -326,6 +326,35 @@
    "status": "ongoing"
   },
   {
+   "id": "86d9f9f91868",
+   "aliases": [
+    "af568816f670"
+   ],
+   "title": "2026 반려동물 페스티벌",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "10:00~16:30",
+   "venue": "성남시청 광장",
+   "address": "경기도 성남시 중원구 성남대로 997",
+   "lat": 37.41993055742254,
+   "lng": 127.12628813511819,
+   "province": "경기",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "성남시",
+   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
+   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
+   "image_credit": "m.snvision.seongnam.go.kr",
+   "source": "official:m.snvision.seongnam.go.kr",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
+   "status": "upcoming"
+  },
+  {
    "id": "9600a78cb655",
    "aliases": [],
    "title": "2026 서초 웰니스 펫스타",
@@ -343,13 +372,13 @@
    "fee": "unknown",
    "fee_text": "",
    "organizer": "서초구",
-   "url": "https://biz.heraldcorp.com/article/10915548",
+   "url": "https://yonbang.net/news/article.html?no=205263",
    "image": "",
    "image_credit": "",
    "source": "news:biz.heraldcorp.com",
    "grade": "news",
-   "confidence": 0.75,
-   "summary": "반려견 건강 체험과 독댄스, 보물찾기를 즐기는 웰니스 축제예요.",
+   "confidence": 0.8,
+   "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
    "status": "upcoming"
   },
   {
@@ -404,35 +433,6 @@
    "grade": "official",
    "confidence": 1.0,
    "summary": "도그스포츠 대회와 반려견 올림픽, 댕댕하이크를 진행해요.",
-   "status": "upcoming"
-  },
-  {
-   "id": "86d9f9f91868",
-   "aliases": [
-    "af568816f670"
-   ],
-   "title": "2026 반려동물 페스티벌",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "10:00~16:30",
-   "venue": "성남시청 광장",
-   "address": "경기도 성남시 중원구 성남대로 997",
-   "lat": null,
-   "lng": null,
-   "province": "경기",
-   "kind": "festival",
-   "dog": "ok",
-   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "성남시",
-   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
-   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
-   "image_credit": "m.snvision.seongnam.go.kr",
-   "source": "official:m.snvision.seongnam.go.kr",
-   "grade": "official",
-   "confidence": 1.0,
-   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
    "status": "upcoming"
   },
   {
