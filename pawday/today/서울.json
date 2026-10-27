@@ -16,7 +16,7 @@
   "wind_max": 5.8,
   "pm10": 30.0,
   "pm25": 14.0,
-  "fetched_at": "2026-10-27T11:37+09:00",
+  "fetched_at": "2026-10-27T12:10+09:00",
   "hourly": [
    {
     "h": 12,
@@ -226,6 +226,23 @@
    "tier": "S"
   },
   {
+   "name": "분카샤",
+   "category": "cafe",
+   "distance_km": 1.2,
+   "lat": 37.56532931,
+   "lng": 126.992033,
+   "address": "서울특별시 중구 을지로14길 20",
+   "reasons": [
+    "1.2 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 129.0,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "아이라이크마운틴",
    "category": "cafe",
    "distance_km": 4.2,
@@ -241,23 +258,6 @@
    "score": 124.9,
    "match": 68,
    "tier": "S"
-  },
-  {
-   "name": "모스가든",
-   "category": "cafe",
-   "distance_km": 7.1,
-   "lat": 37.51668679,
-   "lng": 127.028327,
-   "address": "서울특별시 강남구 논현로139길 12",
-   "reasons": [
-    "7.1 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 많이 찾는"
-   ],
-   "score": 124.6,
-   "match": 68,
-   "tier": "A"
   },
   {
    "name": "은평역사한옥박물관",
@@ -373,7 +373,7 @@
    "image_credit": "",
    "source": "news:www.nsenior.co.kr",
    "grade": "news",
-   "confidence": 0.7,
+   "confidence": 0.75,
    "summary": "반려동물과 함께하는 문화축제로 공연·전시·체험과 유기견 입양 행사를 열어요.",
    "status": "upcoming"
   },

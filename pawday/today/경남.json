@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 5.6,
-  "pm10": 21.0,
-  "pm25": 10.0,
-  "fetched_at": "2026-10-27T11:37+09:00",
+  "pm10": 22.0,
+  "pm25": 9.0,
+  "fetched_at": "2026-10-27T12:10+09:00",
   "hourly": [
    {
     "h": 12,
@@ -136,22 +136,21 @@
    "tier": "B"
   },
   {
-   "name": "웅천도요지전시관",
-   "category": "culture",
-   "distance_km": 16.7,
-   "lat": 35.1273904,
-   "lng": 128.815599,
-   "address": "경상남도 창원시 진해구 두동도요로 198",
+   "name": "러브앤독 애견카페",
+   "category": "cafe",
+   "distance_km": 9.4,
+   "lat": 35.15538959,
+   "lng": 128.713446,
+   "address": "경상남도 창원시 진해구 냉천로 156",
    "reasons": [
-    "16.7 km",
+    "9.4 km",
     "지금 영업 중",
-    "최근 확인",
     "댕오늘 추천",
     "요즘 많이 찾는"
    ],
-   "score": 117.2,
-   "match": 67,
-   "tier": "S"
+   "score": 118.9,
+   "match": 68,
+   "tier": "A"
   },
   {
    "name": "무진정",
@@ -170,6 +169,24 @@
    "score": 116.9,
    "match": 72,
    "tier": "A"
+  },
+  {
+   "name": "웅천도요지전시관",
+   "category": "culture",
+   "distance_km": 16.7,
+   "lat": 35.1273904,
+   "lng": 128.815599,
+   "address": "경상남도 창원시 진해구 두동도요로 198",
+   "reasons": [
+    "16.7 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 117.2,
+   "match": 67,
+   "tier": "S"
   },
   {
    "name": "국립김해박물관",
@@ -255,19 +272,6 @@
    "tier": "A"
   },
   {
-   "name": "댕포유",
-   "category": "cafe",
-   "distance_km": 15.9,
-   "lat": 35.23515568,
-   "lng": 128.867118,
-   "address": "경상남도 김해시 내외중앙로 60",
-   "reasons": [
-    "15.9 km",
-    "지금 영업 중"
-   ],
-   "score": 94.8
-  },
-  {
    "name": "그루밍카페 1987",
    "category": "cafe",
    "distance_km": 19.2,
@@ -279,13 +283,37 @@
     "지금 영업 중",
     "댕오늘 추천"
    ],
-   "score": 99.6,
-   "match": 68,
-   "tier": "B"
+   "score": 99.6
   }
  ],
  "links": [],
  "events": [
+  {
+   "id": "1860181bc139",
+   "title": "2026 부산 펫쇼",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "time": "",
+   "venue": "벡스코",
+   "address": "부산 해운대구 APEC로 55",
+   "lat": 35.1691716212143,
+   "lng": 129.13625616255,
+   "province": "부산",
+   "kind": "fair",
+   "dog": "unknown",
+   "dog_text": "",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "",
+   "url": "https://www.sano.co.kr/%eb%b0%98%eb%a0%a4%ea%b2%ac-%ec%b6%95%ec%a0%9c-10%ec%9b%94-%ec%9d%bc%ec%a0%95%ea%b3%bc-%ec%a4%80%eb%b9%84%eb%ac%bc-%ed%99%95%ec%9d%b8%ed%95%98%ea%b3%a0-%eb%96%a0%eb%82%98%ec%9a%94",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.sano.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "벡스코에서 열리는 대형 반려동물 박람회예요.",
+   "status": "upcoming"
+  },
   {
    "id": "6f6e149d7d9a",
    "title": "2026 제18회 사천시농업한마당축제",

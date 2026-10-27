@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 5.8,
-  "pm10": 29.0,
-  "pm25": 10.0,
-  "fetched_at": "2026-10-27T11:37+09:00",
+  "pm10": 27.0,
+  "pm25": 9.0,
+  "fetched_at": "2026-10-27T12:10+09:00",
   "hourly": [
    {
     "h": 12,
@@ -290,5 +290,32 @@
   }
  ],
  "links": [],
- "events": []
+ "events": [
+  {
+   "id": "28c355545f2c",
+   "title": "2026 익산 국화축제",
+   "start": "2026-10-23",
+   "end": "2026-11-01",
+   "time": "10:00~21:00",
+   "venue": "익산 중앙체육공원",
+   "address": "전북특별자치도 익산시 하나로 322",
+   "lat": 35.9495023624986,
+   "lng": 126.985852538829,
+   "province": "전북",
+   "kind": "festival",
+   "dog": "leash",
+   "dog_text": "목줄 착용과 배변 봉투 지참 시 야외 공원 동반 입장이 가능하며, 실내·밀집 부스는 제한될 수 있습니다.",
+   "fee": "free",
+   "fee_text": "입장료는 무료이며 일부 체험 부스와 먹거리는 별도 비용이 발생합니다.",
+   "organizer": "",
+   "url": "https://news.parkdaeri.com/%ec%9d%b5%ec%82%b0-%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c-%ec%9d%bc%ec%a0%95-%eb%b0%8f-%ec%9d%b5%ec%82%b0-%ea%b5%ad%ed%99%94%ec%b6%95%ec%a0%9c-%ea%b4%80%eb%9e%8c-%ea%bf%80%ed%8c%81-%ec%a3%bc%ec%b0%a8/",
+   "image": "",
+   "image_credit": "",
+   "source": "news:news.parkdaeri.com",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "목줄과 배변 봉투를 챙기면 반려견과 야외 공원에서 국화축제를 즐길 수 있어요.",
+   "status": "ongoing"
+  }
+ ]
 }

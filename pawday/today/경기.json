@@ -1,9 +1,9 @@
 {
  "province": "경기",
  "date": "2026-10-27",
- "walk_index": 92,
+ "walk_index": 100,
  "reasons": [
-  "미세먼지 보통"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "경기",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 6.2,
-  "pm10": 31.0,
+  "pm10": 30.0,
   "pm25": 13.0,
-  "fetched_at": "2026-10-27T11:37+09:00",
+  "fetched_at": "2026-10-27T12:10+09:00",
   "hourly": [
    {
     "h": 12,
@@ -423,8 +423,34 @@
    "image_credit": "",
    "source": "news:www.nsenior.co.kr",
    "grade": "news",
-   "confidence": 0.7,
+   "confidence": 0.75,
    "summary": "반려동물과 함께하는 문화축제로 공연·전시·체험과 유기견 입양 행사를 열어요.",
+   "status": "upcoming"
+  },
+  {
+   "id": "b7c3645bd03c",
+   "title": "천안 시민과 함께하는 2026 K-DOG FESTIVAL",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "time": "",
+   "venue": "천안 시민체육공원",
+   "address": "충남 천안시 서북구 불당동 218-5",
+   "lat": 36.8129981806225,
+   "lng": 127.110894198732,
+   "province": "충남",
+   "kind": "other",
+   "dog": "unknown",
+   "dog_text": "",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "천안시",
+   "url": "https://www.cheonan.go.kr/bbs/BBSMSTR_000000000030/view.do?nttId=B000000515442Fw5vH8",
+   "image": "",
+   "image_credit": "",
+   "source": "official:www.cheonan.go.kr:snippet",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "도그스포츠 대회와 반려견 올림픽, 댕댕하이크를 진행해요.",
    "status": "upcoming"
   },
   {
