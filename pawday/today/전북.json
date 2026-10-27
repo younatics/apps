@@ -15,8 +15,8 @@
   "sky": "맑음",
   "wind_max": 3.4,
   "pm10": 31.0,
-  "pm25": 8.0,
-  "fetched_at": "2026-10-27T17:37+09:00",
+  "pm25": 7.0,
+  "fetched_at": "2026-10-27T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -154,23 +154,6 @@
    "tier": "B"
   },
   {
-   "name": "두베카페",
-   "category": "cafe",
-   "distance_km": 12.3,
-   "lat": 35.90368121,
-   "lng": 127.243088,
-   "address": "전라북도 완주군 소양면 송광수만로 472-23",
-   "reasons": [
-    "12.3 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 많이 찾는"
-   ],
-   "score": 121.8,
-   "match": 68,
-   "tier": "A"
-  },
-  {
    "name": "전주월드컵경기장",
    "category": "travel",
    "distance_km": 9.0,
@@ -205,23 +188,6 @@
    "score": 127.9,
    "match": 72,
    "tier": "A"
-  },
-  {
-   "name": "삼례문화예술촌",
-   "category": "culture",
-   "distance_km": 11.7,
-   "lat": 35.90623513,
-   "lng": 127.065854,
-   "address": "전라북도 완주군 삼례읍 삼례역로 81-13",
-   "reasons": [
-    "11.7 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 많이 찾는"
-   ],
-   "score": 119.3,
-   "match": 68,
-   "tier": "S"
   },
   {
    "name": "태조밥상",
@@ -273,19 +239,49 @@
    "tier": "B"
   },
   {
-   "name": "김제시민운동장",
-   "category": "playground",
-   "distance_km": 22.4,
-   "lat": 35.81037235,
-   "lng": 126.900053,
-   "address": "전라북도 김제시 도작로 220",
+   "name": "미미몽몽",
+   "category": "lodging",
+   "distance_km": 1.1,
+   "lat": 35.8190167119,
+   "lng": 127.1583857378,
+   "address": "전북특별자치도 전주시 완산구 관선1길 83-1 (남노송동)",
    "reasons": [
-    "22.4 km",
-    "지금 영업 중",
-    "맑아서 야외"
+    "1.1 km",
+    "최근 확인",
+    "요즘 많이 찾는"
    ],
-   "score": 97.7,
-   "match": 72,
+   "score": 99.8,
+   "match": 59,
+   "tier": "C"
+  },
+  {
+   "name": "오늘여기",
+   "category": "cafe",
+   "distance_km": 14.3,
+   "lat": 35.81248959,
+   "lng": 126.98954,
+   "address": "전라북도 김제시 금구면 상사길 50",
+   "reasons": [
+    "14.3 km",
+    "지금 영업 중"
+   ],
+   "score": 93.3,
+   "match": 68,
+   "tier": "B"
+  },
+  {
+   "name": "눈들재",
+   "category": "cafe",
+   "distance_km": 20.1,
+   "lat": 35.95208338,
+   "lng": 126.989896,
+   "address": "전라북도 익산시 선화로65길 34-8",
+   "reasons": [
+    "20.1 km",
+    "지금 영업 중"
+   ],
+   "score": 92.6,
+   "match": 68,
    "tier": "B"
   }
  ],

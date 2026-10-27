@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 8.4,
-  "pm10": 30.0,
-  "pm25": 8.0,
-  "fetched_at": "2026-10-27T17:37+09:00",
+  "pm10": 29.0,
+  "pm25": 7.0,
+  "fetched_at": "2026-10-27T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -155,23 +155,6 @@
    "tier": "B"
   },
   {
-   "name": "국립제주박물관",
-   "category": "culture",
-   "distance_km": 2.2,
-   "lat": 33.51379671,
-   "lng": 126.54791,
-   "address": "제주특별자치도 제주시 일주동로 17",
-   "reasons": [
-    "2.2 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천"
-   ],
-   "score": 119.1,
-   "match": 67,
-   "tier": "B"
-  },
-  {
    "name": "블리스풀",
    "category": "cafe",
    "distance_km": 15.6,
@@ -224,23 +207,6 @@
    "tier": "S"
   },
   {
-   "name": "제주특별자치도 민속자연사박물관",
-   "category": "culture",
-   "distance_km": 0.8,
-   "lat": 33.5063901549,
-   "lng": 126.5313373721,
-   "address": "제주특별자치도 제주시 삼성로 40",
-   "reasons": [
-    "0.8 km",
-    "지금 영업 중",
-    "최근 확인",
-    "요즘 많이 찾는"
-   ],
-   "score": 116.1,
-   "match": 67,
-   "tier": "B"
-  },
-  {
    "name": "N109",
    "category": "cafe",
    "distance_km": 22.8,
@@ -276,6 +242,23 @@
    "tier": "A"
   },
   {
+   "name": "돌하르방미술관",
+   "category": "culture",
+   "distance_km": 15.3,
+   "lat": 33.5395721737,
+   "lng": 126.689646886,
+   "address": "제주특별자치도 제주시 조천읍 북촌서1길 70",
+   "reasons": [
+    "15.3 km",
+    "전 견종 동반 가능",
+    "최근 확인",
+    "요즘 많이 찾는"
+   ],
+   "score": 96.6,
+   "match": 59,
+   "tier": "B"
+  },
+  {
    "name": "돈내코힐 리조트",
    "category": "lodging",
    "distance_km": 22.3,
@@ -289,6 +272,20 @@
    "score": 87.5,
    "match": 59,
    "tier": "A"
+  },
+  {
+   "name": "올레낭",
+   "category": "lodging",
+   "distance_km": 15.8,
+   "lat": 33.43484435,
+   "lng": 126.379982,
+   "address": "제주특별자치도 제주시 애월읍 장소로 205",
+   "reasons": [
+    "15.8 km"
+   ],
+   "score": 86.6,
+   "match": 63,
+   "tier": "C"
   }
  ],
  "links": [],

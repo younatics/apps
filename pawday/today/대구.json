@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 5.2,
-  "pm10": 25.0,
-  "pm25": 9.0,
-  "fetched_at": "2026-10-27T17:37+09:00",
+  "pm10": 22.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-27T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -137,24 +137,6 @@
    "tier": "A"
   },
   {
-   "name": "대구약령시한의약박물관",
-   "category": "culture",
-   "distance_km": 1.1,
-   "lat": 35.86851636,
-   "lng": 128.589908,
-   "address": "대구광역시 중구 달구벌대로415길 49",
-   "reasons": [
-    "1.1 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 많이 찾는"
-   ],
-   "score": 130.1,
-   "match": 67,
-   "tier": "S"
-  },
-  {
    "name": "수성유원지",
    "category": "travel",
    "distance_km": 4.9,
@@ -191,6 +173,23 @@
    "tier": "A"
   },
   {
+   "name": "국채보상운동기념관",
+   "category": "culture",
+   "distance_km": 0.2,
+   "lat": 35.86930105,
+   "lng": 128.601739,
+   "address": "대구광역시 중구 국채보상로 670",
+   "reasons": [
+    "0.2 km",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 많이 찾는"
+   ],
+   "score": 122.5,
+   "match": 62,
+   "tier": "S"
+  },
+  {
    "name": "도기온",
    "category": "cafe",
    "distance_km": 15.0,
@@ -208,21 +207,20 @@
    "tier": "A"
   },
   {
-   "name": "국립대구박물관",
-   "category": "culture",
-   "distance_km": 4.4,
-   "lat": 35.84557453,
-   "lng": 128.638342,
-   "address": "대구광역시 수성구 청호로 321",
+   "name": "카페동이 수성1가점",
+   "category": "restaurant",
+   "distance_km": 2.0,
+   "lat": 35.854967599999995,
+   "lng": 128.6096015,
+   "address": "대구광역시 수성구",
    "reasons": [
-    "4.4 km",
-    "지금 영업 중",
+    "2.0 km",
     "최근 확인",
-    "댕오늘 추천",
+    "교차 확인됨",
     "요즘 많이 찾는"
    ],
-   "score": 126.2,
-   "match": 67,
+   "score": 120.5,
+   "match": 64,
    "tier": "S"
   },
   {
@@ -262,23 +260,6 @@
    "tier": "A"
   },
   {
-   "name": "카페동이 수성1가점",
-   "category": "restaurant",
-   "distance_km": 2.0,
-   "lat": 35.854967599999995,
-   "lng": 128.6096015,
-   "address": "대구광역시 수성구",
-   "reasons": [
-    "2.0 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 많이 찾는"
-   ],
-   "score": 120.5,
-   "match": 64,
-   "tier": "S"
-  },
-  {
    "name": "힐링독",
    "category": "cafe",
    "distance_km": 0.7,
@@ -291,6 +272,22 @@
     "댕오늘 추천"
    ],
    "score": 120.1,
+   "match": 68,
+   "tier": "B"
+  },
+  {
+   "name": "멍뭉몽",
+   "category": "cafe",
+   "distance_km": 7.5,
+   "lat": 35.92527557,
+   "lng": 128.552186,
+   "address": "대구광역시 북구 태암남로 43",
+   "reasons": [
+    "7.5 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 117.5,
    "match": 68,
    "tier": "B"
   }

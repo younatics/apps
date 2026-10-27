@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 4.7,
-  "pm10": 27.0,
-  "pm25": 8.0,
-  "fetched_at": "2026-10-27T17:37+09:00",
+  "pm10": 26.0,
+  "pm25": 9.0,
+  "fetched_at": "2026-10-27T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -153,24 +153,6 @@
    "tier": "B"
   },
   {
-   "name": "하회세계탈박물관",
-   "category": "culture",
-   "distance_km": 3.6,
-   "lat": 36.548609725,
-   "lng": 128.5277448156,
-   "address": "경상북도 안동시 풍천면 전서로 206",
-   "reasons": [
-    "3.6 km",
-    "지금 영업 중",
-    "소형/중형",
-    "최근 확인",
-    "요즘 많이 찾는"
-   ],
-   "score": 117.2,
-   "match": 67,
-   "tier": "A"
-  },
-  {
    "name": "부용대",
    "category": "travel",
    "distance_km": 3.7,
@@ -223,6 +205,21 @@
    "tier": "B"
   },
   {
+   "name": "용문사성보유물관",
+   "category": "culture",
+   "distance_km": 21.1,
+   "lat": 36.73150562,
+   "lng": 128.370525,
+   "address": "경상북도 예천군 용문면 용문사길 285-30",
+   "reasons": [
+    "21.1 km",
+    "최근 확인"
+   ],
+   "score": 85.7,
+   "match": 62,
+   "tier": "C"
+  },
+  {
    "name": "문경(창원)",
    "category": "playground",
    "distance_km": 32.1,
@@ -270,18 +267,18 @@
    "tier": "C"
   },
   {
-   "name": "용문사성보유물관",
-   "category": "culture",
-   "distance_km": 21.1,
-   "lat": 36.73150562,
-   "lng": 128.370525,
-   "address": "경상북도 예천군 용문면 용문사길 285-30",
+   "name": "게스트하우스 play at home(플레이앳홈)",
+   "category": "lodging",
+   "distance_km": 19.3,
+   "lat": 36.5672736337,
+   "lng": 128.7215095058,
+   "address": "경상북도 안동시 금곡길 21-8 (금곡동)",
    "reasons": [
-    "21.1 km",
+    "19.3 km",
     "최근 확인"
    ],
-   "score": 85.7,
-   "match": 62,
+   "score": 82.3,
+   "match": 59,
    "tier": "C"
   }
  ],
