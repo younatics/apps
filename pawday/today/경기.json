@@ -1,9 +1,9 @@
 {
  "province": "경기",
  "date": "2026-10-28",
- "walk_index": 92,
+ "walk_index": 100,
  "reasons": [
-  "미세먼지 보통"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "경기",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.1,
-  "pm10": 31.0,
-  "pm25": 7.0,
-  "fetched_at": "2026-10-28T14:37+09:00",
+  "pm10": 29.0,
+  "pm25": 6.0,
+  "fetched_at": "2026-10-28T15:37+09:00",
   "hourly": [
    {
     "h": 15,
