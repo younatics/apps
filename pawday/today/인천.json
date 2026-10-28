@@ -10,56 +10,16 @@
  "conditions": {
   "province": "인천",
   "date": "2026-10-29",
-  "temp_max": 14.0,
+  "temp_max": 13.0,
   "temp_min": 5.0,
   "rain_prob_max": 60,
   "precip_type": "비",
   "sky": "흐림",
-  "wind_max": 5.2,
-  "pm10": 33.0,
-  "pm25": 12.0,
-  "fetched_at": "2026-10-29T01:07+09:00",
+  "wind_max": 5.0,
+  "pm10": 31.0,
+  "pm25": 13.0,
+  "fetched_at": "2026-10-29T05:53+09:00",
   "hourly": [
-   {
-    "h": 1,
-    "date": "20261029",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 2,
-    "date": "20261029",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 3,
-    "date": "20261029",
-    "temp": 5.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
-   {
-    "h": 4,
-    "date": "20261029",
-    "temp": 5.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
-   {
-    "h": 5,
-    "date": "20261029",
-    "temp": 5.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
    {
     "h": 6,
     "date": "20261029",
@@ -95,31 +55,31 @@
    {
     "h": 10,
     "date": "20261029",
-    "temp": 10.0,
-    "pop": 0,
-    "sky": "맑음",
+    "temp": 9.0,
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 11,
     "date": "20261029",
-    "temp": 11.0,
-    "pop": 0,
-    "sky": "맑음",
+    "temp": 10.0,
+    "pop": 20,
+    "sky": "구름많음",
     "pty": ""
    },
    {
     "h": 12,
     "date": "20261029",
-    "temp": 13.0,
-    "pop": 0,
-    "sky": "맑음",
+    "temp": 12.0,
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 13,
     "date": "20261029",
-    "temp": 14.0,
+    "temp": 13.0,
     "pop": 30,
     "sky": "흐림",
     "pty": ""
@@ -127,7 +87,7 @@
    {
     "h": 14,
     "date": "20261029",
-    "temp": 14.0,
+    "temp": 13.0,
     "pop": 30,
     "sky": "흐림",
     "pty": ""
@@ -135,7 +95,7 @@
    {
     "h": 15,
     "date": "20261029",
-    "temp": 14.0,
+    "temp": 13.0,
     "pop": 30,
     "sky": "흐림",
     "pty": ""
@@ -151,7 +111,7 @@
    {
     "h": 17,
     "date": "20261029",
-    "temp": 13.0,
+    "temp": 12.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -167,7 +127,7 @@
    {
     "h": 19,
     "date": "20261029",
-    "temp": 12.0,
+    "temp": 11.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -175,7 +135,7 @@
    {
     "h": 20,
     "date": "20261029",
-    "temp": 12.0,
+    "temp": 11.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -183,7 +143,7 @@
    {
     "h": 21,
     "date": "20261029",
-    "temp": 12.0,
+    "temp": 11.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -191,7 +151,7 @@
    {
     "h": 22,
     "date": "20261029",
-    "temp": 12.0,
+    "temp": 11.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -211,6 +171,46 @@
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
+   },
+   {
+    "h": 1,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 2,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 3,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 4,
+    "date": "20261030",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 5,
+    "date": "20261030",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
    }
   ]
  },
@@ -229,7 +229,7 @@
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 128.6,
+   "score": 129.8,
    "match": 72,
    "tier": "A"
   },
@@ -250,6 +250,23 @@
    "score": 123.2,
    "match": 65,
    "tier": "S"
+  },
+  {
+   "name": "피트어패트",
+   "category": "restaurant",
+   "distance_km": 9.4,
+   "lat": 37.3937618144703,
+   "lng": 126.633308276601,
+   "address": "인천광역시 연수구 인천타워대로 257 A동 3층",
+   "reasons": [
+    "9.4 km",
+    "낮에 영업",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 118.5,
+   "match": 62,
+   "tier": "B"
   },
   {
    "name": "인천아트플랫폼",
@@ -370,22 +387,6 @@
    "score": 114.8,
    "match": 57,
    "tier": "A"
-  },
-  {
-   "name": "잉글리쉬로즈 송도",
-   "category": "restaurant",
-   "distance_km": 8.9,
-   "lat": 37.3974223046224,
-   "lng": 126.636641328932,
-   "address": "인천광역시 연수구 센트럴로 232 더샵센트럴파크1차 상가 E동 175, 176호",
-   "reasons": [
-    "8.9 km",
-    "낮에 영업",
-    "요즘 인기"
-   ],
-   "score": 111.1,
-   "match": 62,
-   "tier": "A"
   }
  ],
  "links": [],
@@ -404,7 +405,7 @@
    "province": "서울",
    "kind": "other",
    "dog": "ok",
-   "dog_text": "걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방",
+   "dog_text": "걷기·달리기·자전거는 물론 유아차와 반려견 동반까지",
    "fee": "free",
    "fee_text": "무료",
    "organizer": "서울특별시",
@@ -414,7 +415,7 @@
    "source": "official:kto_festival",
    "grade": "official",
    "confidence": 1.0,
-   "summary": "누구나 자신의 속도로 즐기는 주말 아침, ‘쉬엄쉬엄모닝’이 열린다. 걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방식으로 참여할 수 있는 서울형 아침 운동 프로그램이다. 기록과 순",
+   "summary": "누구나 자신의 속도로 즐기는 주말 아침, ‘쉬엄쉬엄모닝’이 열린다. 걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방식으로 참여할 수 있는 서울형 아침 운동 프로그램이다.",
    "status": "ongoing"
   },
   {
@@ -461,13 +462,13 @@
    "dog_text": "반려견과 함께하는 웰니스 축제 한마당",
    "fee": "unknown",
    "fee_text": "",
-   "organizer": "서초구",
-   "url": "https://yonbang.net/news/article.html?no=205263",
+   "organizer": "서울 서초구",
+   "url": "https://www.fairnews.co.kr/news/section.html?sec_no=153",
    "image": "",
    "image_credit": "",
    "source": "news:biz.heraldcorp.com",
    "grade": "news",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
    "status": "upcoming"
   },
@@ -515,7 +516,7 @@
    "kind": "fair",
    "dog": "ok",
    "dog_text": "반려동물 동반 박람회",
-   "fee": "free",
+   "fee": "paid",
    "fee_text": "정가 12,000원 · 사전등록 무료",
    "organizer": "케이펫페어",
    "url": "https://k-pet.co.kr/26pet_megazoo2/",
@@ -525,6 +526,33 @@
    "grade": "organizer",
    "confidence": 0.9,
    "summary": "",
+   "status": "upcoming"
+  },
+  {
+   "id": "e69ceff42c8f",
+   "aliases": [],
+   "title": "2026 우리들의 반려일기",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "time": "",
+   "venue": "현대백화점 킨텍스점(11월 21일), 가든파이브(11월 29일)",
+   "address": "경기 고양시 일산서구 호수로 817",
+   "lat": 37.66825815853768,
+   "lng": 126.75115248136792,
+   "province": "경기",
+   "kind": "other",
+   "dog": "ok",
+   "dog_text": "반려견 유모차 또는 매너벨트 이용 시 동반 가능",
+   "fee": "free",
+   "fee_text": "참가비 무료",
+   "organizer": "머니투데이방송 MTN",
+   "url": "https://news.mtn.co.kr/article/2026102815234823348",
+   "image": "",
+   "image_credit": "",
+   "source": "news:news.mtn.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "11월 21일 고양과 29일 서울에서 설채현 수의사의 반려생활 토크콘서트를 열어요.",
    "status": "upcoming"
   }
  ]

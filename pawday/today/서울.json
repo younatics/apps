@@ -1,65 +1,24 @@
 {
  "province": "서울",
  "date": "2026-10-29",
- "walk_index": 52,
+ "walk_index": 60,
  "reasons": [
   "강수 확률 60%",
-  "비 예보",
-  "미세먼지 보통"
+  "비 예보"
  ],
  "conditions": {
   "province": "서울",
   "date": "2026-10-29",
-  "temp_max": 14.0,
+  "temp_max": 13.0,
   "temp_min": 5.0,
   "rain_prob_max": 60,
   "precip_type": "비",
   "sky": "흐림",
-  "wind_max": 3.4,
-  "pm10": 32.0,
-  "pm25": 12.0,
-  "fetched_at": "2026-10-29T01:07+09:00",
+  "wind_max": 3.3,
+  "pm10": 29.0,
+  "pm25": 11.0,
+  "fetched_at": "2026-10-29T05:53+09:00",
   "hourly": [
-   {
-    "h": 1,
-    "date": "20261029",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 2,
-    "date": "20261029",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 3,
-    "date": "20261029",
-    "temp": 6.0,
-    "pop": 20,
-    "sky": "구름많음",
-    "pty": ""
-   },
-   {
-    "h": 4,
-    "date": "20261029",
-    "temp": 5.0,
-    "pop": 20,
-    "sky": "구름많음",
-    "pty": ""
-   },
-   {
-    "h": 5,
-    "date": "20261029",
-    "temp": 5.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
    {
     "h": 6,
     "date": "20261029",
@@ -88,46 +47,46 @@
     "h": 9,
     "date": "20261029",
     "temp": 7.0,
-    "pop": 0,
-    "sky": "맑음",
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 10,
     "date": "20261029",
     "temp": 9.0,
-    "pop": 0,
-    "sky": "맑음",
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 11,
     "date": "20261029",
-    "temp": 11.0,
-    "pop": 0,
-    "sky": "맑음",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 12,
     "date": "20261029",
-    "temp": 12.0,
-    "pop": 0,
-    "sky": "맑음",
+    "temp": 11.0,
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 13,
     "date": "20261029",
-    "temp": 13.0,
-    "pop": 20,
-    "sky": "구름많음",
+    "temp": 12.0,
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 14,
     "date": "20261029",
-    "temp": 14.0,
+    "temp": 13.0,
     "pop": 30,
     "sky": "흐림",
     "pty": ""
@@ -135,7 +94,7 @@
    {
     "h": 15,
     "date": "20261029",
-    "temp": 14.0,
+    "temp": 13.0,
     "pop": 30,
     "sky": "흐림",
     "pty": ""
@@ -143,7 +102,7 @@
    {
     "h": 16,
     "date": "20261029",
-    "temp": 14.0,
+    "temp": 13.0,
     "pop": 30,
     "sky": "흐림",
     "pty": ""
@@ -151,7 +110,7 @@
    {
     "h": 17,
     "date": "20261029",
-    "temp": 13.0,
+    "temp": 12.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -167,7 +126,7 @@
    {
     "h": 19,
     "date": "20261029",
-    "temp": 12.0,
+    "temp": 11.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -210,6 +169,46 @@
     "temp": 11.0,
     "pop": 30,
     "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 1,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 2,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 3,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 4,
+    "date": "20261030",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 5,
+    "date": "20261030",
+    "temp": 10.0,
+    "pop": 20,
+    "sky": "구름많음",
     "pty": ""
    }
   ]
@@ -344,24 +343,6 @@
    "tier": "S"
   },
   {
-   "name": "아이노가든키친",
-   "category": "restaurant",
-   "distance_km": 0.9,
-   "lat": 37.5727758,
-   "lng": 126.97125,
-   "address": "서울특별시 종로구 경희궁2길 10 2층",
-   "reasons": [
-    "0.9 km",
-    "낮에 영업",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 119.4,
-   "match": 62,
-   "tier": "S"
-  },
-  {
    "name": "마포새빛문화숲",
    "category": "park",
    "distance_km": 5.7,
@@ -379,20 +360,38 @@
    "tier": "S"
   },
   {
-   "name": "데일리픽스 을지로",
+   "name": "아이노가든키친",
    "category": "restaurant",
-   "distance_km": 0.3,
-   "lat": 37.5671469,
-   "lng": 126.98129739999999,
-   "address": "서울특별시 중구 남대문로9길 24",
+   "distance_km": 0.9,
+   "lat": 37.5727758,
+   "lng": 126.97125,
+   "address": "서울특별시 종로구 경희궁2길 10 2층",
    "reasons": [
-    "0.3 km",
+    "0.9 km",
+    "낮에 영업",
     "최근 확인",
     "교차 확인됨",
     "요즘 인기"
    ],
-   "score": 114.9,
-   "match": 59,
+   "score": 116.4,
+   "match": 62,
+   "tier": "S"
+  },
+  {
+   "name": "목멱산방 남산타워점",
+   "category": "restaurant",
+   "distance_km": 1.4,
+   "lat": 37.555322,
+   "lng": 126.98527720000001,
+   "address": "서울특별시 중구 남산공원길 627",
+   "reasons": [
+    "1.4 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 111.7,
+   "match": 62,
    "tier": "S"
   }
  ],
@@ -412,7 +411,7 @@
    "province": "서울",
    "kind": "other",
    "dog": "ok",
-   "dog_text": "걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방",
+   "dog_text": "걷기·달리기·자전거는 물론 유아차와 반려견 동반까지",
    "fee": "free",
    "fee_text": "무료",
    "organizer": "서울특별시",
@@ -422,7 +421,7 @@
    "source": "official:kto_festival",
    "grade": "official",
    "confidence": 1.0,
-   "summary": "누구나 자신의 속도로 즐기는 주말 아침, ‘쉬엄쉬엄모닝’이 열린다. 걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방식으로 참여할 수 있는 서울형 아침 운동 프로그램이다. 기록과 순",
+   "summary": "누구나 자신의 속도로 즐기는 주말 아침, ‘쉬엄쉬엄모닝’이 열린다. 걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방식으로 참여할 수 있는 서울형 아침 운동 프로그램이다.",
    "status": "ongoing"
   },
   {
@@ -469,13 +468,13 @@
    "dog_text": "반려견과 함께하는 웰니스 축제 한마당",
    "fee": "unknown",
    "fee_text": "",
-   "organizer": "서초구",
-   "url": "https://yonbang.net/news/article.html?no=205263",
+   "organizer": "서울 서초구",
+   "url": "https://www.fairnews.co.kr/news/section.html?sec_no=153",
    "image": "",
    "image_credit": "",
    "source": "news:biz.heraldcorp.com",
    "grade": "news",
-   "confidence": 0.8,
+   "confidence": 0.9,
    "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
    "status": "upcoming"
   },
@@ -524,7 +523,7 @@
    "province": "경기",
    "kind": "other",
    "dog": "ok",
-   "dog_text": "다운 한탄강 생태경관단지를 배경으로 반려견과 함께 걷는 댕댕트레킹을 비롯하여 펫니스",
+   "dog_text": "아름다운 한탄강 생태경관단지를 배경으로 반려견과 함께 걷는 댕댕트레킹을 비롯하여 펫니스 요가 클래스",
    "fee": "paid",
    "fee_text": "유료(아트밸리 입장료 참고)",
    "organizer": "포천시",
@@ -534,7 +533,7 @@
    "source": "official:kto_festival",
    "grade": "official",
    "confidence": 1.0,
-   "summary": "2026 포천 펫스타 in 아트밸리는 반려가족 그리고 반려동물을 사랑하는 누구나 함께 즐길 수 있는 참여형 반려문화 축제이다. 아름다운 한탄강 생태경관단지를 배경으로 반려견과 함께 걷는 댕댕트레킹을 비롯하여 펫니스 ",
+   "summary": "2026 포천 펫스타 in 아트밸리는 반려가족 그리고 반려동물을 사랑하는 누구나 함께 즐길 수 있는 참여형 반려문화 축제이다.",
    "status": "upcoming"
   },
   {
@@ -552,7 +551,7 @@
    "kind": "fair",
    "dog": "ok",
    "dog_text": "반려동물 동반 박람회",
-   "fee": "free",
+   "fee": "paid",
    "fee_text": "정가 12,000원 · 사전등록 무료",
    "organizer": "케이펫페어",
    "url": "https://k-pet.co.kr/26pet_megazoo2/",
@@ -562,6 +561,33 @@
    "grade": "organizer",
    "confidence": 0.9,
    "summary": "",
+   "status": "upcoming"
+  },
+  {
+   "id": "e69ceff42c8f",
+   "aliases": [],
+   "title": "2026 우리들의 반려일기",
+   "start": "2026-11-21",
+   "end": "2026-11-29",
+   "time": "",
+   "venue": "현대백화점 킨텍스점(11월 21일), 가든파이브(11월 29일)",
+   "address": "경기 고양시 일산서구 호수로 817",
+   "lat": 37.66825815853768,
+   "lng": 126.75115248136792,
+   "province": "경기",
+   "kind": "other",
+   "dog": "ok",
+   "dog_text": "반려견 유모차 또는 매너벨트 이용 시 동반 가능",
+   "fee": "free",
+   "fee_text": "참가비 무료",
+   "organizer": "머니투데이방송 MTN",
+   "url": "https://news.mtn.co.kr/article/2026102815234823348",
+   "image": "",
+   "image_credit": "",
+   "source": "news:news.mtn.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "11월 21일 고양과 29일 서울에서 설채현 수의사의 반려생활 토크콘서트를 열어요.",
    "status": "upcoming"
   }
  ]
