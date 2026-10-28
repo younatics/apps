@@ -1,39 +1,23 @@
 {
  "province": "경북",
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "walk_index": 100,
  "reasons": [
   "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "경북",
-  "date": "2026-10-28",
-  "temp_max": 5.0,
-  "temp_min": 3.0,
-  "rain_prob_max": 0,
+  "date": "2026-10-29",
+  "temp_max": 14.0,
+  "temp_min": -1.0,
+  "rain_prob_max": 30,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 0.8,
-  "pm10": 25.0,
+  "wind_max": 1.6,
+  "pm10": 23.0,
   "pm25": 12.0,
-  "fetched_at": "2026-10-28T22:37+09:00",
+  "fetched_at": "2026-10-29T00:07+09:00",
   "hourly": [
-   {
-    "h": 22,
-    "date": "20261028",
-    "temp": 4.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 23,
-    "date": "20261028",
-    "temp": 3.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 0,
     "date": "20261029",
@@ -209,10 +193,43 @@
     "pop": 30,
     "sky": "흐림",
     "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261029",
+    "temp": 8.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261029",
+    "temp": 8.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
    }
   ]
  },
  "picks": [
+  {
+   "name": "화수헌",
+   "category": "cafe",
+   "distance_km": 23.3,
+   "lat": 36.63912171,
+   "lng": 128.256148,
+   "address": "경상북도 문경시 산양면 현리3길 9",
+   "reasons": [
+    "23.3 km",
+    "낮에 영업",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 120.4,
+   "match": 68,
+   "tier": "B"
+  },
   {
    "name": "하회세계탈박물관",
    "category": "culture",
@@ -222,12 +239,12 @@
    "address": "경상북도 안동시 풍천면 전서로 206",
    "reasons": [
     "3.6 km",
-    "내일 영업",
+    "낮에 영업",
     "소형/중형",
     "최근 확인",
     "요즘 인기"
    ],
-   "score": 119.5,
+   "score": 115.6,
    "match": 67,
    "tier": "A"
   },
@@ -245,26 +262,9 @@
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 118.9,
+   "score": 114.2,
    "match": 72,
    "tier": "A"
-  },
-  {
-   "name": "화수헌",
-   "category": "cafe",
-   "distance_km": 23.3,
-   "lat": 36.63912171,
-   "lng": 128.256148,
-   "address": "경상북도 문경시 산양면 현리3길 9",
-   "reasons": [
-    "23.3 km",
-    "내일 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 116.5,
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "부용대",
@@ -280,7 +280,7 @@
     "최근 확인",
     "요즘 인기"
    ],
-   "score": 109.9,
+   "score": 106.7,
    "match": 64,
    "tier": "A"
   },
@@ -298,25 +298,24 @@
     "최근 확인",
     "요즘 인기"
    ],
-   "score": 98.9,
-   "match": 64,
+   "score": 104.5,
+   "match": 67,
    "tier": "A"
   },
   {
-   "name": "미스터멍",
-   "category": "cafe",
-   "distance_km": 22.3,
-   "lat": 36.54828656,
-   "lng": 128.753412,
-   "address": "경상북도 안동시 강남로 492",
+   "name": "문경(창원)",
+   "category": "playground",
+   "distance_km": 32.1,
+   "lat": 36.620680449887,
+   "lng": 128.149820411221,
+   "address": "로컬푸드 판매장 뒤",
    "reasons": [
-    "22.3 km",
-    "내일 영업",
-    "최근 확인"
+    "32.1 km",
+    "맑아서 야외"
    ],
-   "score": 92.1,
-   "match": 68,
-   "tier": "B"
+   "score": 92.5,
+   "match": 69,
+   "tier": "C"
   },
   {
    "name": "함창명주테마파크공원",
@@ -331,24 +330,25 @@
     "맑아서 야외",
     "최근 확인"
    ],
-   "score": 89.3,
-   "match": 64,
+   "score": 93.5,
+   "match": 67,
    "tier": "D"
   },
   {
-   "name": "문경(창원)",
-   "category": "playground",
-   "distance_km": 32.1,
-   "lat": 36.620680449887,
-   "lng": 128.149820411221,
-   "address": "로컬푸드 판매장 뒤",
+   "name": "미스터멍",
+   "category": "cafe",
+   "distance_km": 22.3,
+   "lat": 36.54828656,
+   "lng": 128.753412,
+   "address": "경상북도 안동시 강남로 492",
    "reasons": [
-    "32.1 km",
-    "맑아서 야외"
+    "22.3 km",
+    "낮에 영업",
+    "최근 확인"
    ],
-   "score": 83.9,
-   "match": 66,
-   "tier": "C"
+   "score": 91.8,
+   "match": 68,
+   "tier": "B"
   },
   {
    "name": "덕용재4.9",
@@ -361,23 +361,23 @@
     "15.5 km",
     "최근 확인"
    ],
-   "score": 80.6,
+   "score": 79.0,
    "match": 59,
    "tier": "C"
   },
   {
-   "name": "용문사성보유물관",
-   "category": "culture",
-   "distance_km": 21.1,
-   "lat": 36.73150562,
-   "lng": 128.370525,
-   "address": "경상북도 예천군 용문면 용문사길 285-30",
+   "name": "게스트하우스 play at home(플레이앳홈)",
+   "category": "lodging",
+   "distance_km": 19.3,
+   "lat": 36.5672736337,
+   "lng": 128.7215095058,
+   "address": "경상북도 안동시 금곡길 21-8 (금곡동)",
    "reasons": [
-    "21.1 km",
+    "19.3 km",
     "최근 확인"
    ],
-   "score": 83.2,
-   "match": 62,
+   "score": 80.7,
+   "match": 59,
    "tier": "C"
   }
  ],
