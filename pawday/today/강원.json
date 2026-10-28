@@ -1,39 +1,23 @@
 {
  "province": "강원",
  "date": "2026-10-28",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "강원",
   "date": "2026-10-28",
   "temp_max": 14.0,
-  "temp_min": 3.0,
+  "temp_min": 4.0,
   "rain_prob_max": 0,
   "precip_type": "",
   "sky": "맑음",
-  "wind_max": 2.0,
-  "pm10": 26.0,
-  "pm25": 9.0,
-  "fetched_at": "2026-10-28T10:37+09:00",
+  "wind_max": 1.9,
+  "pm10": 32.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-28T11:37+09:00",
   "hourly": [
-   {
-    "h": 10,
-    "date": "20261028",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 11,
-    "date": "20261028",
-    "temp": 8.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 12,
     "date": "20261028",
@@ -209,10 +193,44 @@
     "pop": 30,
     "sky": "흐림",
     "pty": ""
+   },
+   {
+    "h": 10,
+    "date": "20261029",
+    "temp": 6.0,
+    "pop": 20,
+    "sky": "구름많음",
+    "pty": ""
+   },
+   {
+    "h": 11,
+    "date": "20261029",
+    "temp": 9.0,
+    "pop": 20,
+    "sky": "구름많음",
+    "pty": ""
    }
   ]
  },
  "picks": [
+  {
+   "name": "춘천송암스포츠타운",
+   "category": "travel",
+   "distance_km": 4.5,
+   "lat": 37.85525199,
+   "lng": 127.689958,
+   "address": "강원특별자치도 춘천시 송암동 297",
+   "reasons": [
+    "4.5 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 132.1,
+   "match": 72,
+   "tier": "S"
+  },
   {
    "name": "감자밭",
    "category": "restaurant",
@@ -230,6 +248,24 @@
    ],
    "score": 125.0,
    "match": 67,
+   "tier": "S"
+  },
+  {
+   "name": "리버레인",
+   "category": "cafe",
+   "distance_km": 1.6,
+   "lat": 37.884610099999996,
+   "lng": 127.71210899999998,
+   "address": "강원특별자치도 춘천시 영서로 2529-47",
+   "reasons": [
+    "1.6 km",
+    "지금 영업 중",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 122.2,
+   "match": 64,
    "tier": "S"
   },
   {
@@ -251,25 +287,6 @@
    "tier": "S"
   },
   {
-   "name": "청평사",
-   "category": "travel",
-   "distance_km": 13.5,
-   "lat": 37.98607131,
-   "lng": 127.808452,
-   "address": "강원특별자치도 춘천시 북산면 오봉산길 810",
-   "reasons": [
-    "13.5 km",
-    "지금 영업 중",
-    "소형/중형",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 124.3,
-   "match": 71,
-   "tier": "A"
-  },
-  {
    "name": "강아지숲 박물관",
    "category": "culture",
    "distance_km": 17.2,
@@ -288,24 +305,6 @@
    "tier": "B"
   },
   {
-   "name": "소울 로스터리",
-   "category": "cafe",
-   "distance_km": 5.8,
-   "lat": 37.9243555,
-   "lng": 127.76721560000001,
-   "address": "강원특별자치도 춘천시 동면 소양강로 538 샵5건물앞",
-   "reasons": [
-    "5.8 km",
-    "지금 영업 중",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 113.9,
-   "match": 64,
-   "tier": "A"
-  },
-  {
    "name": "공지천조각공원",
    "category": "park",
    "distance_km": 1.7,
@@ -320,6 +319,24 @@
     "요즘 인기"
    ],
    "score": 109.2,
+   "match": 64,
+   "tier": "A"
+  },
+  {
+   "name": "소울 로스터리",
+   "category": "cafe",
+   "distance_km": 5.8,
+   "lat": 37.9243555,
+   "lng": 127.76721560000001,
+   "address": "강원특별자치도 춘천시 동면 소양강로 538 샵5건물앞",
+   "reasons": [
+    "5.8 km",
+    "지금 영업 중",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 113.9,
    "match": 64,
    "tier": "A"
   },
@@ -367,24 +384,23 @@
    "score": 100.7,
    "match": 59,
    "tier": "B"
-  },
-  {
-   "name": "예와생스튜디오카페",
-   "category": "cafe",
-   "distance_km": 6.4,
-   "lat": 37.92083812,
-   "lng": 127.7822099,
-   "address": "강원특별자치도 춘천시 동면 가산로 186-5",
-   "reasons": [
-    "6.4 km",
-    "요즘 인기"
-   ],
-   "score": 105.0,
-   "match": 59,
-   "tier": "B"
   }
  ],
- "links": [],
+ "links": [
+  {
+   "source": "youtube",
+   "id": "PFaf1Xg_F6I",
+   "url": "https://www.youtube.com/watch?v=PFaf1Xg_F6I",
+   "title": "가평 대형카페 리버레인 탁트린한강뷰카페 애견동반카페 서울근교드라이브코스",
+   "channel": "먹고노는중",
+   "published": "2026-10-26T18:50:00Z",
+   "found_at": "2026-10-26T20:41:34+00:00",
+   "expires_at": "2026-11-26T20:40:40+00:00",
+   "places": [
+    "리버레인"
+   ]
+  }
+ ],
  "events": [
   {
    "id": "ba4439de64bb",
