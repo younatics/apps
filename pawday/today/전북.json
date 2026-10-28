@@ -1,9 +1,9 @@
 {
  "province": "전북",
  "date": "2026-10-28",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "전북",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.2,
-  "pm10": 28.0,
-  "pm25": 7.0,
-  "fetched_at": "2026-10-28T08:37+09:00",
+  "pm10": 32.0,
+  "pm25": 9.0,
+  "fetched_at": "2026-10-28T09:37+09:00",
   "hourly": [
    {
     "h": 9,

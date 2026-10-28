@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.1,
-  "pm10": 25.0,
-  "pm25": 7.0,
-  "fetched_at": "2026-10-28T08:37+09:00",
+  "pm10": 27.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-28T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -232,6 +232,24 @@
    "tier": "S"
   },
   {
+   "name": "광주역사민속박물관",
+   "category": "culture",
+   "distance_km": 4.3,
+   "lat": 35.18441617,
+   "lng": 126.888436,
+   "address": "광주광역시 북구 서하로 48-25",
+   "reasons": [
+    "4.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 128.5,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "중외공원",
    "category": "park",
    "distance_km": 3.6,
@@ -269,6 +287,24 @@
    "tier": "B"
   },
   {
+   "name": "아시아문화박물관",
+   "category": "culture",
+   "distance_km": 6.3,
+   "lat": 35.1470573,
+   "lng": 126.920031,
+   "address": "광주광역시 동구 문화전당로 38",
+   "reasons": [
+    "6.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 125.7,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "죽녹원",
    "category": "travel",
    "distance_km": 22.3,
@@ -288,18 +324,18 @@
    "tier": "S"
   },
   {
-   "name": "먼데이오프플리즈",
+   "name": "반달옥",
    "category": "restaurant",
-   "distance_km": 6.5,
-   "lat": 35.1491043,
-   "lng": 126.9231572,
-   "address": "광주광역시 동구 장동로",
+   "distance_km": 6.4,
+   "lat": 35.1266657,
+   "lng": 126.91044149999999,
+   "address": "광주광역시",
    "reasons": [
-    "6.5 km",
+    "6.4 km",
     "최근 확인",
     "요즘 인기"
    ],
-   "score": 110.6,
+   "score": 109.0,
    "match": 61,
    "tier": "B"
   },
@@ -337,55 +373,20 @@
    "tier": "B"
   },
   {
-   "name": "반달옥",
+   "name": "먼데이오프플리즈",
    "category": "restaurant",
-   "distance_km": 6.4,
-   "lat": 35.1266657,
-   "lng": 126.91044149999999,
-   "address": "광주광역시",
+   "distance_km": 6.5,
+   "lat": 35.1491043,
+   "lng": 126.9231572,
+   "address": "광주광역시 동구 장동로",
    "reasons": [
-    "6.4 km",
+    "6.5 km",
     "최근 확인",
     "요즘 인기"
    ],
-   "score": 109.0,
+   "score": 110.6,
    "match": 61,
    "tier": "B"
-  },
-  {
-   "name": "당산나무집",
-   "category": "restaurant",
-   "distance_km": 6.3,
-   "lat": 35.1299425,
-   "lng": 126.9122706,
-   "address": "광주광역시 남구 봉선중길 4",
-   "reasons": [
-    "6.3 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 108.4,
-   "match": 61,
-   "tier": "B"
-  },
-  {
-   "name": "양림동 펭귄마을공예거리",
-   "category": "travel",
-   "distance_km": 6.2,
-   "lat": 35.1401818199,
-   "lng": 126.9162771097,
-   "address": "전남광주통합특별시 남구 백서로 92-8 (양림동)",
-   "reasons": [
-    "6.2 km",
-    "전 견종 동반 가능",
-    "맑아서 야외",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 107.9,
-   "match": 64,
-   "tier": "A"
   }
  ],
  "links": [],
