@@ -48,6 +48,15 @@
   document.getElementById('open').setAttribute('href', 'pawday://' + kind + location.search);
   const banner = document.querySelector('meta[name="apple-itunes-app"]');
   banner.setAttribute('content', 'app-id=6826581588, app-argument=' + location.href);
+  // Kyle 2026-10-29 "깔려있으면 이동하고, 아니면 웹페이지": an in-app browser (KakaoTalk, Instagram, …) never hands a universal link
+  // to the app, so the page opens the app itself; without the app nothing happens and this page stays. Not Safari or Chrome: without
+  // the app they say the address is invalid, and a link tapped in Messages or Mail has opened the app before this page loads.
+  function opensApp(ua) {
+    if (!/iPhone|iPad|iPod/.test(ua)) return false;
+    if (/KAKAOTALK|Instagram|Barcelona|FBAN|FBAV|FB_IAB|NAVER\(inapp|DaumApps|Line\/|BAND\/|Twitter/.test(ua)) return true;
+    return !/Safari\//.test(ua);   // another app's bare web view; Safari, Chrome, Firefox and Edge all name Safari
+  }
+  if (opensApp(navigator.userAgent)) location.href = 'pawday://' + kind + location.search;
 </script>
 </body>
 </html>
