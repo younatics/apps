@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 1.5,
-  "pm10": 24.0,
+  "pm10": 27.0,
   "pm25": 7.0,
-  "fetched_at": "2026-10-28T17:37+09:00",
+  "fetched_at": "2026-10-28T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -288,24 +288,6 @@
    "tier": "S"
   },
   {
-   "name": "강아지숲 박물관",
-   "category": "culture",
-   "distance_km": 17.2,
-   "lat": 37.73643502,
-   "lng": 127.66202,
-   "address": "강원특별자치도 춘천시 남산면 충효로 437",
-   "reasons": [
-    "17.2 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 114.8,
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "퍼피쿵",
    "category": "cafe",
    "distance_km": 2.9,
@@ -385,6 +367,21 @@
    "score": 106.7,
    "match": 62,
    "tier": "C"
+  },
+  {
+   "name": "수한예",
+   "category": "lodging",
+   "distance_km": 3.4,
+   "lat": 37.90500504,
+   "lng": 127.7536696,
+   "address": "강원특별자치도 춘천시 동면 하일길 197",
+   "reasons": [
+    "3.4 km",
+    "요즘 인기"
+   ],
+   "score": 100.7,
+   "match": 59,
+   "tier": "B"
   }
  ],
  "links": [

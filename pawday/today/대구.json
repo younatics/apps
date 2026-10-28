@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 1.0,
-  "pm10": 14.0,
-  "pm25": 6.0,
-  "fetched_at": "2026-10-28T17:37+09:00",
+  "pm10": 16.0,
+  "pm25": 7.0,
+  "fetched_at": "2026-10-28T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -233,21 +233,20 @@
    "tier": "A"
   },
   {
-   "name": "국립대구박물관",
+   "name": "국채보상운동기념관",
    "category": "culture",
-   "distance_km": 4.4,
-   "lat": 35.84557453,
-   "lng": 128.638342,
-   "address": "대구광역시 수성구 청호로 321",
+   "distance_km": 0.2,
+   "lat": 35.86930105,
+   "lng": 128.601739,
+   "address": "대구광역시 중구 국채보상로 670",
    "reasons": [
-    "4.4 km",
-    "지금 영업 중",
+    "0.2 km",
     "최근 확인",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 128.3,
-   "match": 67,
+   "score": 126.1,
+   "match": 62,
    "tier": "S"
   },
   {
@@ -287,23 +286,6 @@
    "tier": "B"
   },
   {
-   "name": "남포",
-   "category": "restaurant",
-   "distance_km": 0.1,
-   "lat": 35.8712084,
-   "lng": 128.6001868,
-   "address": "대구광역시 중구 경상감영길 238",
-   "reasons": [
-    "0.1 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 122.0,
-   "match": 64,
-   "tier": "S"
-  },
-  {
    "name": "앞산공원",
    "category": "park",
    "distance_km": 5.6,
@@ -322,23 +304,6 @@
    "tier": "A"
   },
   {
-   "name": "국채보상운동기념관",
-   "category": "culture",
-   "distance_km": 0.2,
-   "lat": 35.86930105,
-   "lng": 128.601739,
-   "address": "대구광역시 중구 국채보상로 670",
-   "reasons": [
-    "0.2 km",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 126.1,
-   "match": 62,
-   "tier": "S"
-  },
-  {
    "name": "수성유원지",
    "category": "travel",
    "distance_km": 4.9,
@@ -355,6 +320,23 @@
    "score": 125.7,
    "match": 72,
    "tier": "B"
+  },
+  {
+   "name": "남포",
+   "category": "restaurant",
+   "distance_km": 0.1,
+   "lat": 35.8712084,
+   "lng": 128.6001868,
+   "address": "대구광역시 중구 경상감영길 238",
+   "reasons": [
+    "0.1 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 122.0,
+   "match": 64,
+   "tier": "S"
   },
   {
    "name": "도기온",
@@ -388,6 +370,23 @@
    ],
    "score": 120.3,
    "match": 64,
+   "tier": "S"
+  },
+  {
+   "name": "대구약령시한의약박물관",
+   "category": "culture",
+   "distance_km": 1.1,
+   "lat": 35.86851636,
+   "lng": 128.589908,
+   "address": "대구광역시 중구 달구벌대로415길 49",
+   "reasons": [
+    "1.1 km",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 122.9,
+   "match": 62,
    "tier": "S"
   }
  ],

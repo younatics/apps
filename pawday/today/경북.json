@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.1,
-  "pm10": 20.0,
-  "pm25": 6.0,
-  "fetched_at": "2026-10-28T17:37+09:00",
+  "pm10": 22.0,
+  "pm25": 8.0,
+  "fetched_at": "2026-10-28T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -214,24 +214,6 @@
  },
  "picks": [
   {
-   "name": "하회세계탈박물관",
-   "category": "culture",
-   "distance_km": 3.6,
-   "lat": 36.548609725,
-   "lng": 128.5277448156,
-   "address": "경상북도 안동시 풍천면 전서로 206",
-   "reasons": [
-    "3.6 km",
-    "지금 영업 중",
-    "소형/중형",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 119.5,
-   "match": 67,
-   "tier": "A"
-  },
-  {
    "name": "사인암",
    "category": "travel",
    "distance_km": 38.0,
@@ -351,21 +333,6 @@
    "tier": "C"
   },
   {
-   "name": "덕용재4.9",
-   "category": "lodging",
-   "distance_km": 15.5,
-   "lat": 36.6918174421,
-   "lng": 128.4096697675,
-   "address": "경상북도 예천군 용문면 금당실길 78-1",
-   "reasons": [
-    "15.5 km",
-    "최근 확인"
-   ],
-   "score": 80.6,
-   "match": 59,
-   "tier": "C"
-  },
-  {
    "name": "용문사성보유물관",
    "category": "culture",
    "distance_km": 21.1,
@@ -378,6 +345,36 @@
    ],
    "score": 83.2,
    "match": 62,
+   "tier": "C"
+  },
+  {
+   "name": "게스트하우스 play at home(플레이앳홈)",
+   "category": "lodging",
+   "distance_km": 19.3,
+   "lat": 36.5672736337,
+   "lng": 128.7215095058,
+   "address": "경상북도 안동시 금곡길 21-8 (금곡동)",
+   "reasons": [
+    "19.3 km",
+    "최근 확인"
+   ],
+   "score": 81.2,
+   "match": 59,
+   "tier": "C"
+  },
+  {
+   "name": "덕용재4.9",
+   "category": "lodging",
+   "distance_km": 15.5,
+   "lat": 36.6918174421,
+   "lng": 128.4096697675,
+   "address": "경상북도 예천군 용문면 금당실길 78-1",
+   "reasons": [
+    "15.5 km",
+    "최근 확인"
+   ],
+   "score": 80.6,
+   "match": 59,
    "tier": "C"
   }
  ],
