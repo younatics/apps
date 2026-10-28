@@ -1,9 +1,9 @@
 {
  "province": "강원",
  "date": "2026-10-28",
- "walk_index": 92,
+ "walk_index": 100,
  "reasons": [
-  "미세먼지 보통"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "강원",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 1.9,
-  "pm10": 32.0,
+  "pm10": 30.0,
   "pm25": 8.0,
-  "fetched_at": "2026-10-28T11:37+09:00",
+  "fetched_at": "2026-10-28T12:37+09:00",
   "hourly": [
    {
     "h": 12,
