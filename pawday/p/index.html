@@ -29,10 +29,16 @@
   <footer><a href="https://younatics.github.io/apps/pawday/">댕오늘 소개</a> · <a href="https://younatics.github.io/apps/pawday/privacy/">개인정보</a></footer>
 </main>
 <script>
-  // The name rides in the link (?n=) so the page needs no data file; the id (?id=) is what the app opens. Text only — never HTML.
+  // A shared link carries the place's 8-character code (?c=, PawdayLinks.code in the app); its name comes from the nightly index
+  // /apps/pawday/p/i/<first character>.json (tools/linkcodes.py). Links shared before the code carry the name itself (?n=) and the
+  // id (?id=). Text only — never HTML.
   const q = new URLSearchParams(location.search);
-  const name = (q.get('n') || '').trim();
-  if (name) { document.getElementById('name').textContent = name; document.title = name + ' — 댕오늘'; }
+  const show = (name) => { if (name) { document.getElementById('name').textContent = name; document.title = name + ' — 댕오늘'; } };
+  show((q.get('n') || '').trim());
+  const code = (q.get('c') || '').trim().toLowerCase();
+  if (/^[0-9a-z]{8}$/.test(code)) {
+    fetch('/apps/pawday/p/i/' + code[0] + '.json').then((r) => (r.ok ? r.json() : {})).then((index) => show(index[code])).catch(() => {});
+  }
   // pawday://p?id=… — Instagram's and KakaoTalk's in-app browsers do not hand universal links to apps, and a same-domain tap in Safari
   // stays in Safari; the custom scheme opens the app from both (iOS asks once).
   const kind = location.pathname.split('/').filter(Boolean).pop();
