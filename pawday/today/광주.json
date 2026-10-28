@@ -1,9 +1,9 @@
 {
  "province": "광주",
  "date": "2026-10-28",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "광주",
@@ -14,18 +14,10 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.1,
-  "pm10": 27.0,
+  "pm10": 34.0,
   "pm25": 8.0,
-  "fetched_at": "2026-10-28T09:37+09:00",
+  "fetched_at": "2026-10-28T10:37+09:00",
   "hourly": [
-   {
-    "h": 9,
-    "date": "20261028",
-    "temp": 8.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 10,
     "date": "20261028",
@@ -209,6 +201,14 @@
     "pop": 0,
     "sky": "맑음",
     "pty": ""
+   },
+   {
+    "h": 9,
+    "date": "20261029",
+    "temp": 7.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
    }
   ]
  },
@@ -324,6 +324,22 @@
    "tier": "S"
   },
   {
+   "name": "독크루",
+   "category": "cafe",
+   "distance_km": 3.8,
+   "lat": 35.18699983,
+   "lng": 126.826869,
+   "address": "광주광역시 광산구 수완로11번안길 15",
+   "reasons": [
+    "3.8 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 118.5,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "반달옥",
    "category": "restaurant",
    "distance_km": 6.4,
@@ -355,22 +371,6 @@
    "score": 112.2,
    "match": 61,
    "tier": "S"
-  },
-  {
-   "name": "인디퍼피",
-   "category": "cafe",
-   "distance_km": 6.4,
-   "lat": 35.21680843,
-   "lng": 126.846721,
-   "address": "광주광역시 광산구 임방울대로800번길 11-6",
-   "reasons": [
-    "6.4 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 111.6,
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "먼데이오프플리즈",
