@@ -10,31 +10,15 @@
   "province": "강원",
   "date": "2026-10-29",
   "temp_max": 13.0,
-  "temp_min": 1.0,
+  "temp_min": 4.0,
   "rain_prob_max": 60,
   "precip_type": "비",
   "sky": "흐림",
-  "wind_max": 3.3,
-  "pm10": 20.0,
-  "pm25": 8.0,
-  "fetched_at": "2026-10-29T07:37+09:00",
+  "wind_max": 3.2,
+  "pm10": 22.0,
+  "pm25": 9.0,
+  "fetched_at": "2026-10-29T08:37+09:00",
   "hourly": [
-   {
-    "h": 7,
-    "date": "20261029",
-    "temp": 1.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
-   {
-    "h": 8,
-    "date": "20261029",
-    "temp": 2.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
    {
     "h": 9,
     "date": "20261029",
@@ -210,101 +194,26 @@
     "pop": 30,
     "sky": "흐림",
     "pty": ""
+   },
+   {
+    "h": 7,
+    "date": "20261030",
+    "temp": 7.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 8,
+    "date": "20261030",
+    "temp": 8.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
    }
   ]
  },
  "picks": [
-  {
-   "name": "감자밭",
-   "category": "restaurant",
-   "distance_km": 7.2,
-   "lat": 37.9295910227,
-   "lng": 127.7845203785,
-   "address": "강원특별자치도 춘천시 신북읍 신샘밭로 674",
-   "reasons": [
-    "7.2 km",
-    "낮에 영업",
-    "소형/중형",
-    "실내",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 135.8,
-   "match": 72,
-   "tier": "S"
-  },
-  {
-   "name": "춘천송암스포츠타운",
-   "category": "travel",
-   "distance_km": 4.5,
-   "lat": 37.85525199,
-   "lng": 127.689958,
-   "address": "강원특별자치도 춘천시 송암동 297",
-   "reasons": [
-    "4.5 km",
-    "낮에 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 119.0,
-   "match": 60,
-   "tier": "S"
-  },
-  {
-   "name": "리버레인",
-   "category": "cafe",
-   "distance_km": 1.6,
-   "lat": 37.884610099999996,
-   "lng": 127.71210899999998,
-   "address": "강원특별자치도 춘천시 영서로 2529-47",
-   "reasons": [
-    "1.6 km",
-    "낮에 영업",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 118.9,
-   "match": 62,
-   "tier": "S"
-  },
-  {
-   "name": "강아지숲 박물관",
-   "category": "culture",
-   "distance_km": 17.2,
-   "lat": 37.73643502,
-   "lng": 127.66202,
-   "address": "강원특별자치도 춘천시 남산면 충효로 437",
-   "reasons": [
-    "17.2 km",
-    "낮에 영업",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 111.2,
-   "match": 66,
-   "tier": "B"
-  },
-  {
-   "name": "소울 로스터리",
-   "category": "cafe",
-   "distance_km": 5.8,
-   "lat": 37.9243555,
-   "lng": 127.76721560000001,
-   "address": "강원특별자치도 춘천시 동면 소양강로 538 샵5건물앞",
-   "reasons": [
-    "5.8 km",
-    "낮에 영업",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 115.0,
-   "match": 62,
-   "tier": "A"
-  },
   {
    "name": "자라섬",
    "category": "travel",
@@ -323,21 +232,52 @@
    "tier": "S"
   },
   {
-   "name": "화천써비스허브정원카페",
+   "name": "카페드220볼트",
    "category": "cafe",
-   "distance_km": 20.3,
-   "lat": 38.06216819,
-   "lng": 127.698291,
-   "address": "강원특별자치도 화천군 하남면 춘화로 2861-10",
+   "distance_km": 5.5,
+   "lat": 37.85697561,
+   "lng": 127.7837723,
+   "address": "강원특별자치도 춘천시 동내면 금촌로 107-27",
    "reasons": [
-    "20.3 km",
-    "낮에 영업",
-    "실내",
-    "댕오늘 추천"
+    "5.5 km",
+    "요즘 인기"
    ],
-   "score": 106.3,
-   "match": 72,
-   "tier": "B"
+   "score": 108.2,
+   "match": 58,
+   "tier": "A"
+  },
+  {
+   "name": "청평사",
+   "category": "travel",
+   "distance_km": 13.5,
+   "lat": 37.98607131,
+   "lng": 127.808452,
+   "address": "강원특별자치도 춘천시 북산면 오봉산길 810",
+   "reasons": [
+    "13.5 km",
+    "지금 영업 중",
+    "소형/중형",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 108.8,
+   "match": 59,
+   "tier": "A"
+  },
+  {
+   "name": "세계주류마켓",
+   "category": "restaurant",
+   "distance_km": 5.4,
+   "lat": 37.83984386,
+   "lng": 127.7621803,
+   "address": "강원특별자치도 춘천시 동내면 순환대로 632",
+   "reasons": [
+    "5.4 km",
+    "요즘 인기"
+   ],
+   "score": 105.1,
+   "match": 58,
+   "tier": "A"
   },
   {
    "name": "공지천조각공원",
@@ -357,6 +297,21 @@
    "tier": "A"
   },
   {
+   "name": "예와생스튜디오카페",
+   "category": "cafe",
+   "distance_km": 6.4,
+   "lat": 37.92083812,
+   "lng": 127.7822099,
+   "address": "강원특별자치도 춘천시 동면 가산로 186-5",
+   "reasons": [
+    "6.4 km",
+    "요즘 인기"
+   ],
+   "score": 107.0,
+   "match": 58,
+   "tier": "B"
+  },
+  {
    "name": "수한예",
    "category": "lodging",
    "distance_km": 3.4,
@@ -372,36 +327,52 @@
    "tier": "B"
   },
   {
-   "name": "세계주류마켓",
-   "category": "restaurant",
-   "distance_km": 5.4,
-   "lat": 37.83984386,
-   "lng": 127.7621803,
-   "address": "강원특별자치도 춘천시 동내면 순환대로 632",
+   "name": "춘천시립도서관(장난감도서관)",
+   "category": "culture",
+   "distance_km": 3.1,
+   "lat": 37.8638561555,
+   "lng": 127.757280369,
+   "address": "강원특별자치도 춘천시 우석로 100 (석사동)",
    "reasons": [
-    "5.4 km",
+    "3.1 km",
+    "최근 확인",
     "요즘 인기"
    ],
-   "score": 105.1,
+   "score": 100.0,
    "match": 58,
-   "tier": "A"
-  }
- ],
- "links": [
+   "tier": "B"
+  },
   {
-   "source": "youtube",
-   "id": "PFaf1Xg_F6I",
-   "url": "https://www.youtube.com/watch?v=PFaf1Xg_F6I",
-   "title": "가평 대형카페 리버레인 탁트린한강뷰카페 애견동반카페 서울근교드라이브코스",
-   "channel": "먹고노는중",
-   "published": "2026-10-26T18:50:00Z",
-   "found_at": "2026-10-26T20:41:34+00:00",
-   "expires_at": "2026-11-27T21:03:41+00:00",
-   "places": [
-    "리버레인"
-   ]
+   "name": "에를레프니스",
+   "category": "restaurant",
+   "distance_km": 3.1,
+   "lat": 37.88063553,
+   "lng": 127.7652301,
+   "address": "강원특별자치도 춘천시 동면 만천로 84",
+   "reasons": [
+    "3.1 km"
+   ],
+   "score": 100.0,
+   "match": 58,
+   "tier": "C"
+  },
+  {
+   "name": "해원의 작은집",
+   "category": "lodging",
+   "distance_km": 5.8,
+   "lat": 37.86029974,
+   "lng": 127.789709,
+   "address": "강원특별자치도 춘천시 동내면 거두길 284-4",
+   "reasons": [
+    "5.8 km",
+    "실내"
+   ],
+   "score": 99.5,
+   "match": 68,
+   "tier": "B"
   }
  ],
+ "links": [],
  "events": [
   {
    "id": "2449714f053c",
