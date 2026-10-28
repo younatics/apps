@@ -1,9 +1,9 @@
 {
  "province": "경기",
  "date": "2026-10-28",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "경기",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 0.2,
-  "pm10": 30.0,
-  "pm25": 8.0,
-  "fetched_at": "2026-10-28T20:37+09:00",
+  "pm10": 31.0,
+  "pm25": 9.0,
+  "fetched_at": "2026-10-28T21:37+09:00",
   "hourly": [
    {
     "h": 21,
@@ -286,6 +286,24 @@
    "tier": "A"
   },
   {
+   "name": "수원화성박물관",
+   "category": "culture",
+   "distance_km": 2.3,
+   "lat": 37.28259139,
+   "lng": 127.018985,
+   "address": "경기도 수원시 팔달구 창룡대로 21",
+   "reasons": [
+    "2.3 km",
+    "내일 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 128.3,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "방화수류정",
    "category": "travel",
    "distance_km": 2.8,
@@ -302,6 +320,24 @@
    "score": 128.7,
    "match": 72,
    "tier": "S"
+  },
+  {
+   "name": "경기도어린이박물관",
+   "category": "culture",
+   "distance_km": 7.1,
+   "lat": 37.26818786,
+   "lng": 127.108653,
+   "address": "경기도 용인시 기흥구 상갈로 6",
+   "reasons": [
+    "7.1 km",
+    "내일 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 125.6,
+   "match": 67,
+   "tier": "A"
   },
   {
    "name": "보정동카페거리",
@@ -352,40 +388,6 @@
    ],
    "score": 120.3,
    "match": 62,
-   "tier": "A"
-  },
-  {
-   "name": "구갈레스피아반려견놀이터",
-   "category": "playground",
-   "distance_km": 9.1,
-   "lat": 37.26682449,
-   "lng": 127.131244,
-   "address": "경기도 용인시 기흥구 중부대로 640",
-   "reasons": [
-    "9.1 km",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 117.2,
-   "match": 68,
-   "tier": "B"
-  },
-  {
-   "name": "구운정",
-   "category": "restaurant",
-   "distance_km": 0.5,
-   "lat": 37.262116999999996,
-   "lng": 127.03396289999998,
-   "address": "경기도 수원시 팔달구 효원로291번길 21",
-   "reasons": [
-    "0.5 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 119.3,
-   "match": 64,
    "tier": "A"
   }
  ],
