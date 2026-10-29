@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29",
- "count": 17,
+ "generated_at": "2026-10-30",
+ "count": 18,
  "events": [
   {
    "id": "2449714f053c",
@@ -135,7 +135,7 @@
    "grade": "news",
    "confidence": 0.7,
    "summary": "벡스코에서 열리는 대형 반려동물 박람회예요.",
-   "status": "upcoming"
+   "status": "ongoing"
   },
   {
    "id": "6f6e149d7d9a",
@@ -162,7 +162,7 @@
    "grade": "news",
    "confidence": 0.7,
    "summary": "반려동물 놀이터와 농·축·특산물 체험 등이 열리는 축제예요.",
-   "status": "upcoming"
+   "status": "ongoing"
   },
   {
    "id": "efc9fd5414a0",
@@ -356,6 +356,33 @@
    "status": "upcoming"
   },
   {
+   "id": "d2a240d936ed",
+   "aliases": [],
+   "title": "2026 해피투개더 반려동물 축제",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "time": "",
+   "venue": "손기정 체육공원",
+   "address": "서울 중구 손기정로 101",
+   "lat": 37.5560721669535,
+   "lng": 126.965382244479,
+   "province": "서울",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견 동반 가능",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "",
+   "url": "https://life.sano.co.kr/11%ec%9b%94-%ec%84%9c%ec%9a%b8-%ec%b6%95%ec%a0%9c-%ec%9d%bc%ec%a0%95-%eb%86%93%ec%b9%98%eb%a9%b4-%ec%95%84%ec%89%ac%ec%9a%b4-%ed%96%89%ec%82%ac%eb%a7%8c-%eb%aa%a8%ec%95%98%ec%96%b4%ec%9a%94/",
+   "image": "",
+   "image_credit": "",
+   "source": "news:life.sano.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려견 운동회와 도그스포츠 공연이 열리고 일부 프로그램은 사전접수가 필요해요.",
+   "status": "upcoming"
+  },
+  {
    "id": "ba4439de64bb",
    "aliases": [
     "6d0a4b7f8c03"
@@ -371,7 +398,7 @@
    "province": "경기",
    "kind": "other",
    "dog": "ok",
-   "dog_text": "아름다운 한탄강 생태경관단지를 배경으로 반려견과 함께 걷는 댕댕트레킹을 비롯하여 펫니스 요가 클래스",
+   "dog_text": "아름다운 자연경관과 예술이 어우러진 포천아트밸리를 배경으로 반려견과 함께 도전하는 '멍파서블'",
    "fee": "paid",
    "fee_text": "유료(아트밸리 입장료 참고)",
    "organizer": "포천시",
@@ -381,7 +408,7 @@
    "source": "official:kto_festival",
    "grade": "official",
    "confidence": 1.0,
-   "summary": "2026 포천 펫스타 in 아트밸리는 반려가족 그리고 반려동물을 사랑하는 누구나 함께 즐길 수 있는 참여형 반려문화 축제이다.",
+   "summary": "2026 포천 펫스타 in 아트밸리는 반려가족과 시민이 함께 즐기고 소통하는 참여형 반려동물 문화축제이다.",
    "status": "upcoming"
   },
   {
@@ -403,8 +430,8 @@
    "fee_text": "정가 12,000원 · 사전등록 무료",
    "organizer": "케이펫페어",
    "url": "https://k-pet.co.kr/26pet_megazoo2/",
-   "image": "https://d5bvmdkxgb6q.cloudfront.net/wp-content/uploads/2025/12/05000048/26pet_poster_16_megazoo2.jpg",
-   "image_credit": "케이펫페어",
+   "image": "",
+   "image_credit": "",
    "source": "organizer:k-pet.co.kr",
    "grade": "organizer",
    "confidence": 0.9,
@@ -457,8 +484,8 @@
    "fee_text": "정가 10,000원 · 사전등록 무료",
    "organizer": "케이펫페어",
    "url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_busan2/",
-   "image": "https://d5bvmdkxgb6q.cloudfront.net/wp-content/uploads/2026/07/16224352/2026-%EC%BC%80%EC%9D%B4%ED%8E%AB%ED%8E%98%EC%96%B4-%EB%A9%94%EA%B0%80%EC%A3%BC-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BCRGB_17.%EB%B6%80%EC%82%B0.jpg",
-   "image_credit": "케이펫페어",
+   "image": "",
+   "image_credit": "",
    "source": "organizer:k-pet.co.kr",
    "grade": "organizer",
    "confidence": 0.9,
