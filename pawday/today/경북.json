@@ -1,9 +1,9 @@
 {
  "province": "경북",
  "date": "2026-10-29",
- "walk_index": 92,
+ "walk_index": 100,
  "reasons": [
-  "미세먼지 보통"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "경북",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 1.4,
-  "pm10": 31.0,
+  "pm10": 29.0,
   "pm25": 15.0,
-  "fetched_at": "2026-10-29T11:37+09:00",
+  "fetched_at": "2026-10-29T12:37+09:00",
   "hourly": [
    {
     "h": 12,

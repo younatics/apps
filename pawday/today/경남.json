@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 2.6,
-  "pm10": 25.0,
+  "pm10": 26.0,
   "pm25": 13.0,
-  "fetched_at": "2026-10-29T11:37+09:00",
+  "fetched_at": "2026-10-29T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -267,6 +267,23 @@
    "tier": "A"
   },
   {
+   "name": "러브앤독 애견카페",
+   "category": "cafe",
+   "distance_km": 9.4,
+   "lat": 35.15538959,
+   "lng": 128.713446,
+   "address": "경상남도 창원시 진해구 냉천로 156",
+   "reasons": [
+    "9.4 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 119.7,
+   "match": 68,
+   "tier": "A"
+  },
+  {
    "name": "웅천도요지전시관",
    "category": "culture",
    "distance_km": 16.7,
@@ -351,20 +368,6 @@
    "tier": "C"
   },
   {
-   "name": "황실LAB",
-   "category": "cafe",
-   "distance_km": 18.3,
-   "lat": 35.2310072,
-   "lng": 128.893952,
-   "address": "경상남도 김해시 활천로36번길 1-6",
-   "reasons": [
-    "18.3 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 103.5
-  },
-  {
    "name": "그루밍카페 1987",
    "category": "cafe",
    "distance_km": 19.2,
@@ -376,9 +379,7 @@
     "지금 영업 중",
     "댕오늘 추천"
    ],
-   "score": 104.3,
-   "match": 68,
-   "tier": "B"
+   "score": 104.3
   }
  ],
  "links": [],
