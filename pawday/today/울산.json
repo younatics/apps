@@ -8,32 +8,16 @@
  "conditions": {
   "province": "울산",
   "date": "2026-10-29",
-  "temp_max": 17.0,
+  "temp_max": 14.0,
   "temp_min": 13.0,
   "rain_prob_max": 30,
   "precip_type": "",
   "sky": "흐림",
-  "wind_max": 2.5,
+  "wind_max": 2.8,
   "pm10": 18.0,
-  "pm25": 6.0,
-  "fetched_at": "2026-10-29T16:37+09:00",
+  "pm25": 8.0,
+  "fetched_at": "2026-10-29T17:37+09:00",
   "hourly": [
-   {
-    "h": 16,
-    "date": "20261029",
-    "temp": 17.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
-   {
-    "h": 17,
-    "date": "20261029",
-    "temp": 15.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
    {
     "h": 18,
     "date": "20261029",
@@ -53,7 +37,7 @@
    {
     "h": 20,
     "date": "20261029",
-    "temp": 13.0,
+    "temp": 14.0,
     "pop": 30,
     "sky": "흐림",
     "pty": ""
@@ -78,32 +62,32 @@
     "h": 23,
     "date": "20261029",
     "temp": 13.0,
-    "pop": 20,
-    "sky": "구름많음",
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 0,
     "date": "20261030",
     "temp": 13.0,
-    "pop": 0,
-    "sky": "맑음",
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
     "h": 1,
     "date": "20261030",
-    "temp": 13.0,
-    "pop": 0,
-    "sky": "맑음",
+    "temp": 12.0,
+    "pop": 20,
+    "sky": "구름많음",
     "pty": ""
    },
    {
     "h": 2,
     "date": "20261030",
     "temp": 12.0,
-    "pop": 0,
-    "sky": "맑음",
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
@@ -118,8 +102,8 @@
     "h": 4,
     "date": "20261030",
     "temp": 11.0,
-    "pop": 20,
-    "sky": "구름많음",
+    "pop": 30,
+    "sky": "흐림",
     "pty": ""
    },
    {
@@ -133,39 +117,39 @@
    {
     "h": 6,
     "date": "20261030",
-    "temp": 10.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 11.0,
+    "pop": 20,
+    "sky": "구름많음",
     "pty": ""
    },
    {
     "h": 7,
     "date": "20261030",
-    "temp": 10.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 8,
     "date": "20261030",
     "temp": 12.0,
-    "pop": 30,
-    "sky": "흐림",
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 9,
     "date": "20261030",
     "temp": 15.0,
-    "pop": 30,
-    "sky": "흐림",
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 10,
     "date": "20261030",
-    "temp": 18.0,
+    "temp": 17.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -181,7 +165,7 @@
    {
     "h": 12,
     "date": "20261030",
-    "temp": 20.0,
+    "temp": 21.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -206,6 +190,22 @@
     "h": 15,
     "date": "20261030",
     "temp": 21.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 16,
+    "date": "20261030",
+    "temp": 21.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
+    "date": "20261030",
+    "temp": 18.0,
     "pop": 20,
     "sky": "구름많음",
     "pty": ""
@@ -467,8 +467,8 @@
    "fee_text": "정가 10,000원 · 사전등록 무료",
    "organizer": "케이펫페어",
    "url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_busan2/",
-   "image": "https://d5bvmdkxgb6q.cloudfront.net/wp-content/uploads/2026/07/16224352/2026-%EC%BC%80%EC%9D%B4%ED%8E%AB%ED%8E%98%EC%96%B4-%EB%A9%94%EA%B0%80%EC%A3%BC-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BCRGB_17.%EB%B6%80%EC%82%B0.jpg",
-   "image_credit": "케이펫페어",
+   "image": "",
+   "image_credit": "",
    "source": "organizer:k-pet.co.kr",
    "grade": "organizer",
    "confidence": 0.9,

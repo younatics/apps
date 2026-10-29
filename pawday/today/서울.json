@@ -10,36 +10,20 @@
  "conditions": {
   "province": "서울",
   "date": "2026-10-29",
-  "temp_max": 13.0,
-  "temp_min": 11.0,
+  "temp_max": 11.0,
+  "temp_min": 10.0,
   "rain_prob_max": 60,
   "precip_type": "비",
   "sky": "흐림",
-  "wind_max": 3.0,
-  "pm10": 32.0,
-  "pm25": 13.0,
-  "fetched_at": "2026-10-29T16:37+09:00",
+  "wind_max": 2.9,
+  "pm10": 33.0,
+  "pm25": 14.0,
+  "fetched_at": "2026-10-29T17:37+09:00",
   "hourly": [
-   {
-    "h": 16,
-    "date": "20261029",
-    "temp": 13.0,
-    "pop": 60,
-    "sky": "흐림",
-    "pty": "비"
-   },
-   {
-    "h": 17,
-    "date": "20261029",
-    "temp": 12.0,
-    "pop": 60,
-    "sky": "흐림",
-    "pty": "비"
-   },
    {
     "h": 18,
     "date": "20261029",
-    "temp": 12.0,
+    "temp": 11.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -47,7 +31,7 @@
    {
     "h": 19,
     "date": "20261029",
-    "temp": 11.0,
+    "temp": 10.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -55,7 +39,7 @@
    {
     "h": 20,
     "date": "20261029",
-    "temp": 11.0,
+    "temp": 10.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -79,7 +63,7 @@
    {
     "h": 23,
     "date": "20261029",
-    "temp": 11.0,
+    "temp": 10.0,
     "pop": 60,
     "sky": "흐림",
     "pty": "비"
@@ -87,111 +71,111 @@
    {
     "h": 0,
     "date": "20261030",
-    "temp": 11.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 1,
     "date": "20261030",
-    "temp": 11.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 2,
     "date": "20261030",
-    "temp": 11.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 3,
     "date": "20261030",
-    "temp": 11.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 4,
     "date": "20261030",
-    "temp": 10.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 5,
     "date": "20261030",
-    "temp": 10.0,
-    "pop": 20,
-    "sky": "구름많음",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 6,
     "date": "20261030",
-    "temp": 10.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 7,
     "date": "20261030",
-    "temp": 10.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 8,
     "date": "20261030",
-    "temp": 10.0,
-    "pop": 30,
-    "sky": "흐림",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 9,
     "date": "20261030",
     "temp": 11.0,
-    "pop": 30,
-    "sky": "흐림",
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 10,
     "date": "20261030",
     "temp": 13.0,
-    "pop": 30,
-    "sky": "흐림",
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 11,
     "date": "20261030",
     "temp": 15.0,
-    "pop": 20,
-    "sky": "구름많음",
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 12,
     "date": "20261030",
     "temp": 16.0,
-    "pop": 20,
-    "sky": "구름많음",
+    "pop": 0,
+    "sky": "맑음",
     "pty": ""
    },
    {
     "h": 13,
     "date": "20261030",
-    "temp": 17.0,
+    "temp": 18.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -199,7 +183,7 @@
    {
     "h": 14,
     "date": "20261030",
-    "temp": 18.0,
+    "temp": 19.0,
     "pop": 0,
     "sky": "맑음",
     "pty": ""
@@ -207,9 +191,25 @@
    {
     "h": 15,
     "date": "20261030",
+    "temp": 19.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 16,
+    "date": "20261030",
     "temp": 18.0,
-    "pop": 30,
-    "sky": "흐림",
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
+    "date": "20261030",
+    "temp": 17.0,
+    "pop": 20,
+    "sky": "구름많음",
     "pty": ""
    }
   ]
@@ -289,19 +289,19 @@
    "tier": "S"
   },
   {
-   "name": "uphill namsan",
+   "name": "38도씨식당",
    "category": "restaurant",
-   "distance_km": 3.3,
-   "lat": 37.54007672,
-   "lng": 126.994298,
-   "address": "서울특별시 용산구 회나무로42길 36",
+   "distance_km": 5.3,
+   "lat": 37.54942988,
+   "lng": 126.921615,
+   "address": "서울특별시 마포구 와우산로17길 19-17",
    "reasons": [
-    "3.3 km",
+    "5.3 km",
     "지금 영업 중",
     "실내",
     "댕오늘 추천"
    ],
-   "score": 123.7,
+   "score": 121.1,
    "match": 72,
    "tier": "B"
   },
@@ -322,6 +322,23 @@
    "score": 124.6,
    "match": 66,
    "tier": "S"
+  },
+  {
+   "name": "uphill namsan",
+   "category": "restaurant",
+   "distance_km": 3.3,
+   "lat": 37.54007672,
+   "lng": 126.994298,
+   "address": "서울특별시 용산구 회나무로42길 36",
+   "reasons": [
+    "3.3 km",
+    "지금 영업 중",
+    "실내",
+    "댕오늘 추천"
+   ],
+   "score": 123.7,
+   "match": 72,
+   "tier": "B"
   },
   {
    "name": "남산골한옥마을",
@@ -375,24 +392,6 @@
    "score": 118.2,
    "match": 60,
    "tier": "S"
-  },
-  {
-   "name": "아이노가든키친",
-   "category": "restaurant",
-   "distance_km": 0.9,
-   "lat": 37.5727758,
-   "lng": 126.97125,
-   "address": "서울특별시 종로구 경희궁2길 10 2층",
-   "reasons": [
-    "0.9 km",
-    "지금 영업 중",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 116.1,
-   "match": 62,
-   "tier": "A"
   }
  ],
  "links": [],
@@ -555,8 +554,8 @@
    "fee_text": "정가 12,000원 · 사전등록 무료",
    "organizer": "케이펫페어",
    "url": "https://k-pet.co.kr/26pet_megazoo2/",
-   "image": "https://d5bvmdkxgb6q.cloudfront.net/wp-content/uploads/2025/12/05000048/26pet_poster_16_megazoo2.jpg",
-   "image_credit": "케이펫페어",
+   "image": "",
+   "image_credit": "",
    "source": "organizer:k-pet.co.kr",
    "grade": "organizer",
    "confidence": 0.9,
