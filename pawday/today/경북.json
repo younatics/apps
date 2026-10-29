@@ -9,39 +9,15 @@
   "province": "경북",
   "date": "2026-10-30",
   "temp_max": 20.0,
-  "temp_min": 5.0,
+  "temp_min": 9.0,
   "rain_prob_max": 30,
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.9,
-  "pm10": 24.0,
+  "pm10": 25.0,
   "pm25": 15.0,
-  "fetched_at": "2026-10-30T06:17+09:00",
+  "fetched_at": "2026-10-30T08:37+09:00",
   "hourly": [
-   {
-    "h": 6,
-    "date": "20261030",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 7,
-    "date": "20261030",
-    "temp": 5.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 8,
-    "date": "20261030",
-    "temp": 7.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 9,
     "date": "20261030",
@@ -209,28 +185,34 @@
     "pop": 0,
     "sky": "맑음",
     "pty": ""
+   },
+   {
+    "h": 6,
+    "date": "20261031",
+    "temp": 7.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 7,
+    "date": "20261031",
+    "temp": 7.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 8,
+    "date": "20261031",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
    }
   ]
  },
  "picks": [
-  {
-   "name": "하회세계탈박물관",
-   "category": "culture",
-   "distance_km": 3.6,
-   "lat": 36.548609725,
-   "lng": 128.5277448156,
-   "address": "경상북도 안동시 풍천면 전서로 206",
-   "reasons": [
-    "3.6 km",
-    "낮에 영업",
-    "소형/중형",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 118.0,
-   "match": 67,
-   "tier": "A"
-  },
   {
    "name": "부용대",
    "category": "travel",
@@ -247,21 +229,6 @@
    "score": 103.2,
    "match": 64,
    "tier": "C"
-  },
-  {
-   "name": "화수헌",
-   "category": "cafe",
-   "distance_km": 23.3,
-   "lat": 36.63912171,
-   "lng": 128.256148,
-   "address": "경상북도 문경시 산양면 현리3길 9",
-   "reasons": [
-    "23.3 km",
-    "낮에 영업"
-   ],
-   "score": 98.4,
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "낙강물길공원",
@@ -299,22 +266,6 @@
    "tier": "A"
   },
   {
-   "name": "미스터멍",
-   "category": "cafe",
-   "distance_km": 22.3,
-   "lat": 36.54828656,
-   "lng": 128.753412,
-   "address": "경상북도 안동시 강남로 492",
-   "reasons": [
-    "22.3 km",
-    "낮에 영업",
-    "최근 확인"
-   ],
-   "score": 92.8,
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "함창명주테마파크공원",
    "category": "park",
    "distance_km": 30.7,
@@ -332,21 +283,6 @@
    "tier": "C"
   },
   {
-   "name": "게스트하우스 play at home(플레이앳홈)",
-   "category": "lodging",
-   "distance_km": 19.3,
-   "lat": 36.5672736337,
-   "lng": 128.7215095058,
-   "address": "경상북도 안동시 금곡길 21-8 (금곡동)",
-   "reasons": [
-    "19.3 km",
-    "최근 확인"
-   ],
-   "score": 86.4,
-   "match": 59,
-   "tier": "C"
-  },
-  {
    "name": "용문사성보유물관",
    "category": "culture",
    "distance_km": 21.1,
@@ -359,6 +295,21 @@
    ],
    "score": 83.3,
    "match": 62,
+   "tier": "C"
+  },
+  {
+   "name": "게스트하우스 play at home(플레이앳홈)",
+   "category": "lodging",
+   "distance_km": 19.3,
+   "lat": 36.5672736337,
+   "lng": 128.7215095058,
+   "address": "경상북도 안동시 금곡길 21-8 (금곡동)",
+   "reasons": [
+    "19.3 km",
+    "최근 확인"
+   ],
+   "score": 86.4,
+   "match": 59,
    "tier": "C"
   },
   {
