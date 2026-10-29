@@ -9,6 +9,7 @@
   body { font: 17px/1.6 -apple-system, system-ui, sans-serif; margin: 0; color: #2b1d12; background: linear-gradient(180deg,#fff4ea,#ffe3cc); }
   main { max-width: 640px; margin: 0 auto; padding: 72px 24px 96px; }
   h1 { font-size: 40px; letter-spacing: -0.02em; margin: 0 0 8px; }
+  .store { display:inline-block; font: 600 17px -apple-system, system-ui, sans-serif; background:#c9402c; color:#fff; text-decoration:none; border-radius:12px; padding:12px 20px; margin: 4px 0 8px; }
   .chip { display:inline-block; font: 500 16px -apple-system, system-ui, sans-serif; background:#fff; border:1px solid rgba(0,0,0,.08); border-radius:10px; padding:8px 14px; margin:14px 0 28px; }
   h2 { font-size: 22px; margin: 36px 0 8px; }
   ul { padding-left: 20px; }
@@ -19,20 +20,21 @@
 <body>
 <main>
   <h1>댕오늘</h1>
-  <p>반려견 보호자의 "오늘 어디 가지?" 에 한 장으로 답해요. 산책 지수, 지금 영업 중인 동반 장소, 전국 2만 곳 지도.</p>
+  <p>반려견 보호자의 "오늘 어디 가지?" 에 한 장으로 답해요. 산책 지수, 지금 영업 중인 동반 장소, 전국 3만 곳 지도.</p>
   <div class="chip">산책 지수 100 · 남산공원 1.2 km · 지금 영업 중</div>
+  <p><a class="store" id="store" href="https://apps.apple.com/app/id6826581588">App Store에서 댕오늘 받기</a></p>
 
   <h2>무엇을 하나요</h2>
   <ul>
     <li>오늘 날씨·미세먼지·바람으로 산책 지수를 계산하고 이유를 한 줄로 설명해요. 개 크기에 맞춰 보정돼요.</li>
     <li>내 주변(또는 고른 지역)에서 지금 영업 중이고 우리 개가 입장 가능한 장소를 가까운 순으로 추천해요.</li>
-    <li>카페·식당·숙소·놀이터·공원·문화·여행지·동물병원·서비스, 전국 2만여 곳을 지도와 검색으로 봐요.</li>
+    <li>카페·식당·숙소·놀이터·공원·문화·여행지·동물병원·서비스, 전국 3만여 곳을 지도와 검색으로 봐요.</li>
     <li>장소마다 동반 조건, 영업시간, 휴무일, 출처와 확인 날짜를 보여 줘요. 틀리면 바로 제보해요.</li>
     <li>홈 화면 위젯으로 오늘의 산책 지수와 추천을 바로 봐요.</li>
   </ul>
 
   <h2>Pawday (English)</h2>
-  <p>A walk index from today's weather and air quality, plus dog-friendly places across Korea that are open now near you. 20,000+ places, a Home Screen widget, Korean and English, free.</p>
+  <p>A walk index from today's weather and air quality, plus dog-friendly places across Korea that are open now near you. 30,000+ places, a Home Screen widget, Korean and English, free.</p>
 
   <h2>개인정보</h2>
   <p>계정, 광고, 분석이 없어요. 위치는 선택이고 기기 안에서만 써요. 자세한 내용은 <a href="privacy/">개인정보 처리방침</a>에 있어요.</p>
@@ -42,5 +44,14 @@
 
   <footer>© 2026 SeungYoun YI · iOS 18 이상 · 무료</footer>
 </main>
+<script>
+  // The App Store button names its campaign (an Instagram post's `s=ig_<key>`, docs/INSTAGRAM_GROWTH.md §8-2) so App Analytics counts
+  // installs per post: ct is the tag when it is 1 to 40 of A-Z a-z 0-9 _ . -, else "landing"; pt is the campaign provider token (public).
+  function storeURL(search) {
+    const s = new URLSearchParams(search).get('s') || '';
+    return 'https://apps.apple.com/app/apple-store/id6826581588?pt=33832800&ct=' + (/^[A-Za-z0-9_.-]{1,40}$/.test(s) ? s : 'landing') + '&mt=8';
+  }
+  document.getElementById('store').setAttribute('href', storeURL(location.search));
+</script>
 </body>
 </html>
