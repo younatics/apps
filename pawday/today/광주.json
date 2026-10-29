@@ -319,6 +319,23 @@
    "tier": "B"
   },
   {
+   "name": "카페 아더맨",
+   "category": "cafe",
+   "distance_km": 16.7,
+   "lat": 35.04160359,
+   "lng": 126.965461,
+   "address": "전라남도 화순군 화순읍 연양1길 28",
+   "reasons": [
+    "16.7 km",
+    "낮에 영업",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 118.1,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "당산나무집",
    "category": "restaurant",
    "distance_km": 6.3,
@@ -353,23 +370,6 @@
    "score": 112.8,
    "match": 65,
    "tier": "A"
-  },
-  {
-   "name": "카페하녹",
-   "category": "cafe",
-   "distance_km": 18.0,
-   "lat": 35.23716634,
-   "lng": 127.026525,
-   "address": "전라남도 담양군 창평면 창평현로 714-40",
-   "reasons": [
-    "18.0 km",
-    "낮에 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 115.9,
-   "match": 68,
-   "tier": "S"
   },
   {
    "name": "펭귄마을",
