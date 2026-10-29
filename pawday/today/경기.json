@@ -16,9 +16,9 @@
   "precip_type": "비",
   "sky": "흐림",
   "wind_max": 3.4,
-  "pm10": 32.0,
-  "pm25": 12.0,
-  "fetched_at": "2026-10-29T08:37+09:00",
+  "pm10": 35.0,
+  "pm25": 13.0,
+  "fetched_at": "2026-10-29T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -234,6 +234,42 @@
    "tier": "A"
   },
   {
+   "name": "수원화성박물관",
+   "category": "culture",
+   "distance_km": 2.3,
+   "lat": 37.28259139,
+   "lng": 127.018985,
+   "address": "경기도 수원시 팔달구 창룡대로 21",
+   "reasons": [
+    "2.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 126.3,
+   "match": 65,
+   "tier": "A"
+  },
+  {
+   "name": "도그파크랜드",
+   "category": "cafe",
+   "distance_km": 12.2,
+   "lat": 37.31589657,
+   "lng": 127.150286,
+   "address": "경기도 용인시 처인구 모현읍 오산로 208-34",
+   "reasons": [
+    "12.2 km",
+    "지금 영업 중",
+    "실내",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 127.1,
+   "match": 72,
+   "tier": "B"
+  },
+  {
    "name": "인계예술공원",
    "category": "park",
    "distance_km": 0.8,
@@ -267,6 +303,24 @@
    ],
    "score": 126.4,
    "match": 72,
+   "tier": "S"
+  },
+  {
+   "name": "유엔군 초전기념관",
+   "category": "culture",
+   "distance_km": 9.0,
+   "lat": 37.1846106,
+   "lng": 127.049014,
+   "address": "경기도 오산시 경기도대로 742",
+   "reasons": [
+    "9.0 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 122.7,
+   "match": 65,
    "tier": "S"
   },
   {
@@ -322,23 +376,6 @@
    "tier": "S"
   },
   {
-   "name": "카페도기",
-   "category": "cafe",
-   "distance_km": 4.0,
-   "lat": 37.2978383,
-   "lng": 127.04307,
-   "address": "경기도 수원시 영통구 대학1로8번길 23",
-   "reasons": [
-    "4.0 km",
-    "지금 영업 중",
-    "실내",
-    "댕오늘 추천"
-   ],
-   "score": 119.8,
-   "match": 72,
-   "tier": "B"
-  },
-  {
    "name": "구운정",
    "category": "restaurant",
    "distance_km": 0.5,
@@ -352,39 +389,6 @@
     "요즘 인기"
    ],
    "score": 111.6,
-   "match": 58,
-   "tier": "B"
-  },
-  {
-   "name": "구갈레스피아반려견놀이터",
-   "category": "playground",
-   "distance_km": 9.1,
-   "lat": 37.26682449,
-   "lng": 127.131244,
-   "address": "경기도 용인시 기흥구 중부대로 640",
-   "reasons": [
-    "9.1 km",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 111.5,
-   "match": 58,
-   "tier": "B"
-  },
-  {
-   "name": "PPK 키친 수원본점",
-   "category": "restaurant",
-   "distance_km": 0.4,
-   "lat": 37.265702399999995,
-   "lng": 127.03156800000001,
-   "address": "경기도 수원시 인계동 1040-3 신일빌딩 1층",
-   "reasons": [
-    "0.4 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 111.1,
    "match": 58,
    "tier": "B"
   }

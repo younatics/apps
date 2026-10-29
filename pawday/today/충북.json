@@ -1,10 +1,11 @@
 {
  "province": "충북",
  "date": "2026-10-29",
- "walk_index": 60,
+ "walk_index": 52,
  "reasons": [
   "강수 확률 60%",
-  "비 예보"
+  "비 예보",
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "충북",
@@ -15,9 +16,9 @@
   "precip_type": "비",
   "sky": "흐림",
   "wind_max": 2.9,
-  "pm10": 28.0,
-  "pm25": 14.0,
-  "fetched_at": "2026-10-29T08:37+09:00",
+  "pm10": 36.0,
+  "pm25": 17.0,
+  "fetched_at": "2026-10-29T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -215,6 +216,24 @@
  },
  "picks": [
   {
+   "name": "국립청주박물관",
+   "category": "culture",
+   "distance_km": 2.2,
+   "lat": 36.64966894,
+   "lng": 127.512009,
+   "address": "충청북도 청주시 상당구 명암로 143",
+   "reasons": [
+    "2.2 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 125.9,
+   "match": 65,
+   "tier": "A"
+  },
+  {
    "name": "호미골체육공원",
    "category": "park",
    "distance_km": 2.7,
@@ -230,23 +249,6 @@
    "score": 121.1,
    "match": 60,
    "tier": "A"
-  },
-  {
-   "name": "둔산선사유적지",
-   "category": "culture",
-   "distance_km": 32.8,
-   "lat": 36.36095306,
-   "lng": 127.378937,
-   "address": "대전광역시 서구 대덕대로317번길 9",
-   "reasons": [
-    "32.8 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 114.4,
-   "match": 66,
-   "tier": "S"
   },
   {
    "name": "상당산성",
@@ -286,6 +288,23 @@
    "tier": "A"
   },
   {
+   "name": "둔산선사유적지",
+   "category": "culture",
+   "distance_km": 32.8,
+   "lat": 36.36095306,
+   "lng": 127.378937,
+   "address": "대전광역시 서구 대덕대로317번길 9",
+   "reasons": [
+    "32.8 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 114.4,
+   "match": 66,
+   "tier": "S"
+  },
+  {
    "name": "도그홀릭",
    "category": "cafe",
    "distance_km": 40.0,
@@ -301,23 +320,6 @@
    "score": 107.0,
    "match": 72,
    "tier": "B"
-  },
-  {
-   "name": "대전시립박물관",
-   "category": "culture",
-   "distance_km": 36.6,
-   "lat": 36.33685903,
-   "lng": 127.33534,
-   "address": "대전광역시 유성구 도안대로 398",
-   "reasons": [
-    "36.6 km",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 108.4,
-   "match": 60,
-   "tier": "S"
   },
   {
    "name": "청남대",

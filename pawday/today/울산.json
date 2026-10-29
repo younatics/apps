@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 3.6,
-  "pm10": 21.0,
-  "pm25": 12.0,
-  "fetched_at": "2026-10-29T08:37+09:00",
+  "pm10": 25.0,
+  "pm25": 14.0,
+  "fetched_at": "2026-10-29T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -233,6 +233,24 @@
    "tier": "S"
   },
   {
+   "name": "약사동제방유적전시관",
+   "category": "culture",
+   "distance_km": 4.8,
+   "lat": 35.5762564,
+   "lng": 129.336972,
+   "address": "울산광역시 중구 종가14길 22-28",
+   "reasons": [
+    "4.8 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 126.1,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "이너리트",
    "category": "cafe",
    "distance_km": 17.8,
@@ -287,6 +305,24 @@
    "tier": "A"
   },
   {
+   "name": "울산옹기박물관",
+   "category": "culture",
+   "distance_km": 11.9,
+   "lat": 35.43503641,
+   "lng": 129.279531,
+   "address": "울산광역시 울주군 온양읍 외고산3길 36",
+   "reasons": [
+    "11.9 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 124.7,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "간절곶",
    "category": "travel",
    "distance_km": 20.4,
@@ -323,50 +359,20 @@
    "tier": "B"
   },
   {
-   "name": "장생포 고래문화마을",
-   "category": "culture",
-   "distance_km": 7.4,
-   "lat": 35.5059156009,
-   "lng": 129.3830959043,
-   "address": "울산광역시 남구 장생포고래로 271-1 (매암동)",
+   "name": "멍숲",
+   "category": "cafe",
+   "distance_km": 18.4,
+   "lat": 35.49687297,
+   "lng": 129.114172,
+   "address": "울산광역시 울주군 삼동면 조일1길 25",
    "reasons": [
-    "7.4 km",
-    "전 견종 동반 가능",
-    "최근 확인",
-    "요즘 인기"
+    "18.4 km",
+    "지금 영업 중",
+    "댕오늘 추천"
    ],
-   "score": 105.6,
-   "match": 59,
-   "tier": "A"
-  },
-  {
-   "name": "황방산생태야영장",
-   "category": "lodging",
-   "distance_km": 5.7,
-   "lat": 35.5881210122,
-   "lng": 129.3282007667,
-   "address": "울산광역시 중구 주연길 52 (장현동)",
-   "reasons": [
-    "5.7 km",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 100.4,
-   "match": 59,
-   "tier": "A"
-  },
-  {
-   "name": "르씨엘",
-   "category": "restaurant",
-   "distance_km": 36.2,
-   "lat": 35.8506861814,
-   "lng": 129.1975880788,
-   "address": "경상북도 경주시 흥무로 155 (석장동)",
-   "reasons": [
-    "36.2 km",
-    "최근 확인"
-   ],
-   "score": 87.2
+   "score": 109.9,
+   "match": 68,
+   "tier": "B"
   },
   {
    "name": "만달리",

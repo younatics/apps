@@ -1,9 +1,9 @@
 {
  "province": "대구",
  "date": "2026-10-29",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "대구",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 1.7,
-  "pm10": 27.0,
-  "pm25": 14.0,
-  "fetched_at": "2026-10-29T08:37+09:00",
+  "pm10": 31.0,
+  "pm25": 16.0,
+  "fetched_at": "2026-10-29T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -232,6 +232,24 @@
    "tier": "A"
   },
   {
+   "name": "대구섬유박물관",
+   "category": "culture",
+   "distance_km": 6.4,
+   "lat": 35.9190995,
+   "lng": 128.640295,
+   "address": "대구광역시 동구 팔공로 227",
+   "reasons": [
+    "6.4 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 126.9,
+   "match": 67,
+   "tier": "S"
+  },
+  {
    "name": "수성유원지",
    "category": "travel",
    "distance_km": 4.9,
@@ -248,23 +266,6 @@
    "score": 125.4,
    "match": 72,
    "tier": "B"
-  },
-  {
-   "name": "국채보상운동기념관",
-   "category": "culture",
-   "distance_km": 0.2,
-   "lat": 35.86930105,
-   "lng": 128.601739,
-   "address": "대구광역시 중구 국채보상로 670",
-   "reasons": [
-    "0.2 km",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 125.1,
-   "match": 62,
-   "tier": "S"
   },
   {
    "name": "두류공원",
@@ -286,23 +287,41 @@
    "tier": "A"
   },
   {
-   "name": "마비정벽화마을",
-   "category": "travel",
-   "distance_km": 11.6,
-   "lat": 35.7787679,
-   "lng": 128.541611,
-   "address": "대구광역시 달성군 화원읍 마비정길 262-5",
+   "name": "대구약령시한의약박물관",
+   "category": "culture",
+   "distance_km": 1.1,
+   "lat": 35.86851636,
+   "lng": 128.589908,
+   "address": "대구광역시 중구 달구벌대로415길 49",
    "reasons": [
-    "11.6 km",
+    "1.1 km",
     "지금 영업 중",
-    "소형/중형",
-    "맑아서 야외",
+    "최근 확인",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 120.9,
-   "match": 71,
+   "score": 126.8,
+   "match": 67,
    "tier": "S"
+  },
+  {
+   "name": "대명유수지",
+   "category": "travel",
+   "distance_km": 11.4,
+   "lat": 35.822096,
+   "lng": 128.490731,
+   "address": "대구광역시 달서구 대천동 816",
+   "reasons": [
+    "11.4 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 121.8,
+   "match": 72,
+   "tier": "B"
   },
   {
    "name": "태경옥",
@@ -368,22 +387,6 @@
     "교차 확인됨"
    ],
    "score": 104.2,
-   "match": 59,
-   "tier": "B"
-  },
-  {
-   "name": "미드웨이(Midway)",
-   "category": "cafe",
-   "distance_km": 1.2,
-   "lat": 35.8610003,
-   "lng": 128.6050357,
-   "address": "대구광역시 중구 대봉동 18-10",
-   "reasons": [
-    "1.2 km",
-    "최근 확인",
-    "교차 확인됨"
-   ],
-   "score": 102.8,
    "match": 59,
    "tier": "B"
   }

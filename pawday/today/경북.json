@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 1.5,
-  "pm10": 22.0,
-  "pm25": 12.0,
-  "fetched_at": "2026-10-29T08:37+09:00",
+  "pm10": 25.0,
+  "pm25": 13.0,
+  "fetched_at": "2026-10-29T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -214,6 +214,24 @@
  },
  "picks": [
   {
+   "name": "하회세계탈박물관",
+   "category": "culture",
+   "distance_km": 3.6,
+   "lat": 36.548609725,
+   "lng": 128.5277448156,
+   "address": "경상북도 안동시 풍천면 전서로 206",
+   "reasons": [
+    "3.6 km",
+    "지금 영업 중",
+    "소형/중형",
+    "최근 확인",
+    "요즘 인기"
+   ],
+   "score": 115.6,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "사인암",
    "category": "travel",
    "distance_km": 38.0,
@@ -232,24 +250,6 @@
    "tier": "A"
   },
   {
-   "name": "낙강물길공원",
-   "category": "park",
-   "distance_km": 23.7,
-   "lat": 36.5878597114,
-   "lng": 128.7709437848,
-   "address": "경상북도 안동시 상아동 423",
-   "reasons": [
-    "23.7 km",
-    "전 견종 동반 가능",
-    "맑아서 야외",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 104.5,
-   "match": 67,
-   "tier": "A"
-  },
-  {
    "name": "부용대",
    "category": "travel",
    "distance_km": 3.7,
@@ -265,6 +265,24 @@
    ],
    "score": 106.7,
    "match": 64,
+   "tier": "A"
+  },
+  {
+   "name": "낙강물길공원",
+   "category": "park",
+   "distance_km": 23.7,
+   "lat": 36.5878597114,
+   "lng": 128.7709437848,
+   "address": "경상북도 안동시 상아동 423",
+   "reasons": [
+    "23.7 km",
+    "전 견종 동반 가능",
+    "맑아서 야외",
+    "최근 확인",
+    "요즘 인기"
+   ],
+   "score": 104.5,
+   "match": 67,
    "tier": "A"
   },
   {
@@ -300,18 +318,18 @@
    "tier": "D"
   },
   {
-   "name": "용문사성보유물관",
-   "category": "culture",
-   "distance_km": 21.1,
-   "lat": 36.73150562,
-   "lng": 128.370525,
-   "address": "경상북도 예천군 용문면 용문사길 285-30",
+   "name": "덕용재4.9",
+   "category": "lodging",
+   "distance_km": 15.5,
+   "lat": 36.6918174421,
+   "lng": 128.4096697675,
+   "address": "경상북도 예천군 용문면 금당실길 78-1",
    "reasons": [
-    "21.1 km",
+    "15.5 km",
     "최근 확인"
    ],
-   "score": 80.4,
-   "match": 62,
+   "score": 79.0,
+   "match": 59,
    "tier": "C"
   },
   {
@@ -330,18 +348,18 @@
    "tier": "C"
   },
   {
-   "name": "덕용재4.9",
-   "category": "lodging",
-   "distance_km": 15.5,
-   "lat": 36.6918174421,
-   "lng": 128.4096697675,
-   "address": "경상북도 예천군 용문면 금당실길 78-1",
+   "name": "용문사성보유물관",
+   "category": "culture",
+   "distance_km": 21.1,
+   "lat": 36.73150562,
+   "lng": 128.370525,
+   "address": "경상북도 예천군 용문면 용문사길 285-30",
    "reasons": [
-    "15.5 km",
+    "21.1 km",
     "최근 확인"
    ],
-   "score": 79.0,
-   "match": 59,
+   "score": 80.4,
+   "match": 62,
    "tier": "C"
   }
  ],

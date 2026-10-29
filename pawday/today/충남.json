@@ -1,10 +1,11 @@
 {
  "province": "충남",
  "date": "2026-10-29",
- "walk_index": 60,
+ "walk_index": 52,
  "reasons": [
   "강수 확률 60%",
-  "비 예보"
+  "비 예보",
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "충남",
@@ -15,9 +16,9 @@
   "precip_type": "비",
   "sky": "흐림",
   "wind_max": 4.2,
-  "pm10": 30.0,
-  "pm25": 14.0,
-  "fetched_at": "2026-10-29T08:37+09:00",
+  "pm10": 37.0,
+  "pm25": 16.0,
+  "fetched_at": "2026-10-29T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -249,6 +250,25 @@
    "tier": "S"
   },
   {
+   "name": "세계꽃식물원",
+   "category": "park",
+   "distance_km": 19.5,
+   "lat": 36.7502826733,
+   "lng": 126.858915569,
+   "address": "충청남도 아산시 도고면 아산만로 37-37",
+   "reasons": [
+    "19.5 km",
+    "지금 영업 중",
+    "소형/중형",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 114.5,
+   "match": 59,
+   "tier": "S"
+  },
+  {
    "name": "도그홀릭",
    "category": "cafe",
    "distance_km": 37.8,
@@ -264,22 +284,6 @@
    "score": 107.6,
    "match": 72,
    "tier": "B"
-  },
-  {
-   "name": "청산수목원",
-   "category": "park",
-   "distance_km": 33.6,
-   "lat": 36.68658559,
-   "lng": 126.297394,
-   "address": "충청남도 태안군 남면 연꽃길 70",
-   "reasons": [
-    "33.6 km",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 103.3,
-   "match": 58,
-   "tier": "S"
   },
   {
    "name": "우유창고",
@@ -315,6 +319,22 @@
    "tier": "A"
   },
   {
+   "name": "청산수목원",
+   "category": "park",
+   "distance_km": 33.6,
+   "lat": 36.68658559,
+   "lng": 126.297394,
+   "address": "충청남도 태안군 남면 연꽃길 70",
+   "reasons": [
+    "33.6 km",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 103.3,
+   "match": 58,
+   "tier": "S"
+  },
+  {
    "name": "시모네",
    "category": "restaurant",
    "distance_km": 38.5,
@@ -343,23 +363,6 @@
    "score": 87.5,
    "match": 57,
    "tier": "C"
-  },
-  {
-   "name": "유구색동수국정원",
-   "category": "park",
-   "distance_km": 27.6,
-   "lat": 36.5555,
-   "lng": 126.9544,
-   "address": "충청남도 공주시 유구읍 유구리 648-17",
-   "reasons": [
-    "27.6 km",
-    "전 견종 동반 가능",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 90.8,
-   "match": 55,
-   "tier": "A"
   },
   {
    "name": "베라데로펜션",
