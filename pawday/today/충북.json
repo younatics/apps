@@ -1,10 +1,11 @@
 {
  "province": "충북",
  "date": "2026-10-29",
- "walk_index": 60,
+ "walk_index": 52,
  "reasons": [
   "강수 확률 60%",
-  "비 예보"
+  "비 예보",
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "충북",
@@ -15,9 +16,9 @@
   "precip_type": "비",
   "sky": "흐림",
   "wind_max": 2.0,
-  "pm10": 28.0,
-  "pm25": 14.0,
-  "fetched_at": "2026-10-29T20:37+09:00",
+  "pm10": 31.0,
+  "pm25": 16.0,
+  "fetched_at": "2026-10-29T21:37+09:00",
   "hourly": [
    {
     "h": 21,
@@ -215,6 +216,41 @@
  },
  "picks": [
   {
+   "name": "국립청주박물관",
+   "category": "culture",
+   "distance_km": 2.2,
+   "lat": 36.64966894,
+   "lng": 127.512009,
+   "address": "충청북도 청주시 상당구 명암로 143",
+   "reasons": [
+    "2.2 km",
+    "내일 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 124.9,
+   "match": 65,
+   "tier": "A"
+  },
+  {
+   "name": "그리너리",
+   "category": "cafe",
+   "distance_km": 3.4,
+   "lat": 36.66949303,
+   "lng": 127.471505,
+   "address": "충청북도 청주시 청원구 새터로176번길 157-1",
+   "reasons": [
+    "3.4 km",
+    "내일 영업",
+    "실내",
+    "댕오늘 추천"
+   ],
+   "score": 122.5,
+   "match": 72,
+   "tier": "B"
+  },
+  {
    "name": "호미골체육공원",
    "category": "park",
    "distance_km": 2.7,
@@ -269,6 +305,23 @@
    "tier": "A"
   },
   {
+   "name": "히든모먼츠",
+   "category": "cafe",
+   "distance_km": 24.7,
+   "lat": 36.74709523,
+   "lng": 127.244927,
+   "address": "충청남도 천안시 동남구 성남면 신사3길 42-19",
+   "reasons": [
+    "24.7 km",
+    "내일 영업",
+    "실내",
+    "댕오늘 추천"
+   ],
+   "score": 108.5,
+   "match": 72,
+   "tier": "B"
+  },
+  {
    "name": "헤이독",
    "category": "cafe",
    "distance_km": 1.1,
@@ -277,7 +330,7 @@
    "address": "충청북도 청주시 상당구 성안로 50",
    "reasons": [
     "1.1 km",
-    "지금 영업 중",
+    "내일 영업",
     "실내"
    ],
    "score": 107.0,
@@ -302,78 +355,34 @@
    "tier": "S"
   },
   {
-   "name": "카페 재생",
-   "category": "cafe",
-   "distance_km": 21.2,
-   "lat": 36.60805082,
-   "lng": 127.255114,
-   "address": "세종특별자치시 연서면 고복오봉산길 18",
+   "name": "한국공예관",
+   "category": "culture",
+   "distance_km": 1.6,
+   "lat": 36.65619554,
+   "lng": 127.492382,
+   "address": "충청북도 청주시 청원구 상당로 314",
    "reasons": [
-    "21.2 km",
-    "지금 영업 중",
-    "실내"
+    "1.6 km",
+    "내일 영업",
+    "최근 확인"
    ],
-   "score": 95.4,
-   "match": 72,
-   "tier": "B"
-  },
-  {
-   "name": "카페 아마떼",
-   "category": "cafe",
-   "distance_km": 21.7,
-   "lat": 36.4479080313965,
-   "lng": 127.465457260332,
-   "address": "대전광역시 대청로424번길 554",
-   "reasons": [
-    "21.7 km"
-   ],
-   "score": 83.1,
-   "match": 60,
+   "score": 97.9,
+   "match": 65,
    "tier": "C"
   },
   {
-   "name": "죽암(서울)",
+   "name": "신탄진(서울)",
    "category": "playground",
-   "distance_km": 17.0,
-   "lat": 36.4969720594601,
-   "lng": 127.430864108349,
-   "address": "휴게소 우측 30m",
+   "distance_km": 24.8,
+   "lat": 36.42674548837429,
+   "lng": 127.4185472593726,
+   "address": "휴게소 건물 우측 야구장 옆",
    "reasons": [
-    "17.0 km"
+    "24.8 km",
+    "내일 영업"
    ],
-   "score": 77.5,
-   "match": 54,
-   "tier": "C"
-  },
-  {
-   "name": "가영당",
-   "category": "lodging",
-   "distance_km": 12.7,
-   "lat": 36.7351218825,
-   "lng": 127.4055417589,
-   "address": "충청북도 청주시 청원구 오창읍 미래지로 71-54",
-   "reasons": [
-    "12.7 km",
-    "최근 확인"
-   ],
-   "score": 80.1,
-   "match": 58,
-   "tier": "D"
-  },
-  {
-   "name": "보강천 반려견 놀이터",
-   "category": "playground",
-   "distance_km": 17.5,
-   "lat": 36.78517,
-   "lng": 127.5722,
-   "address": "충청북도 증평군 증평읍 연탄리 225-2",
-   "reasons": [
-    "17.5 km",
-    "전 견종 동반가능(맹견 제외)",
-    "최근 확인"
-   ],
-   "score": 75.9,
-   "match": 54,
+   "score": 77.9,
+   "match": 59,
    "tier": "C"
   }
  ],
