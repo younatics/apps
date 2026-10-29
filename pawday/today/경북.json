@@ -1,39 +1,23 @@
 {
  "province": "경북",
  "date": "2026-10-29",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "경북",
   "date": "2026-10-29",
   "temp_max": 13.0,
-  "temp_min": 3.0,
+  "temp_min": 7.0,
   "rain_prob_max": 30,
   "precip_type": "",
   "sky": "흐림",
-  "wind_max": 1.5,
-  "pm10": 28.0,
-  "pm25": 13.0,
-  "fetched_at": "2026-10-29T10:37+09:00",
+  "wind_max": 1.4,
+  "pm10": 31.0,
+  "pm25": 15.0,
+  "fetched_at": "2026-10-29T11:37+09:00",
   "hourly": [
-   {
-    "h": 10,
-    "date": "20261029",
-    "temp": 6.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
-   {
-    "h": 11,
-    "date": "20261029",
-    "temp": 8.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 12,
     "date": "20261029",
@@ -209,10 +193,43 @@
     "pop": 30,
     "sky": "흐림",
     "pty": ""
+   },
+   {
+    "h": 10,
+    "date": "20261030",
+    "temp": 12.0,
+    "pop": 20,
+    "sky": "구름많음",
+    "pty": ""
+   },
+   {
+    "h": 11,
+    "date": "20261030",
+    "temp": 14.0,
+    "pop": 20,
+    "sky": "구름많음",
+    "pty": ""
    }
   ]
  },
  "picks": [
+  {
+   "name": "화수헌",
+   "category": "cafe",
+   "distance_km": 23.3,
+   "lat": 36.63912171,
+   "lng": 128.256148,
+   "address": "경상북도 문경시 산양면 현리3길 9",
+   "reasons": [
+    "23.3 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 120.4,
+   "match": 68,
+   "tier": "B"
+  },
   {
    "name": "하회세계탈박물관",
    "category": "culture",
@@ -361,21 +378,6 @@
    ],
    "score": 80.7,
    "match": 59,
-   "tier": "C"
-  },
-  {
-   "name": "용문사성보유물관",
-   "category": "culture",
-   "distance_km": 21.1,
-   "lat": 36.73150562,
-   "lng": 128.370525,
-   "address": "경상북도 예천군 용문면 용문사길 285-30",
-   "reasons": [
-    "21.1 km",
-    "최근 확인"
-   ],
-   "score": 80.4,
-   "match": 62,
    "tier": "C"
   }
  ],
