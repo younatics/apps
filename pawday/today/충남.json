@@ -1,40 +1,25 @@
 {
  "province": "충남",
  "date": "2026-10-29",
- "walk_index": 60,
+ "walk_index": 52,
  "reasons": [
   "강수 확률 60%",
-  "비 예보"
+  "비 예보",
+  "미세먼지 보통"
  ],
  "conditions": {
   "province": "충남",
   "date": "2026-10-29",
-  "temp_max": 12.0,
+  "temp_max": 11.0,
   "temp_min": 11.0,
   "rain_prob_max": 60,
   "precip_type": "비",
   "sky": "흐림",
-  "wind_max": 4.4,
-  "pm10": 30.0,
-  "pm25": 15.0,
-  "fetched_at": "2026-10-29T19:37+09:00",
+  "wind_max": 3.2,
+  "pm10": 31.0,
+  "pm25": 17.0,
+  "fetched_at": "2026-10-29T20:37+09:00",
   "hourly": [
-   {
-    "h": 19,
-    "date": "20261029",
-    "temp": 11.0,
-    "pop": 60,
-    "sky": "흐림",
-    "pty": "비"
-   },
-   {
-    "h": 20,
-    "date": "20261029",
-    "temp": 11.0,
-    "pop": 60,
-    "sky": "흐림",
-    "pty": "비"
-   },
    {
     "h": 21,
     "date": "20261029",
@@ -210,28 +195,26 @@
     "pop": 0,
     "sky": "맑음",
     "pty": ""
+   },
+   {
+    "h": 19,
+    "date": "20261030",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 20,
+    "date": "20261030",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
    }
   ]
  },
  "picks": [
-  {
-   "name": "진저보이 해미",
-   "category": "cafe",
-   "distance_km": 12.5,
-   "lat": 36.70994634,
-   "lng": 126.547872,
-   "address": "충청남도 서산시 해미면 읍성마을3길 48-8",
-   "reasons": [
-    "12.5 km",
-    "지금 영업 중",
-    "실내",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 126.8,
-   "match": 72,
-   "tier": "S"
-  },
   {
    "name": "돌꽃펜션",
    "category": "lodging",
@@ -248,23 +231,6 @@
    "score": 117.2,
    "match": 68,
    "tier": "A"
-  },
-  {
-   "name": "빙고 애견카페",
-   "category": "cafe",
-   "distance_km": 4.6,
-   "lat": 36.61821859,
-   "lng": 126.663931,
-   "address": "충청남도 홍성군 홍성읍 도청대로 149",
-   "reasons": [
-    "4.6 km",
-    "지금 영업 중",
-    "실내",
-    "댕오늘 추천"
-   ],
-   "score": 118.0,
-   "match": 72,
-   "tier": "B"
   },
   {
    "name": "개심사",
@@ -284,6 +250,23 @@
    "tier": "S"
   },
   {
+   "name": "똥꼬냥",
+   "category": "cafe",
+   "distance_km": 6.3,
+   "lat": 36.60221231,
+   "lng": 126.67152,
+   "address": "충청남도 홍성군 홍성읍 의사로 54",
+   "reasons": [
+    "6.3 km",
+    "지금 영업 중",
+    "실내",
+    "교차 확인됨"
+   ],
+   "score": 104.5,
+   "match": 72,
+   "tier": "C"
+  },
+  {
    "name": "우유창고",
    "category": "restaurant",
    "distance_km": 23.0,
@@ -300,20 +283,20 @@
    "tier": "A"
   },
   {
-   "name": "카페 홍담",
+   "name": "스퀘어독스 서산점",
    "category": "cafe",
-   "distance_km": 8.5,
-   "lat": 36.60351978,
-   "lng": 126.60753,
-   "address": "충청남도 홍성군 구항면 구성북로202번길 7",
+   "distance_km": 23.4,
+   "lat": 36.76198508,
+   "lng": 126.444495,
+   "address": "충청남도 서산시 양열로 291",
    "reasons": [
-    "8.5 km",
+    "23.4 km",
     "지금 영업 중",
     "실내"
    ],
-   "score": 106.4,
+   "score": 96.9,
    "match": 72,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "name": "공리저수지",
