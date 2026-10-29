@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 0.7,
-  "pm10": 29.0,
+  "pm10": 30.0,
   "pm25": 14.0,
-  "fetched_at": "2026-10-29T17:37+09:00",
+  "fetched_at": "2026-10-29T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -231,24 +231,6 @@
    "tier": "B"
   },
   {
-   "name": "하회세계탈박물관",
-   "category": "culture",
-   "distance_km": 3.6,
-   "lat": 36.548609725,
-   "lng": 128.5277448156,
-   "address": "경상북도 안동시 풍천면 전서로 206",
-   "reasons": [
-    "3.6 km",
-    "지금 영업 중",
-    "소형/중형",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 115.6,
-   "match": 67,
-   "tier": "A"
-  },
-  {
    "name": "사인암",
    "category": "travel",
    "distance_km": 38.0,
@@ -351,18 +333,18 @@
    "tier": "D"
   },
   {
-   "name": "덕용재4.9",
-   "category": "lodging",
-   "distance_km": 15.5,
-   "lat": 36.6918174421,
-   "lng": 128.4096697675,
-   "address": "경상북도 예천군 용문면 금당실길 78-1",
+   "name": "용문사성보유물관",
+   "category": "culture",
+   "distance_km": 21.1,
+   "lat": 36.73150562,
+   "lng": 128.370525,
+   "address": "경상북도 예천군 용문면 용문사길 285-30",
    "reasons": [
-    "15.5 km",
+    "21.1 km",
     "최근 확인"
    ],
-   "score": 79.0,
-   "match": 59,
+   "score": 80.4,
+   "match": 62,
    "tier": "C"
   },
   {
@@ -377,6 +359,21 @@
     "최근 확인"
    ],
    "score": 80.7,
+   "match": 59,
+   "tier": "C"
+  },
+  {
+   "name": "덕용재4.9",
+   "category": "lodging",
+   "distance_km": 15.5,
+   "lat": 36.6918174421,
+   "lng": 128.4096697675,
+   "address": "경상북도 예천군 용문면 금당실길 78-1",
+   "reasons": [
+    "15.5 km",
+    "최근 확인"
+   ],
+   "score": 79.0,
    "match": 59,
    "tier": "C"
   }

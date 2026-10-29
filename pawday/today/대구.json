@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 1.0,
-  "pm10": 40.0,
+  "pm10": 46.0,
   "pm25": 24.0,
-  "fetched_at": "2026-10-29T17:37+09:00",
+  "fetched_at": "2026-10-29T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -232,24 +232,6 @@
    "tier": "A"
   },
   {
-   "name": "대구섬유박물관",
-   "category": "culture",
-   "distance_km": 6.4,
-   "lat": 35.9190995,
-   "lng": 128.640295,
-   "address": "대구광역시 동구 팔공로 227",
-   "reasons": [
-    "6.4 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 126.9,
-   "match": 67,
-   "tier": "S"
-  },
-  {
    "name": "수성유원지",
    "category": "travel",
    "distance_km": 4.9,
@@ -266,6 +248,23 @@
    "score": 125.4,
    "match": 72,
    "tier": "B"
+  },
+  {
+   "name": "국채보상운동기념관",
+   "category": "culture",
+   "distance_km": 0.2,
+   "lat": 35.86930105,
+   "lng": 128.601739,
+   "address": "대구광역시 중구 국채보상로 670",
+   "reasons": [
+    "0.2 km",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 125.1,
+   "match": 62,
+   "tier": "S"
   },
   {
    "name": "두류공원",
@@ -287,24 +286,6 @@
    "tier": "A"
   },
   {
-   "name": "대구약령시한의약박물관",
-   "category": "culture",
-   "distance_km": 1.1,
-   "lat": 35.86851636,
-   "lng": 128.589908,
-   "address": "대구광역시 중구 달구벌대로415길 49",
-   "reasons": [
-    "1.1 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 126.8,
-   "match": 67,
-   "tier": "S"
-  },
-  {
    "name": "도기온",
    "category": "cafe",
    "distance_km": 15.0,
@@ -322,23 +303,23 @@
    "tier": "A"
   },
   {
-   "name": "대명유수지",
+   "name": "마비정벽화마을",
    "category": "travel",
-   "distance_km": 11.4,
-   "lat": 35.822096,
-   "lng": 128.490731,
-   "address": "대구광역시 달서구 대천동 816",
+   "distance_km": 11.6,
+   "lat": 35.7787679,
+   "lng": 128.541611,
+   "address": "대구광역시 달성군 화원읍 마비정길 262-5",
    "reasons": [
-    "11.4 km",
+    "11.6 km",
     "지금 영업 중",
+    "소형/중형",
     "맑아서 야외",
-    "최근 확인",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 121.8,
-   "match": 72,
-   "tier": "B"
+   "score": 120.9,
+   "match": 71,
+   "tier": "S"
   },
   {
    "name": "힐링독",
@@ -357,23 +338,6 @@
    "tier": "B"
   },
   {
-   "name": "태경옥",
-   "category": "restaurant",
-   "distance_km": 0.6,
-   "lat": 35.8686829,
-   "lng": 128.6076376,
-   "address": "대구광역시 중구 국채보상로 704-1 1층",
-   "reasons": [
-    "0.6 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 117.5,
-   "match": 62,
-   "tier": "B"
-  },
-  {
    "name": "카페동이 수성1가점",
    "category": "restaurant",
    "distance_km": 2.0,
@@ -386,8 +350,41 @@
     "교차 확인됨",
     "요즘 인기"
    ],
-   "score": 115.7,
+   "score": 117.5,
    "match": 62,
+   "tier": "B"
+  },
+  {
+   "name": "써니씨드업",
+   "category": "restaurant",
+   "distance_km": 0.9,
+   "lat": 35.8749107,
+   "lng": 128.5918017,
+   "address": "대구광역시 중구 태평로28길 14 1층",
+   "reasons": [
+    "0.9 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 115.6,
+   "match": 62,
+   "tier": "B"
+  },
+  {
+   "name": "바람구름",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.85367944,
+   "lng": 128.604812,
+   "address": "대구광역시 남구 명덕로64길 26",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 113.8,
+   "match": 68,
    "tier": "B"
   }
  ],

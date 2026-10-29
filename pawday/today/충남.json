@@ -17,7 +17,7 @@
   "wind_max": 4.4,
   "pm10": 27.0,
   "pm25": 12.0,
-  "fetched_at": "2026-10-29T17:37+09:00",
+  "fetched_at": "2026-10-29T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -284,25 +284,6 @@
    "tier": "S"
   },
   {
-   "name": "세계꽃식물원",
-   "category": "park",
-   "distance_km": 19.5,
-   "lat": 36.7502826733,
-   "lng": 126.858915569,
-   "address": "충청남도 아산시 도고면 아산만로 37-37",
-   "reasons": [
-    "19.5 km",
-    "지금 영업 중",
-    "소형/중형",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 109.8,
-   "match": 59,
-   "tier": "S"
-  },
-  {
    "name": "우유창고",
    "category": "restaurant",
    "distance_km": 23.0,
@@ -352,20 +333,6 @@
    "tier": "A"
   },
   {
-   "name": "서산(목포)",
-   "category": "playground",
-   "distance_km": 13.4,
-   "lat": 36.7429409969078,
-   "lng": 126.564997079004,
-   "address": "입구로부터 300m",
-   "reasons": [
-    "13.4 km"
-   ],
-   "score": 80.0,
-   "match": 54,
-   "tier": "C"
-  },
-  {
    "name": "선장포노을공원",
    "category": "park",
    "distance_km": 22.2,
@@ -378,6 +345,20 @@
    ],
    "score": 83.1,
    "match": 60,
+   "tier": "C"
+  },
+  {
+   "name": "서산(목포)",
+   "category": "playground",
+   "distance_km": 13.4,
+   "lat": 36.7429409969078,
+   "lng": 126.564997079004,
+   "address": "입구로부터 300m",
+   "reasons": [
+    "13.4 km"
+   ],
+   "score": 80.0,
+   "match": 54,
    "tier": "C"
   }
  ],
