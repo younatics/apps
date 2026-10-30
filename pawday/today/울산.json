@@ -1,0 +1,476 @@
+{
+ "province": "울산",
+ "date": "2026-10-30",
+ "walk_index": 92,
+ "reasons": [
+  "대기질 보통"
+ ],
+ "conditions": {
+  "province": "울산",
+  "date": "2026-10-30",
+  "temp_max": 21.0,
+  "temp_min": 11.0,
+  "rain_prob_max": 20,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 2.5,
+  "pm10": 32.0,
+  "pm25": 14.0,
+  "fetched_at": "2026-10-30T16:37+09:00",
+  "hourly": [
+   {
+    "h": 16,
+    "date": "20261030",
+    "temp": 20.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
+    "date": "20261030",
+    "temp": 18.0,
+    "pop": 20,
+    "sky": "구름많음",
+    "pty": ""
+   },
+   {
+    "h": 18,
+    "date": "20261030",
+    "temp": 16.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 19,
+    "date": "20261030",
+    "temp": 15.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 20,
+    "date": "20261030",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 21,
+    "date": "20261030",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261030",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 0,
+    "date": "20261031",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 1,
+    "date": "20261031",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 2,
+    "date": "20261031",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 3,
+    "date": "20261031",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 4,
+    "date": "20261031",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 5,
+    "date": "20261031",
+    "temp": 8.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 6,
+    "date": "20261031",
+    "temp": 8.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 7,
+    "date": "20261031",
+    "temp": 8.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 8,
+    "date": "20261031",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 9,
+    "date": "20261031",
+    "temp": 15.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 10,
+    "date": "20261031",
+    "temp": 18.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 11,
+    "date": "20261031",
+    "temp": 19.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 12,
+    "date": "20261031",
+    "temp": 20.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 13,
+    "date": "20261031",
+    "temp": 20.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 14,
+    "date": "20261031",
+    "temp": 20.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 15,
+    "date": "20261031",
+    "temp": 20.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   }
+  ]
+ },
+ "picks": [
+  {
+   "name": "울산대공원",
+   "category": "park",
+   "distance_km": 1.8,
+   "lat": 35.53165662544364,
+   "lng": 129.29351903251052,
+   "address": "울산광역시 남구 대공원로 94 (옥동)",
+   "reasons": [
+    "1.8 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 133.0,
+   "match": 72,
+   "tier": "S"
+  },
+  {
+   "name": "외솔최현배선생기념관",
+   "category": "culture",
+   "distance_km": 5.2,
+   "lat": 35.57475583,
+   "lng": 129.347468,
+   "address": "울산광역시 중구 병영12길 15",
+   "reasons": [
+    "5.2 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 126.9,
+   "match": 67,
+   "tier": "A"
+  },
+  {
+   "name": "슬도등대",
+   "category": "travel",
+   "distance_km": 12.6,
+   "lat": 35.47813096,
+   "lng": 129.42937,
+   "address": "울산광역시 동구 성끝길 122",
+   "reasons": [
+    "12.6 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 122.7,
+   "match": 72,
+   "tier": "B"
+  },
+  {
+   "name": "선암호수공원",
+   "category": "park",
+   "distance_km": 2.7,
+   "lat": 35.5169977357808,
+   "lng": 129.326041902412,
+   "address": "울산광역시 남구 선암호수길 104",
+   "reasons": [
+    "2.7 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 129.3,
+   "match": 72,
+   "tier": "A"
+  },
+  {
+   "name": "울산옹기박물관",
+   "category": "culture",
+   "distance_km": 11.9,
+   "lat": 35.43503641,
+   "lng": 129.279531,
+   "address": "울산광역시 울주군 온양읍 외고산3길 36",
+   "reasons": [
+    "11.9 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 119.1,
+   "match": 67,
+   "tier": "S"
+  },
+  {
+   "name": "펫빌리지",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.55510257,
+   "lng": 129.318595,
+   "address": "울산광역시 중구 중앙길 90-2",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 115.7,
+   "match": 67,
+   "tier": "B"
+  },
+  {
+   "name": "이너리트",
+   "category": "cafe",
+   "distance_km": 17.8,
+   "lat": 35.55019011,
+   "lng": 129.115669,
+   "address": "울산광역시 울주군 삼남읍 수남벚꽃길 9",
+   "reasons": [
+    "17.8 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 112.2,
+   "match": 68,
+   "tier": "B"
+  },
+  {
+   "name": "태화강둔치",
+   "category": "travel",
+   "distance_km": 2.7,
+   "lat": 35.55152921,
+   "lng": 129.286037,
+   "address": "울산광역시 중구 태화동 800",
+   "reasons": [
+    "2.7 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "score": 110.6,
+   "match": 72,
+   "tier": "B"
+  },
+  {
+   "name": "봉화재 반려견 놀이터",
+   "category": "playground",
+   "distance_km": 10.5,
+   "lat": 35.492849476,
+   "lng": 129.4133149953,
+   "address": "울산광역시 동구 봉수로 27-53",
+   "reasons": [
+    "10.5 km",
+    "맹견 제외 동물등록 완료한 전 견종 동반 가능",
+    "맑아서 야외",
+    "최근 확인",
+    "요즘 인기"
+   ],
+   "score": 102.9,
+   "match": 66,
+   "tier": "B"
+  },
+  {
+   "name": "웨이브온커피",
+   "category": "cafe",
+   "distance_km": 24.3,
+   "lat": 35.3223106,
+   "lng": 129.2696854,
+   "address": "부산광역시 기장군 장안읍 해맞이로 286",
+   "reasons": [
+    "24.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "교차 확인됨"
+   ],
+   "score": 94.0,
+   "match": 64,
+   "tier": "B"
+  }
+ ],
+ "links": [],
+ "events": [
+  {
+   "id": "1860181bc139",
+   "aliases": [],
+   "title": "2026 부산 펫쇼",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "time": "",
+   "venue": "벡스코",
+   "address": "부산 해운대구 APEC로 55",
+   "lat": 35.1691716212143,
+   "lng": 129.13625616255,
+   "province": "부산",
+   "kind": "fair",
+   "dog": "unknown",
+   "dog_text": "",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "",
+   "url": "https://www.sano.co.kr/%eb%b0%98%eb%a0%a4%ea%b2%ac-%ec%b6%95%ec%a0%9c-10%ec%9b%94-%ec%9d%bc%ec%a0%95%ea%b3%bc-%ec%a4%80%eb%b9%84%eb%ac%bc-%ed%99%95%ec%9d%b8%ed%95%98%ea%b3%a0-%eb%96%a0%eb%82%98%ec%9a%94",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.sano.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "벡스코에서 열리는 대형 반려동물 박람회예요.",
+   "status": "ongoing"
+  },
+  {
+   "id": "a99e4b0a8443",
+   "aliases": [],
+   "title": "2026 경산 반려문화축제",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "time": "",
+   "venue": "남천강변",
+   "address": "경상북도 경산시 진량읍 대구대로 201",
+   "lat": 35.90453897,
+   "lng": 128.8428133,
+   "province": "경북",
+   "kind": "festival",
+   "dog": "unknown",
+   "dog_text": "",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "(재)경산문화관광재단",
+   "url": "http://www.gbgs.go.kr",
+   "image": "",
+   "image_credit": "",
+   "source": "official:std_festival",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "반려동식물 특강 · 체험 행사",
+   "status": "upcoming"
+  },
+  {
+   "id": "5f80b307d494",
+   "aliases": [],
+   "title": "2026 케이펫페어 부산 시즌2",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "time": "10:00~18:00",
+   "venue": "벡스코 2전시장 4홀",
+   "address": "부산 해운대구 APEC로 30",
+   "lat": 35.16570050983977,
+   "lng": 129.13502405919212,
+   "province": "부산",
+   "kind": "fair",
+   "dog": "ok",
+   "dog_text": "반려동물 동반 박람회",
+   "fee": "paid",
+   "fee_text": "정가 10,000원 · 사전등록 무료",
+   "organizer": "케이펫페어",
+   "url": "https://k-pet.co.kr/information/exhibition-scheduled-all/26pet_busan2/",
+   "image": "",
+   "image_credit": "",
+   "source": "organizer:k-pet.co.kr",
+   "grade": "organizer",
+   "confidence": 0.9,
+   "summary": "",
+   "status": "upcoming"
+  }
+ ]
+}
