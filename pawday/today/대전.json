@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.4,
-  "pm10": 47.0,
-  "pm25": 22.0,
-  "fetched_at": "2026-10-30T17:37+09:00",
+  "pm10": 46.0,
+  "pm25": 21.0,
+  "fetched_at": "2026-10-30T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -252,6 +252,23 @@
    "tier": "A"
   },
   {
+   "name": "오푼",
+   "category": "cafe",
+   "distance_km": 1.3,
+   "lat": 36.33958148,
+   "lng": 127.390039,
+   "address": "대전광역시 서구 도솔로388번길 44",
+   "reasons": [
+    "1.3 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 129.7,
+   "match": 68,
+   "tier": "A"
+  },
+  {
    "name": "둔산선사유적지",
    "category": "culture",
    "distance_km": 1.3,
@@ -302,22 +319,6 @@
    "score": 117.9,
    "match": 72,
    "tier": "S"
-  },
-  {
-   "name": "댕라운지",
-   "category": "cafe",
-   "distance_km": 1.3,
-   "lat": 36.36138851,
-   "lng": 127.378426,
-   "address": "대전광역시 서구 대덕대로317번길 20",
-   "reasons": [
-    "1.3 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 122.4,
-   "match": 67,
-   "tier": "B"
   },
   {
    "name": "바투",

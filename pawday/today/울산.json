@@ -1,9 +1,9 @@
 {
  "province": "울산",
  "date": "2026-10-30",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "울산",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.0,
-  "pm10": 29.0,
-  "pm25": 13.0,
-  "fetched_at": "2026-10-30T17:37+09:00",
+  "pm10": 32.0,
+  "pm25": 15.0,
+  "fetched_at": "2026-10-30T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -233,24 +233,6 @@
    "tier": "S"
   },
   {
-   "name": "외솔최현배선생기념관",
-   "category": "culture",
-   "distance_km": 5.2,
-   "lat": 35.57475583,
-   "lng": 129.347468,
-   "address": "울산광역시 중구 병영12길 15",
-   "reasons": [
-    "5.2 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 126.9,
-   "match": 67,
-   "tier": "A"
-  },
-  {
    "name": "슬도등대",
    "category": "travel",
    "distance_km": 12.6,
@@ -286,24 +268,6 @@
    "score": 129.3,
    "match": 72,
    "tier": "A"
-  },
-  {
-   "name": "울산옹기박물관",
-   "category": "culture",
-   "distance_km": 11.9,
-   "lat": 35.43503641,
-   "lng": 129.279531,
-   "address": "울산광역시 울주군 온양읍 외고산3길 36",
-   "reasons": [
-    "11.9 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 119.1,
-   "match": 67,
-   "tier": "S"
   },
   {
    "name": "펫빌리지",
@@ -370,6 +334,39 @@
    "score": 102.9,
    "match": 66,
    "tier": "B"
+  },
+  {
+   "name": "황방산생태야영장",
+   "category": "lodging",
+   "distance_km": 5.7,
+   "lat": 35.5881210122,
+   "lng": 129.3282007667,
+   "address": "울산광역시 중구 주연길 52 (장현동)",
+   "reasons": [
+    "5.7 km",
+    "최근 확인",
+    "요즘 인기"
+   ],
+   "score": 101.3,
+   "match": 59,
+   "tier": "A"
+  },
+  {
+   "name": "장생포 고래문화마을",
+   "category": "culture",
+   "distance_km": 7.4,
+   "lat": 35.5059156009,
+   "lng": 129.3830959043,
+   "address": "울산광역시 남구 장생포고래로 271-1 (매암동)",
+   "reasons": [
+    "7.4 km",
+    "전 견종 동반 가능",
+    "최근 확인",
+    "요즘 인기"
+   ],
+   "score": 99.8,
+   "match": 59,
+   "tier": "A"
   },
   {
    "name": "웨이브온커피",

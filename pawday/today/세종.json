@@ -1,9 +1,9 @@
 {
  "province": "세종",
  "date": "2026-10-30",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "세종",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.2,
-  "pm10": 30.0,
-  "pm25": 10.0,
-  "fetched_at": "2026-10-30T17:37+09:00",
+  "pm10": 35.0,
+  "pm25": 16.0,
+  "fetched_at": "2026-10-30T18:37+09:00",
   "hourly": [
    {
     "h": 18,
@@ -285,24 +285,6 @@
    "tier": "S"
   },
   {
-   "name": "세종시립민속박물관",
-   "category": "culture",
-   "distance_km": 17.8,
-   "lat": 36.60908191,
-   "lng": 127.170609,
-   "address": "세종특별자치시 전의면 금사길 75",
-   "reasons": [
-    "17.8 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 115.7,
-   "match": 67,
-   "tier": "A"
-  },
-  {
    "name": "둔산선사유적지",
    "category": "culture",
    "distance_km": 15.5,
@@ -320,6 +302,40 @@
    "tier": "A"
   },
   {
+   "name": "오푼",
+   "category": "cafe",
+   "distance_km": 18.0,
+   "lat": 36.33958148,
+   "lng": 127.390039,
+   "address": "대전광역시 서구 도솔로388번길 44",
+   "reasons": [
+    "18.0 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 115.8,
+   "match": 68,
+   "tier": "A"
+  },
+  {
+   "name": "대전선사박물관",
+   "category": "culture",
+   "distance_km": 12.4,
+   "lat": 36.37191134,
+   "lng": 127.32384,
+   "address": "대전광역시 유성구 노은동로 126",
+   "reasons": [
+    "12.4 km",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 112.9,
+   "match": 62,
+   "tier": "S"
+  },
+  {
    "name": "퍼피스그린",
    "category": "cafe",
    "distance_km": 21.7,
@@ -335,23 +351,6 @@
    "score": 111.7,
    "match": 68,
    "tier": "A"
-  },
-  {
-   "name": "DAZE",
-   "category": "cafe",
-   "distance_km": 21.1,
-   "lat": 36.32763693,
-   "lng": 127.429569,
-   "address": "대전광역시 중구 중앙로170번길 48",
-   "reasons": [
-    "21.1 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 110.8,
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "한마음 정육식당",
