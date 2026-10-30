@@ -1,9 +1,9 @@
 {
  "province": "광주",
  "date": "2026-10-30",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "광주",
@@ -15,8 +15,8 @@
   "sky": "맑음",
   "wind_max": 2.4,
   "pm10": 26.0,
-  "pm25": 15.0,
-  "fetched_at": "2026-10-30T14:37+09:00",
+  "pm25": 17.0,
+  "fetched_at": "2026-10-30T15:37+09:00",
   "hourly": [
    {
     "h": 15,
