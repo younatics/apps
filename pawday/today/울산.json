@@ -1,9 +1,9 @@
 {
  "province": "울산",
  "date": "2026-10-30",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "울산",
@@ -14,18 +14,10 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.7,
-  "pm10": 27.0,
-  "pm25": 14.0,
-  "fetched_at": "2026-10-30T12:37+09:00",
+  "pm10": 34.0,
+  "pm25": 15.0,
+  "fetched_at": "2026-10-30T13:37+09:00",
   "hourly": [
-   {
-    "h": 12,
-    "date": "20261030",
-    "temp": 20.0,
-    "pop": 0,
-    "sky": "맑음",
-    "pty": ""
-   },
    {
     "h": 13,
     "date": "20261030",
@@ -209,6 +201,14 @@
     "pop": 0,
     "sky": "맑음",
     "pty": ""
+   },
+   {
+    "h": 12,
+    "date": "20261031",
+    "temp": 20.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
    }
   ]
  },
@@ -306,6 +306,22 @@
    "tier": "S"
   },
   {
+   "name": "펫빌리지",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.55510257,
+   "lng": 129.318595,
+   "address": "울산광역시 중구 중앙길 90-2",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 115.7,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "이너리트",
    "category": "cafe",
    "distance_km": 17.8,
@@ -353,21 +369,6 @@
    ],
    "score": 102.9,
    "match": 66,
-   "tier": "B"
-  },
-  {
-   "name": "코코마또",
-   "category": "cafe",
-   "distance_km": 13.7,
-   "lat": 35.60805579,
-   "lng": 129.436529,
-   "address": "울산광역시 북구 무룡로 995",
-   "reasons": [
-    "13.7 km",
-    "지금 영업 중"
-   ],
-   "score": 91.9,
-   "match": 68,
    "tier": "B"
   },
   {
