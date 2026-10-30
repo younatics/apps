@@ -15,8 +15,8 @@
   "sky": "맑음",
   "wind_max": 4.5,
   "pm10": 29.0,
-  "pm25": 17.0,
-  "fetched_at": "2026-10-30T11:37+09:00",
+  "pm25": 16.0,
+  "fetched_at": "2026-10-30T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -314,6 +314,21 @@
    "tier": "B"
   },
   {
+   "name": "펫다방",
+   "category": "cafe",
+   "distance_km": 5.0,
+   "lat": 33.48326033,
+   "lng": 126.481067,
+   "address": "제주특별자치도 제주시 1100로 3328",
+   "reasons": [
+    "5.0 km",
+    "지금 영업 중"
+   ],
+   "score": 107.2,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "스누피가든",
    "category": "travel",
    "distance_km": 23.8,
@@ -347,21 +362,6 @@
    "score": 102.5,
    "match": 64,
    "tier": "A"
-  },
-  {
-   "name": "라 플라주",
-   "category": "cafe",
-   "distance_km": 13.8,
-   "lat": 33.54282675,
-   "lng": 126.67051,
-   "address": "제주특별자치도 제주시 조천읍 조함해안로 525",
-   "reasons": [
-    "13.8 km",
-    "지금 영업 중"
-   ],
-   "score": 96.4,
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "돈내코힐 리조트",

@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.2,
-  "pm10": 26.0,
-  "pm25": 14.0,
-  "fetched_at": "2026-10-30T11:37+09:00",
+  "pm10": 27.0,
+  "pm25": 15.0,
+  "fetched_at": "2026-10-30T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -338,6 +338,22 @@
    "tier": "A"
   },
   {
+   "name": "댕라운지",
+   "category": "cafe",
+   "distance_km": 15.4,
+   "lat": 36.36138851,
+   "lng": 127.378426,
+   "address": "대전광역시 서구 대덕대로317번길 20",
+   "reasons": [
+    "15.4 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 110.1,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "한마음 정육식당",
    "category": "restaurant",
    "distance_km": 12.4,
@@ -350,21 +366,6 @@
    ],
    "score": 102.3,
    "match": 59,
-   "tier": "B"
-  },
-  {
-   "name": "정다운 아지트",
-   "category": "cafe",
-   "distance_km": 9.9,
-   "lat": 36.40176244,
-   "lng": 127.236169,
-   "address": "충청남도 공주시 반포면 정광터1길 70",
-   "reasons": [
-    "9.9 km",
-    "지금 영업 중"
-   ],
-   "score": 105.0,
-   "match": 68,
    "tier": "B"
   },
   {

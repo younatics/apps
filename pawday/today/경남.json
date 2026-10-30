@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 1.8,
-  "pm10": 18.0,
+  "pm10": 19.0,
   "pm25": 10.0,
-  "fetched_at": "2026-10-30T11:37+09:00",
+  "fetched_at": "2026-10-30T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -335,6 +335,21 @@
    "tier": "A"
   },
   {
+   "name": "카페탱자",
+   "category": "cafe",
+   "distance_km": 17.1,
+   "lat": 35.2294104,
+   "lng": 128.879942,
+   "address": "경상남도 김해시 봉황대길 58-5",
+   "reasons": [
+    "17.1 km",
+    "지금 영업 중"
+   ],
+   "score": 96.1,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "댕포유",
    "category": "cafe",
    "distance_km": 15.9,
@@ -348,21 +363,6 @@
    "score": 96.0,
    "match": 68,
    "tier": "C"
-  },
-  {
-   "name": "카페쿠",
-   "category": "cafe",
-   "distance_km": 21.5,
-   "lat": 35.07458017,
-   "lng": 128.565554,
-   "address": "경상남도 창원시 마산합포구 구산면 해양관광로 1767",
-   "reasons": [
-    "21.5 km",
-    "지금 영업 중"
-   ],
-   "score": 90.5,
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "밀양아리랑 오토캠핑장",

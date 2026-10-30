@@ -1,9 +1,9 @@
 {
  "province": "대전",
  "date": "2026-10-30",
- "walk_index": 100,
+ "walk_index": 92,
  "reasons": [
-  "산책하기 좋은 날"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "대전",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "구름많음",
   "wind_max": 3.0,
-  "pm10": 28.0,
-  "pm25": 14.0,
-  "fetched_at": "2026-10-30T11:37+09:00",
+  "pm10": 27.0,
+  "pm25": 16.0,
+  "fetched_at": "2026-10-30T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -322,6 +322,22 @@
    "tier": "S"
   },
   {
+   "name": "댕라운지",
+   "category": "cafe",
+   "distance_km": 1.3,
+   "lat": 36.36138851,
+   "lng": 127.378426,
+   "address": "대전광역시 서구 대덕대로317번길 20",
+   "reasons": [
+    "1.3 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 122.4,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "정부대전청사자연마당",
    "category": "travel",
    "distance_km": 0.9,
@@ -371,22 +387,6 @@
    ],
    "score": 114.3,
    "match": 59,
-   "tier": "B"
-  },
-  {
-   "name": "피터펫",
-   "category": "cafe",
-   "distance_km": 1.6,
-   "lat": 36.34576454,
-   "lng": 127.401442,
-   "address": "대전광역시 서구 유등로 659",
-   "reasons": [
-    "1.6 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 114.6,
-   "match": 68,
    "tier": "B"
   }
  ],
