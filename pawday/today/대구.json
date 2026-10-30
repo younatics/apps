@@ -3,7 +3,7 @@
  "date": "2026-10-30",
  "walk_index": 92,
  "reasons": [
-  "미세먼지 보통"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "대구",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 2.9,
-  "pm10": 32.0,
+  "pm10": 34.0,
   "pm25": 25.0,
-  "fetched_at": "2026-10-30T08:37+09:00",
+  "fetched_at": "2026-10-30T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -233,6 +233,24 @@
    "tier": "A"
   },
   {
+   "name": "대구약령시한의약박물관",
+   "category": "culture",
+   "distance_km": 1.1,
+   "lat": 35.86851636,
+   "lng": 128.589908,
+   "address": "대구광역시 중구 달구벌대로415길 49",
+   "reasons": [
+    "1.1 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 126.9,
+   "match": 67,
+   "tier": "S"
+  },
+  {
    "name": "마비정벽화마을",
    "category": "travel",
    "distance_km": 11.6,
@@ -249,23 +267,6 @@
    ],
    "score": 125.7,
    "match": 71,
-   "tier": "S"
-  },
-  {
-   "name": "국채보상운동기념관",
-   "category": "culture",
-   "distance_km": 0.2,
-   "lat": 35.86930105,
-   "lng": 128.601739,
-   "address": "대구광역시 중구 국채보상로 670",
-   "reasons": [
-    "0.2 km",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 125.4,
-   "match": 62,
    "tier": "S"
   },
   {
@@ -287,6 +288,24 @@
    "tier": "A"
   },
   {
+   "name": "국립대구박물관",
+   "category": "culture",
+   "distance_km": 4.4,
+   "lat": 35.84557453,
+   "lng": 128.638342,
+   "address": "대구광역시 수성구 청호로 321",
+   "reasons": [
+    "4.4 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 123.8,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "화원유원지",
    "category": "travel",
    "distance_km": 12.7,
@@ -305,23 +324,6 @@
    "tier": "A"
   },
   {
-   "name": "카페동이 수성1가점",
-   "category": "restaurant",
-   "distance_km": 2.0,
-   "lat": 35.854967599999995,
-   "lng": 128.6096015,
-   "address": "대구광역시 수성구",
-   "reasons": [
-    "2.0 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 115.0,
-   "match": 59,
-   "tier": "B"
-  },
-  {
    "name": "써니씨드업",
    "category": "restaurant",
    "distance_km": 0.9,
@@ -335,6 +337,23 @@
     "요즘 인기"
    ],
    "score": 115.2,
+   "match": 59,
+   "tier": "B"
+  },
+  {
+   "name": "카페동이 수성1가점",
+   "category": "restaurant",
+   "distance_km": 2.0,
+   "lat": 35.854967599999995,
+   "lng": 128.6096015,
+   "address": "대구광역시 수성구",
+   "reasons": [
+    "2.0 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 115.0,
    "match": 59,
    "tier": "B"
   },
@@ -370,22 +389,6 @@
    "score": 105.8,
    "match": 59,
    "tier": "C"
-  },
-  {
-   "name": "레스트 커피룸",
-   "category": "cafe",
-   "distance_km": 1.2,
-   "lat": 35.8803087,
-   "lng": 128.5934354,
-   "address": "대구광역시 북구 칠성로 37-9",
-   "reasons": [
-    "1.2 km",
-    "최근 확인",
-    "교차 확인됨"
-   ],
-   "score": 101.5,
-   "match": 59,
-   "tier": "B"
   }
  ],
  "links": [],

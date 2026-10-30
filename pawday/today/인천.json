@@ -3,7 +3,7 @@
  "date": "2026-10-30",
  "walk_index": 92,
  "reasons": [
-  "미세먼지 보통"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "인천",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.8,
-  "pm10": 28.0,
-  "pm25": 19.0,
-  "fetched_at": "2026-10-30T08:37+09:00",
+  "pm10": 30.0,
+  "pm25": 18.0,
+  "fetched_at": "2026-10-30T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -252,6 +252,24 @@
    "tier": "A"
   },
   {
+   "name": "수도국산달동네박물관",
+   "category": "culture",
+   "distance_km": 6.3,
+   "lat": 37.4778799,
+   "lng": 126.639297,
+   "address": "인천광역시 동구 솔빛로 51",
+   "reasons": [
+    "6.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 126.4,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "인천대공원 반려견놀이터",
    "category": "playground",
    "distance_km": 4.1,
@@ -320,6 +338,24 @@
    "tier": "A"
   },
   {
+   "name": "녹청자박물관",
+   "category": "culture",
+   "distance_km": 12.1,
+   "lat": 37.55820186,
+   "lng": 126.656269,
+   "address": "인천광역시 서구 도요지로 54",
+   "reasons": [
+    "12.1 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 121.0,
+   "match": 67,
+   "tier": "S"
+  },
+  {
    "name": "구월동 카페",
    "category": "cafe",
    "distance_km": 0.6,
@@ -337,24 +373,6 @@
    "tier": "B"
   },
   {
-   "name": "문화비축기지",
-   "category": "culture",
-   "distance_km": 21.0,
-   "lat": 37.5699856862,
-   "lng": 126.8951646315,
-   "address": "서울특별시 마포구 증산로 87",
-   "reasons": [
-    "21.0 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 111.6,
-   "match": 68,
-   "tier": "S"
-  },
-  {
    "name": "뽁식당 구월점",
    "category": "restaurant",
    "distance_km": 0.8,
@@ -370,22 +388,6 @@
    "score": 114.6,
    "match": 59,
    "tier": "B"
-  },
-  {
-   "name": "커멍커멍",
-   "category": "cafe",
-   "distance_km": 16.5,
-   "lat": 37.56009264,
-   "lng": 126.838304,
-   "address": "서울특별시 강서구 강서로 385",
-   "reasons": [
-    "16.5 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "score": 113.2,
-   "match": 68,
-   "tier": "A"
   }
  ],
  "links": [],

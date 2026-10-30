@@ -3,7 +3,7 @@
  "date": "2026-10-30",
  "walk_index": 92,
  "reasons": [
-  "미세먼지 보통"
+  "대기질 보통"
  ],
  "conditions": {
   "province": "세종",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.3,
-  "pm10": 27.0,
-  "pm25": 20.0,
-  "fetched_at": "2026-10-30T08:37+09:00",
+  "pm10": 34.0,
+  "pm25": 17.0,
+  "fetched_at": "2026-10-30T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -268,6 +268,24 @@
    "tier": "S"
   },
   {
+   "name": "세종시립민속박물관",
+   "category": "culture",
+   "distance_km": 17.8,
+   "lat": 36.60908191,
+   "lng": 127.170609,
+   "address": "세종특별자치시 전의면 금사길 75",
+   "reasons": [
+    "17.8 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 115.7,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "둔산선사유적지",
    "category": "culture",
    "distance_km": 15.5,
@@ -283,23 +301,6 @@
    "score": 114.6,
    "match": 68,
    "tier": "A"
-  },
-  {
-   "name": "대전선사박물관",
-   "category": "culture",
-   "distance_km": 12.4,
-   "lat": 36.37191134,
-   "lng": 127.32384,
-   "address": "대전광역시 유성구 노은동로 126",
-   "reasons": [
-    "12.4 km",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "score": 112.9,
-   "match": 62,
-   "tier": "S"
   },
   {
    "name": "한마음 정육식당",
