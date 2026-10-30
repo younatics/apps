@@ -1,39 +1,23 @@
 {
  "province": "충북",
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "walk_index": 92,
  "reasons": [
   "대기질 보통"
  ],
  "conditions": {
   "province": "충북",
-  "date": "2026-10-30",
-  "temp_max": 11.0,
-  "temp_min": 11.0,
-  "rain_prob_max": 20,
+  "date": "2026-10-31",
+  "temp_max": 16.0,
+  "temp_min": 8.0,
+  "rain_prob_max": 30,
   "precip_type": "",
-  "sky": "구름많음",
-  "wind_max": 2.1,
+  "sky": "맑음",
+  "wind_max": 4.2,
   "pm10": 50.0,
   "pm25": 27.0,
-  "fetched_at": "2026-10-30T22:37+09:00",
+  "fetched_at": "2026-10-31T00:07+09:00",
   "hourly": [
-   {
-    "h": 22,
-    "date": "20261030",
-    "temp": 11.0,
-    "pop": 20,
-    "sky": "구름많음",
-    "pty": ""
-   },
-   {
-    "h": 23,
-    "date": "20261030",
-    "temp": 11.0,
-    "pop": 20,
-    "sky": "구름많음",
-    "pty": ""
-   },
    {
     "h": 0,
     "date": "20261031",
@@ -209,6 +193,22 @@
     "pop": 30,
     "sky": "흐림",
     "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261031",
+    "temp": 6.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261031",
+    "temp": 6.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
    }
   ]
  },
@@ -228,7 +228,7 @@
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 129.4,
+   "score": 126.5,
    "match": 71,
    "tier": "A"
   },
@@ -247,40 +247,9 @@
     "최근 확인",
     "요즘 인기"
    ],
-   "score": 115.0,
+   "score": 115.1,
    "match": 70,
    "tier": "A"
-  },
-  {
-   "name": "그리너리",
-   "category": "cafe",
-   "distance_km": 3.4,
-   "lat": 36.66949303,
-   "lng": 127.471505,
-   "address": "충청북도 청주시 청원구 새터로176번길 157-1",
-   "reasons": [
-    "3.4 km",
-    "내일 영업"
-   ],
-   "score": 111.3,
-   "match": 68,
-   "tier": "B"
-  },
-  {
-   "name": "국립청주박물관",
-   "category": "culture",
-   "distance_km": 2.2,
-   "lat": 36.64966894,
-   "lng": 127.512009,
-   "address": "충청북도 청주시 상당구 명암로 143",
-   "reasons": [
-    "2.2 km",
-    "내일 영업",
-    "최근 확인"
-   ],
-   "score": 111.0,
-   "match": 67,
-   "tier": "B"
   },
   {
    "name": "청남대",
@@ -301,20 +270,51 @@
    "tier": "S"
   },
   {
-   "name": "백봉공원",
-   "category": "park",
-   "distance_km": 2.8,
-   "lat": 36.6475413,
-   "lng": 127.458706,
-   "address": "충청북도 청주시 흥덕구 봉정로66번길 95",
+   "name": "국립청주박물관",
+   "category": "culture",
+   "distance_km": 2.2,
+   "lat": 36.64966894,
+   "lng": 127.512009,
+   "address": "충청북도 청주시 상당구 명암로 143",
    "reasons": [
-    "2.8 km",
+    "2.2 km",
+    "낮에 영업",
+    "최근 확인"
+   ],
+   "score": 108.7,
+   "match": 67,
+   "tier": "B"
+  },
+  {
+   "name": "그리너리",
+   "category": "cafe",
+   "distance_km": 3.4,
+   "lat": 36.66949303,
+   "lng": 127.471505,
+   "address": "충청북도 청주시 청원구 새터로176번길 157-1",
+   "reasons": [
+    "3.4 km",
+    "낮에 영업"
+   ],
+   "score": 106.5,
+   "match": 68,
+   "tier": "B"
+  },
+  {
+   "name": "운천공원",
+   "category": "park",
+   "distance_km": 1.7,
+   "lat": 36.64284527,
+   "lng": 127.470121,
+   "address": "충청북도 청주시 흥덕구 신봉동 343-1",
+   "reasons": [
+    "1.7 km",
     "지금 영업 중",
     "맑아서 야외"
    ],
-   "score": 109.0,
+   "score": 108.7,
    "match": 72,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "name": "한국공예관",
@@ -325,10 +325,10 @@
    "address": "충청북도 청주시 청원구 상당로 314",
    "reasons": [
     "1.6 km",
-    "내일 영업",
+    "낮에 영업",
     "최근 확인"
    ],
-   "score": 102.1,
+   "score": 106.1,
    "match": 67,
    "tier": "B"
   },
@@ -345,8 +345,8 @@
     "맑아서 야외",
     "최근 확인"
    ],
-   "score": 88.7,
-   "match": 66,
+   "score": 91.9,
+   "match": 69,
    "tier": "C"
   },
   {
@@ -358,25 +358,26 @@
    "address": "충청남도 천안시 동남구 성남면 신사3길 42-19",
    "reasons": [
     "24.7 km",
-    "내일 영업"
+    "낮에 영업"
    ],
-   "score": 93.4,
+   "score": 90.7,
    "match": 68,
    "tier": "B"
   },
   {
-   "name": "카페 아마떼",
+   "name": "카페 재생",
    "category": "cafe",
-   "distance_km": 21.7,
-   "lat": 36.4479080313965,
-   "lng": 127.465457260332,
-   "address": "대전광역시 대청로424번길 554",
+   "distance_km": 21.2,
+   "lat": 36.60805082,
+   "lng": 127.255114,
+   "address": "세종특별자치시 연서면 고복오봉산길 18",
    "reasons": [
-    "21.7 km"
+    "21.2 km",
+    "낮에 영업"
    ],
-   "score": 86.6,
-   "match": 62,
-   "tier": "C"
+   "score": 85.8,
+   "match": 68,
+   "tier": "B"
   }
  ],
  "links": [],
@@ -406,7 +407,7 @@
    "grade": "official",
    "confidence": 1.0,
    "summary": "도그스포츠 대회와 반려견 올림픽, 댕댕하이크를 진행해요.",
-   "status": "upcoming"
+   "status": "ongoing"
   }
  ]
 }
