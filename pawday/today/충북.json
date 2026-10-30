@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "구름많음",
   "wind_max": 2.1,
-  "pm10": 51.0,
-  "pm25": 25.0,
-  "fetched_at": "2026-10-30T20:37+09:00",
+  "pm10": 50.0,
+  "pm25": 26.0,
+  "fetched_at": "2026-10-30T21:37+09:00",
   "hourly": [
    {
     "h": 21,
@@ -252,6 +252,37 @@
    "tier": "A"
   },
   {
+   "name": "그리너리",
+   "category": "cafe",
+   "distance_km": 3.4,
+   "lat": 36.66949303,
+   "lng": 127.471505,
+   "address": "충청북도 청주시 청원구 새터로176번길 157-1",
+   "reasons": [
+    "3.4 km",
+    "내일 영업"
+   ],
+   "score": 111.3,
+   "match": 68,
+   "tier": "B"
+  },
+  {
+   "name": "국립청주박물관",
+   "category": "culture",
+   "distance_km": 2.2,
+   "lat": 36.64966894,
+   "lng": 127.512009,
+   "address": "충청북도 청주시 상당구 명암로 143",
+   "reasons": [
+    "2.2 km",
+    "내일 영업",
+    "최근 확인"
+   ],
+   "score": 111.0,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "청남대",
    "category": "travel",
    "distance_km": 20.0,
@@ -286,6 +317,22 @@
    "tier": "C"
   },
   {
+   "name": "한국공예관",
+   "category": "culture",
+   "distance_km": 1.6,
+   "lat": 36.65619554,
+   "lng": 127.492382,
+   "address": "충청북도 청주시 청원구 상당로 314",
+   "reasons": [
+    "1.6 km",
+    "내일 영업",
+    "최근 확인"
+   ],
+   "score": 102.1,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "보강천 반려견 놀이터",
    "category": "playground",
    "distance_km": 17.5,
@@ -303,6 +350,21 @@
    "tier": "C"
   },
   {
+   "name": "히든모먼츠",
+   "category": "cafe",
+   "distance_km": 24.7,
+   "lat": 36.74709523,
+   "lng": 127.244927,
+   "address": "충청남도 천안시 동남구 성남면 신사3길 42-19",
+   "reasons": [
+    "24.7 km",
+    "내일 영업"
+   ],
+   "score": 93.4,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "카페 아마떼",
    "category": "cafe",
    "distance_km": 21.7,
@@ -314,64 +376,6 @@
    ],
    "score": 86.6,
    "match": 62,
-   "tier": "C"
-  },
-  {
-   "name": "카페 재생",
-   "category": "cafe",
-   "distance_km": 21.2,
-   "lat": 36.60805082,
-   "lng": 127.255114,
-   "address": "세종특별자치시 연서면 고복오봉산길 18",
-   "reasons": [
-    "21.2 km",
-    "지금 영업 중"
-   ],
-   "score": 85.4,
-   "match": 68,
-   "tier": "B"
-  },
-  {
-   "name": "노리터 키즈 캠핑장",
-   "category": "lodging",
-   "distance_km": 6.6,
-   "lat": 36.6440067,
-   "lng": 127.5631131,
-   "address": "충청북도 청주시 상당구 낭성면 산성로 845",
-   "reasons": [
-    "6.6 km"
-   ],
-   "score": 83.3,
-   "match": 59,
-   "tier": "C"
-  },
-  {
-   "name": "우니메이카 청주점",
-   "category": "restaurant",
-   "distance_km": 19.4,
-   "lat": 36.6174267,
-   "lng": 127.7045373,
-   "address": "충청북도 청주시 상당구 미원면 옥화길 66",
-   "reasons": [
-    "19.4 km"
-   ],
-   "score": 80.4,
-   "match": 62,
-   "tier": "C"
-  },
-  {
-   "name": "신탄진 휴게소(서울 방향) 반려견 놀이터",
-   "category": "playground",
-   "distance_km": 24.6,
-   "lat": 36.4281311186935,
-   "lng": 127.418571981966,
-   "address": "대전광역시 산업단지로 27",
-   "reasons": [
-    "24.6 km",
-    "맑아서 야외"
-   ],
-   "score": 81.9,
-   "match": 66,
    "tier": "C"
   }
  ],

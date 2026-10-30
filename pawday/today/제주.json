@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.6,
-  "pm10": 38.0,
-  "pm25": 21.0,
-  "fetched_at": "2026-10-30T20:37+09:00",
+  "pm10": 36.0,
+  "pm25": 26.0,
+  "fetched_at": "2026-10-30T21:37+09:00",
   "hourly": [
    {
     "h": 21,
@@ -222,11 +222,60 @@
    "address": "제주특별자치도 제주시 애월읍 애월로1길 25",
    "reasons": [
     "21.0 km",
-    "지금 영업 중",
+    "내일 영업",
     "댕오늘 추천",
     "요즘 인기"
    ],
    "score": 116.9,
+   "match": 68,
+   "tier": "A"
+  },
+  {
+   "name": "제주특별자치도 민속자연사박물관",
+   "category": "culture",
+   "distance_km": 0.8,
+   "lat": 33.5063901549,
+   "lng": 126.5313373721,
+   "address": "제주특별자치도 제주시 삼성로 40",
+   "reasons": [
+    "0.8 km",
+    "내일 영업",
+    "최근 확인"
+   ],
+   "score": 114.9,
+   "match": 67,
+   "tier": "B"
+  },
+  {
+   "name": "국립제주박물관",
+   "category": "culture",
+   "distance_km": 2.2,
+   "lat": 33.51379671,
+   "lng": 126.54791,
+   "address": "제주특별자치도 제주시 일주동로 17",
+   "reasons": [
+    "2.2 km",
+    "내일 영업",
+    "최근 확인"
+   ],
+   "score": 112.4,
+   "match": 67,
+   "tier": "B"
+  },
+  {
+   "name": "N109",
+   "category": "cafe",
+   "distance_km": 22.8,
+   "lat": 33.55182178,
+   "lng": 126.769373,
+   "address": "제주특별자치도 제주시 구좌읍 김녕로 307",
+   "reasons": [
+    "22.8 km",
+    "내일 영업",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 112.1,
    "match": 68,
    "tier": "A"
   },
@@ -265,36 +314,6 @@
    "tier": "B"
   },
   {
-   "name": "펫다방",
-   "category": "cafe",
-   "distance_km": 5.0,
-   "lat": 33.48326033,
-   "lng": 126.481067,
-   "address": "제주특별자치도 제주시 1100로 3328",
-   "reasons": [
-    "5.0 km",
-    "지금 영업 중"
-   ],
-   "score": 107.2,
-   "match": 68,
-   "tier": "B"
-  },
-  {
-   "name": "퍼펫 애견카페",
-   "category": "cafe",
-   "distance_km": 0.3,
-   "lat": 33.50107202,
-   "lng": 126.528469,
-   "address": "제주특별자치도 제주시 중앙로 204",
-   "reasons": [
-    "0.3 km",
-    "지금 영업 중"
-   ],
-   "score": 104.3,
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "스누피가든",
    "category": "travel",
    "distance_km": 23.8,
@@ -330,6 +349,21 @@
    "tier": "A"
   },
   {
+   "name": "라 플라주",
+   "category": "cafe",
+   "distance_km": 13.8,
+   "lat": 33.54282675,
+   "lng": 126.67051,
+   "address": "제주특별자치도 제주시 조천읍 조함해안로 525",
+   "reasons": [
+    "13.8 km",
+    "지금 영업 중"
+   ],
+   "score": 96.4,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "돈내코힐 리조트",
    "category": "lodging",
    "distance_km": 22.3,
@@ -343,21 +377,6 @@
    "score": 83.1,
    "match": 59,
    "tier": "A"
-  },
-  {
-   "name": "캠핑스토리",
-   "category": "lodging",
-   "distance_km": 15.6,
-   "lat": 33.4175616,
-   "lng": 126.3949476,
-   "address": "제주특별자치도 제주시 애월읍 하소로 746",
-   "reasons": [
-    "15.6 km",
-    "최근 확인"
-   ],
-   "score": 79.0,
-   "match": 59,
-   "tier": "C"
   }
  ],
  "links": [],
