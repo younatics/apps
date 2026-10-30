@@ -1,0 +1,448 @@
+{
+ "province": "대구",
+ "date": "2026-10-30",
+ "walk_index": 92,
+ "reasons": [
+  "대기질 보통"
+ ],
+ "conditions": {
+  "province": "대구",
+  "date": "2026-10-30",
+  "temp_max": 15.0,
+  "temp_min": 11.0,
+  "rain_prob_max": 0,
+  "precip_type": "",
+  "sky": "맑음",
+  "wind_max": 1.9,
+  "pm10": 35.0,
+  "pm25": 18.0,
+  "fetched_at": "2026-10-30T18:37+09:00",
+  "hourly": [
+   {
+    "h": 18,
+    "date": "20261030",
+    "temp": 15.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 19,
+    "date": "20261030",
+    "temp": 14.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 20,
+    "date": "20261030",
+    "temp": 13.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 21,
+    "date": "20261030",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261030",
+    "temp": 12.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261030",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 0,
+    "date": "20261031",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 1,
+    "date": "20261031",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 2,
+    "date": "20261031",
+    "temp": 10.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 3,
+    "date": "20261031",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 4,
+    "date": "20261031",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 5,
+    "date": "20261031",
+    "temp": 8.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 6,
+    "date": "20261031",
+    "temp": 8.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 7,
+    "date": "20261031",
+    "temp": 9.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 8,
+    "date": "20261031",
+    "temp": 11.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 9,
+    "date": "20261031",
+    "temp": 14.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 10,
+    "date": "20261031",
+    "temp": 16.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 11,
+    "date": "20261031",
+    "temp": 17.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 12,
+    "date": "20261031",
+    "temp": 18.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 13,
+    "date": "20261031",
+    "temp": 18.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 14,
+    "date": "20261031",
+    "temp": 19.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 15,
+    "date": "20261031",
+    "temp": 19.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 16,
+    "date": "20261031",
+    "temp": 17.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   },
+   {
+    "h": 17,
+    "date": "20261031",
+    "temp": 15.0,
+    "pop": 0,
+    "sky": "맑음",
+    "pty": ""
+   }
+  ]
+ },
+ "picks": [
+  {
+   "name": "두류공원",
+   "category": "park",
+   "distance_km": 4.5,
+   "lat": 35.85089685,
+   "lng": 128.558791,
+   "address": "대구광역시 달서구 공원순환로 36",
+   "reasons": [
+    "4.5 km",
+    "지금 영업 중",
+    "소형/중형",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 131.4,
+   "match": 71,
+   "tier": "A"
+  },
+  {
+   "name": "마비정벽화마을",
+   "category": "travel",
+   "distance_km": 11.6,
+   "lat": 35.7787679,
+   "lng": 128.541611,
+   "address": "대구광역시 달성군 화원읍 마비정길 262-5",
+   "reasons": [
+    "11.6 km",
+    "지금 영업 중",
+    "소형/중형",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 125.7,
+   "match": 71,
+   "tier": "S"
+  },
+  {
+   "name": "국채보상운동기념관",
+   "category": "culture",
+   "distance_km": 0.2,
+   "lat": 35.86930105,
+   "lng": 128.601739,
+   "address": "대구광역시 중구 국채보상로 670",
+   "reasons": [
+    "0.2 km",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 125.4,
+   "match": 62,
+   "tier": "S"
+  },
+  {
+   "name": "앞산공원",
+   "category": "park",
+   "distance_km": 5.6,
+   "lat": 35.82248314,
+   "lng": 128.585483,
+   "address": "대구광역시 남구 앞산순환로 574-116",
+   "reasons": [
+    "5.6 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 129.8,
+   "match": 72,
+   "tier": "A"
+  },
+  {
+   "name": "도기온",
+   "category": "cafe",
+   "distance_km": 15.0,
+   "lat": 35.88087834,
+   "lng": 128.767006,
+   "address": "경상북도 경산시 하양읍 대경로 117",
+   "reasons": [
+    "15.0 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 120.6,
+   "match": 68,
+   "tier": "A"
+  },
+  {
+   "name": "카페동이 수성1가점",
+   "category": "restaurant",
+   "distance_km": 2.0,
+   "lat": 35.854967599999995,
+   "lng": 128.6096015,
+   "address": "대구광역시 수성구",
+   "reasons": [
+    "2.0 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 118.6,
+   "match": 62,
+   "tier": "B"
+  },
+  {
+   "name": "화원유원지",
+   "category": "travel",
+   "distance_km": 12.7,
+   "lat": 35.81277123,
+   "lng": 128.480637,
+   "address": "대구광역시 달성군 화원읍 사문진로1길 40-14",
+   "reasons": [
+    "12.7 km",
+    "지금 영업 중",
+    "맑아서 야외",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 124.1,
+   "match": 72,
+   "tier": "A"
+  },
+  {
+   "name": "써니씨드업",
+   "category": "restaurant",
+   "distance_km": 0.9,
+   "lat": 35.8749107,
+   "lng": 128.5918017,
+   "address": "대구광역시 중구 태평로28길 14 1층",
+   "reasons": [
+    "0.9 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 118.8,
+   "match": 62,
+   "tier": "B"
+  },
+  {
+   "name": "바람구름",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.85367944,
+   "lng": 128.604812,
+   "address": "대구광역시 남구 명덕로64길 26",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 118.7,
+   "match": 68,
+   "tier": "B"
+  },
+  {
+   "name": "멍뭉몽",
+   "category": "cafe",
+   "distance_km": 7.5,
+   "lat": 35.92527557,
+   "lng": 128.552186,
+   "address": "대구광역시 북구 태암남로 43",
+   "reasons": [
+    "7.5 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 118.6,
+   "match": 68,
+   "tier": "B"
+  }
+ ],
+ "links": [],
+ "events": [
+  {
+   "id": "efc9fd5414a0",
+   "aliases": [],
+   "title": "2026 달서 반려가족 희망나눔 축제",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "13:00~17:00",
+   "venue": "달서 반려견 놀이터",
+   "address": "대구 달서구 성서공단로 287",
+   "lat": 35.837688394578805,
+   "lng": 128.51323249004372,
+   "province": "대구",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견과 함께 즐기는 참여형 프로그램과 다양한 체험·홍보 부스를 운영한다.",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "대구 달서구",
+   "url": "https://www.imaeil.com/life_general",
+   "image": "",
+   "image_credit": "",
+   "source": "news:m.ekn.kr",
+   "grade": "news",
+   "confidence": 0.75,
+   "summary": "달서 반려견 놀이터에서 반려견 상식 OX 퀴즈를 진행해요.",
+   "status": "upcoming"
+  },
+  {
+   "id": "a99e4b0a8443",
+   "aliases": [],
+   "title": "2026 경산 반려문화축제",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "time": "",
+   "venue": "남천강변",
+   "address": "경상북도 경산시 진량읍 대구대로 201",
+   "lat": 35.90453897,
+   "lng": 128.8428133,
+   "province": "경북",
+   "kind": "festival",
+   "dog": "unknown",
+   "dog_text": "",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "(재)경산문화관광재단",
+   "url": "http://www.gbgs.go.kr",
+   "image": "",
+   "image_credit": "",
+   "source": "official:std_festival",
+   "grade": "official",
+   "confidence": 1.0,
+   "summary": "반려동식물 특강 · 체험 행사",
+   "status": "upcoming"
+  }
+ ]
+}
