@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.5,
-  "pm10": 49.0,
-  "pm25": 25.0,
-  "fetched_at": "2026-10-31T08:37+09:00",
+  "pm10": 52.0,
+  "pm25": 26.0,
+  "fetched_at": "2026-10-31T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -232,6 +232,24 @@
    "tier": "A"
   },
   {
+   "name": "소울 로스터리",
+   "category": "cafe",
+   "distance_km": 5.8,
+   "lat": 37.9243555,
+   "lng": 127.76721560000001,
+   "address": "강원특별자치도 춘천시 동면 소양강로 538 샵5건물앞",
+   "reasons": [
+    "5.8 km",
+    "지금 영업 중",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "score": 116.3,
+   "match": 64,
+   "tier": "A"
+  },
+  {
    "name": "남이섬",
    "category": "travel",
    "distance_km": 20.6,
@@ -269,21 +287,6 @@
    "tier": "B"
   },
   {
-   "name": "카페드220볼트",
-   "category": "cafe",
-   "distance_km": 5.5,
-   "lat": 37.85697561,
-   "lng": 127.7837723,
-   "address": "강원특별자치도 춘천시 동내면 금촌로 107-27",
-   "reasons": [
-    "5.5 km",
-    "요즘 인기"
-   ],
-   "score": 108.6,
-   "match": 59,
-   "tier": "A"
-  },
-  {
    "name": "세계주류마켓",
    "category": "restaurant",
    "distance_km": 5.4,
@@ -313,6 +316,21 @@
    "score": 104.2,
    "match": 59,
    "tier": "B"
+  },
+  {
+   "name": "카페드220볼트",
+   "category": "cafe",
+   "distance_km": 5.5,
+   "lat": 37.85697561,
+   "lng": 127.7837723,
+   "address": "강원특별자치도 춘천시 동내면 금촌로 107-27",
+   "reasons": [
+    "5.5 km",
+    "요즘 인기"
+   ],
+   "score": 108.6,
+   "match": 59,
+   "tier": "A"
   },
   {
    "name": "예와생스튜디오카페",
@@ -356,20 +374,6 @@
     "3.3 km"
    ],
    "score": 101.1,
-   "match": 59,
-   "tier": "C"
-  },
-  {
-   "name": "레인코브",
-   "category": "restaurant",
-   "distance_km": 0.5,
-   "lat": 37.88432886,
-   "lng": 127.7253033,
-   "address": "강원특별자치도 춘천시 소양고개길 17-1",
-   "reasons": [
-    "0.5 km"
-   ],
-   "score": 100.5,
    "match": 59,
    "tier": "C"
   }

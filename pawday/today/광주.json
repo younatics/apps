@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 4.6,
-  "pm10": 47.0,
+  "pm10": 45.0,
   "pm25": 29.0,
-  "fetched_at": "2026-10-31T08:37+09:00",
+  "fetched_at": "2026-10-31T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -232,6 +232,24 @@
    "tier": "A"
   },
   {
+   "name": "광주역사민속박물관",
+   "category": "culture",
+   "distance_km": 4.3,
+   "lat": 35.18441617,
+   "lng": 126.888436,
+   "address": "광주광역시 북구 서하로 48-25",
+   "reasons": [
+    "4.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 127.5,
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "쌍암공원",
    "category": "park",
    "distance_km": 7.1,
@@ -247,6 +265,24 @@
    ],
    "score": 126.7,
    "match": 72,
+   "tier": "A"
+  },
+  {
+   "name": "아시아문화박물관",
+   "category": "culture",
+   "distance_km": 6.3,
+   "lat": 35.1470573,
+   "lng": 126.920031,
+   "address": "광주광역시 동구 문화전당로 38",
+   "reasons": [
+    "6.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 123.8,
+   "match": 67,
    "tier": "A"
   },
   {
@@ -319,23 +355,6 @@
    "tier": "B"
   },
   {
-   "name": "양림역사문화마을",
-   "category": "culture",
-   "distance_km": 6.2,
-   "lat": 35.14008614102101,
-   "lng": 126.91699121578603,
-   "address": "전남광주통합특별시 남구 천변좌로446번길 7 (양림동)",
-   "reasons": [
-    "6.2 km",
-    "전 견종 동반 가능",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "score": 102.7,
-   "match": 59,
-   "tier": "B"
-  },
-  {
    "name": "먼데이오프플리즈",
    "category": "restaurant",
    "distance_km": 6.5,
@@ -365,21 +384,6 @@
    ],
    "score": 103.1,
    "match": 59,
-   "tier": "B"
-  },
-  {
-   "name": "인디퍼피",
-   "category": "cafe",
-   "distance_km": 6.4,
-   "lat": 35.21680843,
-   "lng": 126.846721,
-   "address": "광주광역시 광산구 임방울대로800번길 11-6",
-   "reasons": [
-    "6.4 km",
-    "지금 영업 중"
-   ],
-   "score": 99.5,
-   "match": 68,
    "tier": "B"
   }
  ],

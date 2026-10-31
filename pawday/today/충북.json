@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 4.3,
-  "pm10": 46.0,
-  "pm25": 27.0,
-  "fetched_at": "2026-10-31T08:37+09:00",
+  "pm10": 57.0,
+  "pm25": 29.0,
+  "fetched_at": "2026-10-31T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -270,6 +270,22 @@
    "tier": "S"
   },
   {
+   "name": "국립청주박물관",
+   "category": "culture",
+   "distance_km": 2.2,
+   "lat": 36.64966894,
+   "lng": 127.512009,
+   "address": "충청북도 청주시 상당구 명암로 143",
+   "reasons": [
+    "2.2 km",
+    "지금 영업 중",
+    "최근 확인"
+   ],
+   "score": 108.7,
+   "match": 67,
+   "tier": "B"
+  },
+  {
    "name": "운천공원",
    "category": "park",
    "distance_km": 1.7,
@@ -283,6 +299,22 @@
    ],
    "score": 108.7,
    "match": 72,
+   "tier": "B"
+  },
+  {
+   "name": "한국공예관",
+   "category": "culture",
+   "distance_km": 1.6,
+   "lat": 36.65619554,
+   "lng": 127.492382,
+   "address": "충청북도 청주시 청원구 상당로 314",
+   "reasons": [
+    "1.6 km",
+    "지금 영업 중",
+    "최근 확인"
+   ],
+   "score": 106.1,
+   "match": 67,
    "tier": "B"
   },
   {
@@ -317,18 +349,17 @@
    "tier": "C"
   },
   {
-   "name": "신탄진 휴게소(서울 방향) 반려견 놀이터",
-   "category": "playground",
-   "distance_km": 24.6,
-   "lat": 36.4281311186935,
-   "lng": 127.418571981966,
-   "address": "대전광역시 산업단지로 27",
+   "name": "우니메이카 청주점",
+   "category": "restaurant",
+   "distance_km": 19.4,
+   "lat": 36.6174267,
+   "lng": 127.7045373,
+   "address": "충청북도 청주시 상당구 미원면 옥화길 66",
    "reasons": [
-    "24.6 km",
-    "맑아서 야외"
+    "19.4 km"
    ],
-   "score": 90.2,
-   "match": 69,
+   "score": 73.5,
+   "match": 59,
    "tier": "C"
   },
   {
@@ -342,35 +373,6 @@
     "21.7 km"
    ],
    "score": 86.0,
-   "match": 59,
-   "tier": "C"
-  },
-  {
-   "name": "가영당",
-   "category": "lodging",
-   "distance_km": 12.7,
-   "lat": 36.7351218825,
-   "lng": 127.4055417589,
-   "address": "충청북도 청주시 청원구 오창읍 미래지로 71-54",
-   "reasons": [
-    "12.7 km",
-    "최근 확인"
-   ],
-   "score": 82.2,
-   "match": 59,
-   "tier": "C"
-  },
-  {
-   "name": "우니메이카 청주점",
-   "category": "restaurant",
-   "distance_km": 19.4,
-   "lat": 36.6174267,
-   "lng": 127.7045373,
-   "address": "충청북도 청주시 상당구 미원면 옥화길 66",
-   "reasons": [
-    "19.4 km"
-   ],
-   "score": 73.5,
    "match": 59,
    "tier": "C"
   }

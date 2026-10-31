@@ -1,9 +1,9 @@
 {
  "province": "경기",
  "date": "2026-10-31",
- "walk_index": 92,
+ "walk_index": 70,
  "reasons": [
-  "대기질 보통"
+  "대기질 나쁨, 실내가 나아요"
  ],
  "conditions": {
   "province": "경기",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.9,
-  "pm10": 70.0,
-  "pm25": 35.0,
-  "fetched_at": "2026-10-31T08:37+09:00",
+  "pm10": 76.0,
+  "pm25": 36.0,
+  "fetched_at": "2026-10-31T09:37+09:00",
   "hourly": [
    {
     "h": 9,
@@ -269,6 +269,24 @@
    "tier": "A"
   },
   {
+   "name": "유엔군 초전기념관",
+   "category": "culture",
+   "distance_km": 9.0,
+   "lat": 37.1846106,
+   "lng": 127.049014,
+   "address": "경기도 오산시 경기도대로 742",
+   "reasons": [
+    "9.0 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "score": 124.7,
+   "match": 67,
+   "tier": "S"
+  },
+  {
    "name": "동탄센트럴파크",
    "category": "travel",
    "distance_km": 7.2,
@@ -337,55 +355,39 @@
    "tier": "B"
   },
   {
-   "name": "루프독스",
-   "category": "cafe",
-   "distance_km": 1.9,
-   "lat": 37.2770468,
-   "lng": 127.0160814,
-   "address": "경기도 수원시 팔달구 정조로 775-5 루프독스 3층",
+   "name": "김중업건축박물관",
+   "category": "culture",
+   "distance_km": 19.8,
+   "lat": 37.41838562,
+   "lng": 126.918315,
+   "address": "경기도 안양시 만안구 예술공원로103번길 4",
    "reasons": [
-    "1.9 km",
+    "19.8 km",
+    "지금 영업 중",
     "최근 확인",
-    "교차 확인됨",
+    "댕오늘 추천",
     "요즘 인기"
    ],
-   "score": 117.2,
-   "match": 61,
-   "tier": "A"
-  },
-  {
-   "name": "공간상점 part.2",
-   "category": "cafe",
-   "distance_km": 2.7,
-   "lat": 37.2860517,
-   "lng": 127.0165102,
-   "address": "경기도 수원시 팔달구 화서문로 77 2층",
-   "reasons": [
-    "2.7 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 117.1,
-   "match": 61,
+   "score": 116.9,
+   "match": 67,
    "tier": "S"
   },
   {
-   "name": "PPK 키친 수원본점",
-   "category": "restaurant",
-   "distance_km": 0.4,
-   "lat": 37.265702399999995,
-   "lng": 127.03156800000001,
-   "address": "경기도 수원시 인계동 1040-3 신일빌딩 1층",
+   "name": "왓썹독",
+   "category": "cafe",
+   "distance_km": 20.2,
+   "lat": 37.08539038,
+   "lng": 127.072264,
+   "address": "경기도 평택시 오리곡길 63",
    "reasons": [
-    "0.4 km",
-    "최근 확인",
-    "교차 확인됨",
+    "20.2 km",
+    "지금 영업 중",
+    "댕오늘 추천",
     "요즘 인기"
    ],
    "score": 116.0,
-   "match": 59,
-   "tier": "B"
+   "match": 68,
+   "tier": "S"
   }
  ],
  "links": [],
