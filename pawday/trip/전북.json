@@ -1,18 +1,18 @@
 {
  "province": "전북",
  "point": "전주",
- "generated_at": "2026-10-31T19:37+09:00",
+ "generated_at": "2026-10-31T20:37+09:00",
  "days": [
   {
    "date": "2026-10-31",
    "source": "short",
-   "issued": "2026-10-31T17:00",
-   "temp_max": 11.0,
+   "issued": "2026-10-31T20:00",
+   "temp_max": 8.0,
    "temp_min": 7.0,
    "rain_prob_max": 30,
    "precip_type": "",
-   "sky": "맑음",
-   "wind_max": 1.2,
+   "sky": "흐림",
+   "wind_max": 0.6,
    "walk_index": 100,
    "reasons": [
     "산책하기 좋은 날"
@@ -21,13 +21,13 @@
   {
    "date": "2026-11-01",
    "source": "short",
-   "issued": "2026-10-31T17:00",
+   "issued": "2026-10-31T20:00",
    "temp_max": 15.0,
    "temp_min": 6.0,
    "rain_prob_max": 60,
    "precip_type": "비",
    "sky": "흐림",
-   "wind_max": 3.8,
+   "wind_max": 3.7,
    "walk_index": 60,
    "reasons": [
     "강수 확률 60%",
@@ -37,13 +37,13 @@
   {
    "date": "2026-11-02",
    "source": "short",
-   "issued": "2026-10-31T17:00",
+   "issued": "2026-10-31T20:00",
    "temp_max": 17.0,
    "temp_min": 10.0,
    "rain_prob_max": 70,
    "precip_type": "비",
    "sky": "맑음",
-   "wind_max": 4.3,
+   "wind_max": 4.1,
    "walk_index": 60,
    "reasons": [
     "강수 확률 70%",
@@ -53,13 +53,13 @@
   {
    "date": "2026-11-03",
    "source": "short",
-   "issued": "2026-10-31T17:00",
+   "issued": "2026-10-31T20:00",
    "temp_max": 17.0,
    "temp_min": 4.0,
    "rain_prob_max": 20,
    "precip_type": "",
    "sky": "맑음",
-   "wind_max": 1.5,
+   "wind_max": 1.4,
    "walk_index": 100,
    "reasons": [
     "산책하기 좋은 날"
@@ -67,15 +67,14 @@
   },
   {
    "date": "2026-11-04",
-   "source": "mid",
-   "issued": "2026-10-31T06:00",
+   "source": "short",
+   "issued": "2026-10-31T20:00",
    "temp_max": 19.0,
-   "temp_min": 6.0,
-   "rain_prob_max": 20,
+   "temp_min": 8.0,
+   "rain_prob_max": 30,
    "precip_type": "",
-   "sky": "구름많음",
-   "rain_am": 10,
-   "rain_pm": 20,
+   "sky": "흐림",
+   "wind_max": 1.0,
    "walk_index": 100,
    "reasons": [
     "산책하기 좋은 날"
