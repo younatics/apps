@@ -1,8 +1,70 @@
 {
  "province": "제주",
  "point": "제주",
- "generated_at": "2026-10-31T10:39+09:00",
+ "generated_at": "2026-10-31T11:37+09:00",
  "days": [
+  {
+   "date": "2026-10-31",
+   "source": "short",
+   "issued": "2026-10-31T11:00",
+   "temp_max": 22.0,
+   "temp_min": 15.0,
+   "rain_prob_max": 0,
+   "precip_type": "",
+   "sky": "맑음",
+   "wind_max": 3.9,
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "source": "short",
+   "issued": "2026-10-31T11:00",
+   "temp_max": 22.0,
+   "temp_min": 14.0,
+   "rain_prob_max": 60,
+   "precip_type": "비",
+   "sky": "흐림",
+   "wind_max": 4.1,
+   "walk_index": 60,
+   "reasons": [
+    "강수 확률 60%",
+    "비 예보"
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "source": "short",
+   "issued": "2026-10-31T11:00",
+   "temp_max": 19.0,
+   "temp_min": 17.0,
+   "rain_prob_max": 70,
+   "precip_type": "비",
+   "sky": "흐림",
+   "wind_max": 6.4,
+   "walk_index": 60,
+   "reasons": [
+    "강수 확률 70%",
+    "비 예보"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "source": "short",
+   "issued": "2026-10-31T11:00",
+   "temp_max": 17.0,
+   "temp_min": 12.0,
+   "rain_prob_max": 20,
+   "precip_type": "",
+   "sky": "맑음",
+   "wind_max": 3.1,
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
   {
    "date": "2026-11-04",
    "source": "mid",
