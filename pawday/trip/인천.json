@@ -1,0 +1,113 @@
+{
+ "province": "인천",
+ "point": "인천",
+ "generated_at": "2026-10-31T10:39+09:00",
+ "days": [
+  {
+   "date": "2026-11-04",
+   "source": "mid",
+   "issued": "2026-10-31T06:00",
+   "temp_max": 17.0,
+   "temp_min": 8.0,
+   "rain_prob_max": 20,
+   "precip_type": "",
+   "sky": "구름많음",
+   "rain_am": 10,
+   "rain_pm": 20,
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "source": "mid",
+   "issued": "2026-10-31T06:00",
+   "temp_max": 16.0,
+   "temp_min": 10.0,
+   "rain_prob_max": 20,
+   "precip_type": "",
+   "sky": "구름많음",
+   "rain_am": 20,
+   "rain_pm": 20,
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "source": "mid",
+   "issued": "2026-10-31T06:00",
+   "temp_max": 12.0,
+   "temp_min": 6.0,
+   "rain_prob_max": 10,
+   "precip_type": "",
+   "sky": "맑음",
+   "rain_am": 10,
+   "rain_pm": 10,
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "source": "mid",
+   "issued": "2026-10-31T06:00",
+   "temp_max": 11.0,
+   "temp_min": 3.0,
+   "rain_prob_max": 10,
+   "precip_type": "",
+   "sky": "맑음",
+   "rain_am": 10,
+   "rain_pm": 10,
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "source": "mid",
+   "issued": "2026-10-31T06:00",
+   "temp_max": 11.0,
+   "temp_min": 3.0,
+   "rain_prob_max": 10,
+   "precip_type": "",
+   "sky": "맑음",
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "source": "mid",
+   "issued": "2026-10-31T06:00",
+   "temp_max": 11.0,
+   "temp_min": 4.0,
+   "rain_prob_max": 10,
+   "precip_type": "",
+   "sky": "맑음",
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "source": "mid",
+   "issued": "2026-10-31T06:00",
+   "temp_max": 10.0,
+   "temp_min": 3.0,
+   "rain_prob_max": 10,
+   "precip_type": "",
+   "sky": "맑음",
+   "walk_index": 100,
+   "reasons": [
+    "산책하기 좋은 날"
+   ]
+  }
+ ]
+}
