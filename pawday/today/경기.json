@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 1.0,
-  "pm10": 28.0,
-  "pm25": 11.0,
-  "fetched_at": "2026-10-31T20:37+09:00",
+  "pm10": 29.0,
+  "pm25": 12.0,
+  "fetched_at": "2026-10-31T21:37+09:00",
   "hourly": [
    {
     "h": 21,
@@ -282,6 +282,23 @@
    "tier": "A"
   },
   {
+   "name": "유엔군 초전기념관",
+   "category": "culture",
+   "distance_km": 9.0,
+   "lat": 37.1846106,
+   "lng": 127.049014,
+   "address": "경기도 오산시 경기도대로 742",
+   "reasons": [
+    "9.0 km",
+    "내일 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 67,
+   "tier": "S"
+  },
+  {
    "name": "동탄센트럴파크",
    "category": "travel",
    "distance_km": 7.2,
@@ -314,6 +331,23 @@
    "tier": "B"
   },
   {
+   "name": "경기도어린이박물관",
+   "category": "culture",
+   "distance_km": 7.1,
+   "lat": 37.26818786,
+   "lng": 127.108653,
+   "address": "경기도 용인시 기흥구 상갈로 6",
+   "reasons": [
+    "7.1 km",
+    "내일 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "구운정",
    "category": "restaurant",
    "distance_km": 0.5,
@@ -344,38 +378,6 @@
    ],
    "match": 68,
    "tier": "A"
-  },
-  {
-   "name": "루프앤독",
-   "category": "cafe",
-   "distance_km": 16.5,
-   "lat": 37.30619919,
-   "lng": 126.849923,
-   "address": "경기도 안산시 상록구 중보로 23",
-   "reasons": [
-    "16.5 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 68,
-   "tier": "A"
-  },
-  {
-   "name": "PPK 키친 수원본점",
-   "category": "restaurant",
-   "distance_km": 0.4,
-   "lat": 37.265702399999995,
-   "lng": 127.03156800000001,
-   "address": "경기도 수원시 인계동 1040-3 신일빌딩 1층",
-   "reasons": [
-    "0.4 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "match": 62,
-   "tier": "B"
   }
  ],
  "links": [],

@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "흐림",
   "wind_max": 1.2,
-  "pm10": 46.0,
-  "pm25": 13.0,
-  "fetched_at": "2026-10-31T20:37+09:00",
+  "pm10": 41.0,
+  "pm25": 12.0,
+  "fetched_at": "2026-10-31T21:37+09:00",
   "hourly": [
    {
     "h": 21,
@@ -258,6 +258,20 @@
    "tier": "C"
   },
   {
+   "name": "청년다방 목포북항점",
+   "category": "cafe",
+   "distance_km": 8.3,
+   "lat": 34.80619016,
+   "lng": 126.373161,
+   "address": "전라남도 목포시 청호로 175",
+   "reasons": [
+    "8.3 km",
+    "내일 영업"
+   ],
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "죽산보 오토캠핑장",
    "category": "lodging",
    "distance_km": 22.8,
@@ -271,6 +285,20 @@
     "요즘 인기"
    ],
    "match": 59,
+   "tier": "B"
+  },
+  {
+   "name": "카페 미술관아래",
+   "category": "cafe",
+   "distance_km": 17.4,
+   "lat": 34.77512083,
+   "lng": 126.646673,
+   "address": "전라남도 영암군 군서면 왕인로 710-30",
+   "reasons": [
+    "17.4 km",
+    "내일 영업"
+   ],
+   "match": 68,
    "tier": "B"
   },
   {
@@ -303,20 +331,6 @@
    ],
    "match": 59,
    "tier": "C"
-  },
-  {
-   "name": "카페넉넉",
-   "category": "cafe",
-   "distance_km": 37.5,
-   "lat": 35.01492507,
-   "lng": 126.794503,
-   "address": "전라남도 나주시 그린로 317-7",
-   "reasons": [
-    "37.5 km",
-    "지금 영업 중"
-   ],
-   "match": 68,
-   "tier": "B"
   },
   {
    "name": "죽산수변공원",

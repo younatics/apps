@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 1.7,
-  "pm10": 52.0,
-  "pm25": 20.0,
-  "fetched_at": "2026-10-31T20:37+09:00",
+  "pm10": 50.0,
+  "pm25": 24.0,
+  "fetched_at": "2026-10-31T21:37+09:00",
   "hourly": [
    {
     "h": 21,
@@ -232,6 +232,23 @@
    "tier": "S"
   },
   {
+   "name": "외솔최현배선생기념관",
+   "category": "culture",
+   "distance_km": 5.2,
+   "lat": 35.57475583,
+   "lng": 129.347468,
+   "address": "울산광역시 중구 병영12길 15",
+   "reasons": [
+    "5.2 km",
+    "내일 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 67,
+   "tier": "A"
+  },
+  {
    "name": "선암호수공원",
    "category": "park",
    "distance_km": 2.7,
@@ -267,18 +284,35 @@
    "tier": "B"
   },
   {
-   "name": "펫빌리지",
-   "category": "cafe",
-   "distance_km": 2.0,
-   "lat": 35.55510257,
-   "lng": 129.318595,
-   "address": "울산광역시 중구 중앙길 90-2",
+   "name": "약사동제방유적전시관",
+   "category": "culture",
+   "distance_km": 4.8,
+   "lat": 35.5762564,
+   "lng": 129.336972,
+   "address": "울산광역시 중구 종가14길 22-28",
    "reasons": [
-    "2.0 km",
+    "4.8 km",
+    "내일 영업",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 67,
+   "tier": "A"
+  },
+  {
+   "name": "이너리트",
+   "category": "cafe",
+   "distance_km": 17.8,
+   "lat": 35.55019011,
+   "lng": 129.115669,
+   "address": "울산광역시 울주군 삼남읍 수남벚꽃길 9",
+   "reasons": [
+    "17.8 km",
     "지금 영업 중",
     "댕오늘 추천"
    ],
-   "match": 67,
+   "match": 68,
    "tier": "B"
   },
   {
@@ -299,21 +333,6 @@
    "tier": "S"
   },
   {
-   "name": "이너리트",
-   "category": "cafe",
-   "distance_km": 17.8,
-   "lat": 35.55019011,
-   "lng": 129.115669,
-   "address": "울산광역시 울주군 삼남읍 수남벚꽃길 9",
-   "reasons": [
-    "17.8 km",
-    "지금 영업 중",
-    "댕오늘 추천"
-   ],
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "봉화재 반려견 놀이터",
    "category": "playground",
    "distance_km": 10.5,
@@ -331,35 +350,18 @@
    "tier": "B"
   },
   {
-   "name": "황방산생태야영장",
-   "category": "lodging",
-   "distance_km": 5.7,
-   "lat": 35.5881210122,
-   "lng": 129.3282007667,
-   "address": "울산광역시 중구 주연길 52 (장현동)",
+   "name": "멍숲",
+   "category": "cafe",
+   "distance_km": 18.4,
+   "lat": 35.49687297,
+   "lng": 129.114172,
+   "address": "울산광역시 울주군 삼동면 조일1길 25",
    "reasons": [
-    "5.7 km",
-    "최근 확인",
-    "요즘 인기"
+    "18.4 km",
+    "지금 영업 중"
    ],
-   "match": 59,
-   "tier": "A"
-  },
-  {
-   "name": "장생포 고래문화마을",
-   "category": "culture",
-   "distance_km": 7.4,
-   "lat": 35.5059156009,
-   "lng": 129.3830959043,
-   "address": "울산광역시 남구 장생포고래로 271-1 (매암동)",
-   "reasons": [
-    "7.4 km",
-    "전 견종 동반 가능",
-    "최근 확인",
-    "요즘 인기"
-   ],
-   "match": 59,
-   "tier": "A"
+   "match": 68,
+   "tier": "B"
   },
   {
    "name": "웨이브온커피",
