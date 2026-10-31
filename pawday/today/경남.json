@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 4.0,
-  "pm10": 62.0,
-  "pm25": 30.0,
-  "fetched_at": "2026-10-31T11:37+09:00",
+  "pm10": 66.0,
+  "pm25": 29.0,
+  "fetched_at": "2026-10-31T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -350,6 +350,21 @@
    "tier": "C"
   },
   {
+   "name": "카페탱자",
+   "category": "cafe",
+   "distance_km": 17.1,
+   "lat": 35.2294104,
+   "lng": 128.879942,
+   "address": "경상남도 김해시 봉황대길 58-5",
+   "reasons": [
+    "17.1 km",
+    "지금 영업 중"
+   ],
+   "score": 94.2,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "황실LAB",
    "category": "cafe",
    "distance_km": 18.3,
@@ -362,21 +377,6 @@
    ],
    "score": 93.7,
    "match": 68,
-   "tier": "C"
-  },
-  {
-   "name": "Pet Playground 놀터",
-   "category": "cafe",
-   "distance_km": 18.9,
-   "lat": 35.4083502633456,
-   "lng": 128.682231366904,
-   "address": "경상남도 밀양시 초동면 신호1길 93",
-   "reasons": [
-    "18.9 km",
-    "최근 확인"
-   ],
-   "score": 90.5,
-   "match": 59,
    "tier": "C"
   }
  ],

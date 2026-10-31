@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 4.9,
-  "pm10": 63.0,
-  "pm25": 35.0,
-  "fetched_at": "2026-10-31T11:37+09:00",
+  "pm10": 67.0,
+  "pm25": 33.0,
+  "fetched_at": "2026-10-31T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -357,6 +357,22 @@
    "tier": "B"
   },
   {
+   "name": "바람구름",
+   "category": "cafe",
+   "distance_km": 2.0,
+   "lat": 35.85367944,
+   "lng": 128.604812,
+   "address": "대구광역시 남구 명덕로64길 26",
+   "reasons": [
+    "2.0 km",
+    "지금 영업 중",
+    "댕오늘 추천"
+   ],
+   "score": 116.4,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "써니씨드업",
    "category": "restaurant",
    "distance_km": 0.9,
@@ -370,23 +386,6 @@
     "요즘 인기"
    ],
    "score": 114.3,
-   "match": 59,
-   "tier": "B"
-  },
-  {
-   "name": "카페동이 수성1가점",
-   "category": "restaurant",
-   "distance_km": 2.0,
-   "lat": 35.854967599999995,
-   "lng": 128.6096015,
-   "address": "대구광역시 수성구",
-   "reasons": [
-    "2.0 km",
-    "최근 확인",
-    "교차 확인됨",
-    "요즘 인기"
-   ],
-   "score": 113.1,
    "match": 59,
    "tier": "B"
   }

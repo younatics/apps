@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.9,
-  "pm10": 91.0,
-  "pm25": 29.0,
-  "fetched_at": "2026-10-31T11:37+09:00",
+  "pm10": 89.0,
+  "pm25": 27.0,
+  "fetched_at": "2026-10-31T12:37+09:00",
   "hourly": [
    {
     "h": 12,
@@ -315,6 +315,21 @@
    "tier": "A"
   },
   {
+   "name": "퍼펫 애견카페",
+   "category": "cafe",
+   "distance_km": 0.3,
+   "lat": 33.50107202,
+   "lng": 126.528469,
+   "address": "제주특별자치도 제주시 중앙로 204",
+   "reasons": [
+    "0.3 km",
+    "지금 영업 중"
+   ],
+   "score": 104.8,
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "돈내코 원앙폭포",
    "category": "travel",
    "distance_km": 22.6,
@@ -347,21 +362,6 @@
    ],
    "score": 102.0,
    "match": 72,
-   "tier": "B"
-  },
-  {
-   "name": "라 플라주",
-   "category": "cafe",
-   "distance_km": 13.8,
-   "lat": 33.54282675,
-   "lng": 126.67051,
-   "address": "제주특별자치도 제주시 조천읍 조함해안로 525",
-   "reasons": [
-    "13.8 km",
-    "지금 영업 중"
-   ],
-   "score": 98.5,
-   "match": 68,
    "tier": "B"
   },
   {
