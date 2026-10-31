@@ -1,18 +1,18 @@
 {
  "province": "부산",
  "point": "부산",
- "generated_at": "2026-10-31T13:37+09:00",
+ "generated_at": "2026-10-31T14:37+09:00",
  "days": [
   {
    "date": "2026-10-31",
    "source": "short",
-   "issued": "2026-10-31T11:00",
+   "issued": "2026-10-31T14:00",
    "temp_max": 21.0,
    "temp_min": 11.0,
    "rain_prob_max": 20,
    "precip_type": "",
    "sky": "맑음",
-   "wind_max": 4.2,
+   "wind_max": 3.7,
    "walk_index": 100,
    "reasons": [
     "산책하기 좋은 날"
@@ -21,13 +21,13 @@
   {
    "date": "2026-11-01",
    "source": "short",
-   "issued": "2026-10-31T11:00",
+   "issued": "2026-10-31T14:00",
    "temp_max": 18.0,
    "temp_min": 8.0,
    "rain_prob_max": 60,
    "precip_type": "비",
    "sky": "흐림",
-   "wind_max": 1.9,
+   "wind_max": 1.7,
    "walk_index": 60,
    "reasons": [
     "강수 확률 60%",
@@ -37,13 +37,13 @@
   {
    "date": "2026-11-02",
    "source": "short",
-   "issued": "2026-10-31T11:00",
+   "issued": "2026-10-31T14:00",
    "temp_max": 21.0,
    "temp_min": 14.0,
    "rain_prob_max": 80,
    "precip_type": "비",
    "sky": "흐림",
-   "wind_max": 4.1,
+   "wind_max": 3.9,
    "walk_index": 60,
    "reasons": [
     "강수 확률 80%",
@@ -53,13 +53,13 @@
   {
    "date": "2026-11-03",
    "source": "short",
-   "issued": "2026-10-31T11:00",
+   "issued": "2026-10-31T14:00",
    "temp_max": 19.0,
    "temp_min": 8.0,
    "rain_prob_max": 10,
    "precip_type": "",
    "sky": "맑음",
-   "wind_max": 3.4,
+   "wind_max": 3.3,
    "walk_index": 100,
    "reasons": [
     "산책하기 좋은 날"
