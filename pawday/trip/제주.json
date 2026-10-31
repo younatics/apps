@@ -1,7 +1,7 @@
 {
  "province": "제주",
  "point": "제주",
- "generated_at": "2026-10-31T17:37+09:00",
+ "generated_at": "2026-10-31T18:37+09:00",
  "days": [
   {
    "date": "2026-10-31",
@@ -84,7 +84,7 @@
   {
    "date": "2026-11-05",
    "source": "mid",
-   "issued": "2026-10-31T06:00",
+   "issued": "2026-10-31T18:00",
    "temp_max": 21.0,
    "temp_min": 16.0,
    "rain_prob_max": 60,
@@ -101,7 +101,7 @@
   {
    "date": "2026-11-06",
    "source": "mid",
-   "issued": "2026-10-31T06:00",
+   "issued": "2026-10-31T18:00",
    "temp_max": 16.0,
    "temp_min": 14.0,
    "rain_prob_max": 30,
@@ -117,7 +117,7 @@
   {
    "date": "2026-11-07",
    "source": "mid",
-   "issued": "2026-10-31T06:00",
+   "issued": "2026-10-31T18:00",
    "temp_max": 15.0,
    "temp_min": 10.0,
    "rain_prob_max": 10,
@@ -133,7 +133,7 @@
   {
    "date": "2026-11-08",
    "source": "mid",
-   "issued": "2026-10-31T06:00",
+   "issued": "2026-10-31T18:00",
    "temp_max": 15.0,
    "temp_min": 11.0,
    "rain_prob_max": 10,
@@ -147,7 +147,7 @@
   {
    "date": "2026-11-09",
    "source": "mid",
-   "issued": "2026-10-31T06:00",
+   "issued": "2026-10-31T18:00",
    "temp_max": 15.0,
    "temp_min": 12.0,
    "rain_prob_max": 10,
@@ -161,7 +161,7 @@
   {
    "date": "2026-11-10",
    "source": "mid",
-   "issued": "2026-10-31T06:00",
+   "issued": "2026-10-31T18:00",
    "temp_max": 14.0,
    "temp_min": 11.0,
    "rain_prob_max": 10,
