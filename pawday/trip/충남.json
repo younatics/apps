@@ -1,33 +1,18 @@
 {
  "province": "충남",
  "point": "홍성",
- "generated_at": "2026-10-31T22:37+09:00",
+ "generated_at": "2026-11-01T00:07+09:00",
  "days": [
-  {
-   "date": "2026-10-31",
-   "source": "short",
-   "issued": "2026-10-31T20:00",
-   "temp_max": 7.0,
-   "temp_min": 7.0,
-   "rain_prob_max": 30,
-   "precip_type": "",
-   "sky": "흐림",
-   "wind_max": 0.3,
-   "walk_index": 100,
-   "reasons": [
-    "산책하기 좋은 날"
-   ]
-  },
   {
    "date": "2026-11-01",
    "source": "short",
-   "issued": "2026-10-31T20:00",
+   "issued": "2026-10-31T23:00",
    "temp_max": 13.0,
    "temp_min": 6.0,
    "rain_prob_max": 60,
    "precip_type": "비",
    "sky": "흐림",
-   "wind_max": 2.5,
+   "wind_max": 2.4,
    "walk_index": 60,
    "reasons": [
     "강수 확률 60%",
@@ -37,13 +22,13 @@
   {
    "date": "2026-11-02",
    "source": "short",
-   "issued": "2026-10-31T20:00",
+   "issued": "2026-10-31T23:00",
    "temp_max": 16.0,
    "temp_min": 8.0,
    "rain_prob_max": 30,
    "precip_type": "",
    "sky": "맑음",
-   "wind_max": 4.6,
+   "wind_max": 4.5,
    "walk_index": 100,
    "reasons": [
     "산책하기 좋은 날"
@@ -52,7 +37,7 @@
   {
    "date": "2026-11-03",
    "source": "short",
-   "issued": "2026-10-31T20:00",
+   "issued": "2026-10-31T23:00",
    "temp_max": 17.0,
    "temp_min": 3.0,
    "rain_prob_max": 20,
@@ -67,7 +52,7 @@
   {
    "date": "2026-11-04",
    "source": "short",
-   "issued": "2026-10-31T20:00",
+   "issued": "2026-10-31T23:00",
    "temp_max": 18.0,
    "temp_min": 5.0,
    "rain_prob_max": 30,

@@ -1,39 +1,24 @@
 {
  "province": "경기",
- "date": "2026-10-31",
- "walk_index": 100,
+ "date": "2026-11-01",
+ "walk_index": 60,
  "reasons": [
-  "산책하기 좋은 날"
+  "강수 확률 60%",
+  "비 예보"
  ],
  "conditions": {
   "province": "경기",
-  "date": "2026-10-31",
-  "temp_max": 7.0,
+  "date": "2026-11-01",
+  "temp_max": 13.0,
   "temp_min": 6.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
+  "rain_prob_max": 60,
+  "precip_type": "비",
   "sky": "흐림",
-  "wind_max": 1.0,
-  "pm10": 28.0,
-  "pm25": 13.0,
-  "fetched_at": "2026-10-31T22:37+09:00",
+  "wind_max": 1.7,
+  "pm10": 29.0,
+  "pm25": 12.0,
+  "fetched_at": "2026-11-01T00:07+09:00",
   "hourly": [
-   {
-    "h": 22,
-    "date": "20261031",
-    "temp": 6.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
-   {
-    "h": 23,
-    "date": "20261031",
-    "temp": 6.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
    {
     "h": 0,
     "date": "20261101",
@@ -209,10 +194,61 @@
     "pop": 30,
     "sky": "흐림",
     "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261101",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261101",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
    }
   ]
  },
  "picks": [
+  {
+   "name": "도넛드로잉",
+   "category": "cafe",
+   "distance_km": 11.8,
+   "lat": 37.35263577,
+   "lng": 127.100743,
+   "address": "경기도 성남시 분당구 대왕판교로 103",
+   "reasons": [
+    "11.8 km",
+    "낮에 영업",
+    "실내",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 72,
+   "tier": "A"
+  },
+  {
+   "name": "보정동카페거리",
+   "category": "travel",
+   "distance_km": 9.8,
+   "lat": 37.32018778,
+   "lng": 127.113095,
+   "address": "경기도 용인시 기흥구 보정동",
+   "reasons": [
+    "9.8 km",
+    "지금 영업 중",
+    "실내",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 72,
+   "tier": "S"
+  },
   {
    "name": "효원공원",
    "category": "park",
@@ -223,62 +259,10 @@
    "reasons": [
     "1.0 km",
     "지금 영업 중",
-    "맑아서 야외",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "match": 72,
-   "tier": "A"
-  },
-  {
-   "name": "방화수류정",
-   "category": "travel",
-   "distance_km": 2.8,
-   "lat": 37.28754184,
-   "lng": 127.018095,
-   "address": "경기도 수원시 팔달구 수원천로392번길 44-6",
-   "reasons": [
-    "2.8 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 72,
-   "tier": "S"
-  },
-  {
-   "name": "기흥레스피아호수공원",
-   "category": "park",
-   "distance_km": 6.1,
-   "lat": 37.2525,
-   "lng": 127.0958,
-   "address": "경기도 용인시 기흥구 하갈로 79 (하갈동)",
-   "reasons": [
-    "6.1 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 72,
-   "tier": "A"
-  },
-  {
-   "name": "도넛드로잉",
-   "category": "cafe",
-   "distance_km": 11.8,
-   "lat": 37.35263577,
-   "lng": 127.100743,
-   "address": "경기도 성남시 분당구 대왕판교로 103",
-   "reasons": [
-    "11.8 km",
-    "내일 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 68,
+   "match": 60,
    "tier": "A"
   },
   {
@@ -290,29 +274,12 @@
    "address": "경기도 오산시 경기도대로 742",
    "reasons": [
     "9.0 km",
-    "내일 영업",
+    "낮에 영업",
     "최근 확인",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "match": 67,
-   "tier": "S"
-  },
-  {
-   "name": "동탄센트럴파크",
-   "category": "travel",
-   "distance_km": 7.2,
-   "lat": 37.20563857,
-   "lng": 127.063581,
-   "address": "경기도 화성시 동탄공원로2길 22",
-   "reasons": [
-    "7.2 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 72,
+   "match": 65,
    "tier": "S"
   },
   {
@@ -324,10 +291,27 @@
    "address": "경기도 수원시 권선구 동수원로146번길 121",
    "reasons": [
     "2.1 km",
-    "내일 영업",
+    "낮에 영업",
+    "실내",
     "댕오늘 추천"
    ],
-   "match": 68,
+   "match": 72,
+   "tier": "B"
+  },
+  {
+   "name": "도그파크랜드",
+   "category": "cafe",
+   "distance_km": 12.2,
+   "lat": 37.31589657,
+   "lng": 127.150286,
+   "address": "경기도 용인시 처인구 모현읍 오산로 208-34",
+   "reasons": [
+    "12.2 km",
+    "낮에 영업",
+    "실내",
+    "댕오늘 추천"
+   ],
+   "match": 72,
    "tier": "B"
   },
   {
@@ -339,45 +323,62 @@
    "address": "경기도 용인시 기흥구 상갈로 6",
    "reasons": [
     "7.1 km",
-    "내일 영업",
+    "낮에 영업",
     "최근 확인",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "match": 67,
+   "match": 65,
    "tier": "A"
   },
   {
-   "name": "구운정",
-   "category": "restaurant",
-   "distance_km": 0.5,
-   "lat": 37.262116999999996,
-   "lng": 127.03396289999998,
-   "address": "경기도 수원시 팔달구 효원로291번길 21",
+   "name": "기흥레스피아호수공원",
+   "category": "park",
+   "distance_km": 6.1,
+   "lat": 37.2525,
+   "lng": 127.0958,
+   "address": "경기도 용인시 기흥구 하갈로 79 (하갈동)",
    "reasons": [
-    "0.5 km",
+    "6.1 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 60,
+   "tier": "A"
+  },
+  {
+   "name": "동탄센트럴파크",
+   "category": "travel",
+   "distance_km": 7.2,
+   "lat": 37.20563857,
+   "lng": 127.063581,
+   "address": "경기도 화성시 동탄공원로2길 22",
+   "reasons": [
+    "7.2 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 60,
+   "tier": "S"
+  },
+  {
+   "name": "계미굴 행궁점",
+   "category": "restaurant",
+   "distance_km": 2.7,
+   "lat": 37.2855298,
+   "lng": 127.0146932,
+   "address": "경기도 수원시 팔달구 화서문로 60 지하 1층",
+   "reasons": [
+    "2.7 km",
     "최근 확인",
     "교차 확인됨",
     "요즘 인기"
    ],
-   "match": 62,
-   "tier": "B"
-  },
-  {
-   "name": "구갈레스피아반려견놀이터",
-   "category": "playground",
-   "distance_km": 9.1,
-   "lat": 37.26682449,
-   "lng": 127.131244,
-   "address": "경기도 용인시 기흥구 중부대로 640",
-   "reasons": [
-    "9.1 km",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 68,
-   "tier": "A"
+   "match": 59,
+   "tier": "S"
   }
  ],
  "links": [],
@@ -407,116 +408,6 @@
    "grade": "official",
    "confidence": 1.0,
    "summary": "누구나 자신의 속도로 즐기는 주말 아침, ‘쉬엄쉬엄모닝’이 열린다. 걷기·달리기·자전거는 물론 유아차와 반려견 동반까지, 자신의 체력에 맞춰 원하는 방식으로 참여할 수 있는 서울형 아침 운동 프로그램이다.",
-   "status": "ongoing"
-  },
-  {
-   "id": "86d9f9f91868",
-   "aliases": [
-    "af568816f670"
-   ],
-   "title": "2026 반려동물 페스티벌",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "10:00~16:30",
-   "venue": "성남시청 광장",
-   "address": "경기도 성남시 중원구 성남대로 997",
-   "lat": 37.41993055742254,
-   "lng": 127.12628813511819,
-   "province": "경기",
-   "kind": "festival",
-   "dog": "ok",
-   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "성남시",
-   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
-   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
-   "image_credit": "m.snvision.seongnam.go.kr",
-   "source": "official:m.snvision.seongnam.go.kr",
-   "grade": "official",
-   "confidence": 1.0,
-   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
-   "status": "ongoing"
-  },
-  {
-   "id": "9600a78cb655",
-   "aliases": [],
-   "title": "2026 서초 웰니스 펫스타",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "13:00~17:00",
-   "venue": "서초문화예술공원 잔디광장",
-   "address": "서울 서초구 바우뫼로12길 40",
-   "lat": 37.467818092082,
-   "lng": 127.030656752773,
-   "province": "서울",
-   "kind": "other",
-   "dog": "ok",
-   "dog_text": "반려견과 함께하는 웰니스 축제 한마당",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "서울 서초구",
-   "url": "https://www.fairnews.co.kr/news/section.html?sec_no=153",
-   "image": "",
-   "image_credit": "",
-   "source": "news:biz.heraldcorp.com",
-   "grade": "news",
-   "confidence": 0.9,
-   "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
-   "status": "ongoing"
-  },
-  {
-   "id": "3551e402fa96",
-   "aliases": [],
-   "title": "2026 서울대 반려동물 한마당",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "12:30~18:00",
-   "venue": "서울대학교 잔디광장",
-   "address": "서울 관악구 관악로 1",
-   "lat": 37.45978574975834,
-   "lng": 126.9511239870991,
-   "province": "서울",
-   "kind": "festival",
-   "dog": "ok",
-   "dog_text": "반려견 동반 참여 가능",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "서울대학교 수의과대학·관악구청 공동 주최, 서울대학교 수의과대학 제42대",
-   "url": "https://www.dailyvet.co.kr/news/college/297864",
-   "image": "",
-   "image_credit": "",
-   "source": "news:www.dailyvet.co.kr",
-   "grade": "news",
-   "confidence": 0.7,
-   "summary": "반려견과 보호자를 위한 대회와 퀴즈, 다양한 체험 프로그램을 진행해요.",
-   "status": "ongoing"
-  },
-  {
-   "id": "fdf7659ea876",
-   "aliases": [],
-   "title": "2026 서울 댕냥데이즈",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "",
-   "venue": "문화비축기지",
-   "address": "서울 마포구 상암동",
-   "lat": 37.57107560511949,
-   "lng": 126.89423666008835,
-   "province": "서울",
-   "kind": "festival",
-   "dog": "leash",
-   "dog_text": "목줄 착용, 배변 수거, 짖음 배려 등 펫티켓 실천을 안내할 예정이다.",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "서울시",
-   "url": "https://www.nsenior.co.kr/news/article.html?no=138933",
-   "image": "",
-   "image_credit": "",
-   "source": "news:www.nsenior.co.kr",
-   "grade": "news",
-   "confidence": 0.75,
-   "summary": "반려동물과 함께하는 문화축제로 공연·전시·체험과 유기견 입양 행사를 열어요.",
    "status": "ongoing"
   },
   {
@@ -571,7 +462,7 @@
    "grade": "news",
    "confidence": 0.7,
    "summary": "댕댕런 2026이 11월 1일 자라섬 중도와 남도에서 열려요.",
-   "status": "upcoming"
+   "status": "ongoing"
   },
   {
    "id": "d2a240d936ed",

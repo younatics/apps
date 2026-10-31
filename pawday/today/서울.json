@@ -1,39 +1,25 @@
 {
  "province": "서울",
- "date": "2026-10-31",
- "walk_index": 92,
+ "date": "2026-11-01",
+ "walk_index": 52,
  "reasons": [
+  "강수 확률 60%",
+  "비 예보",
   "대기질 보통"
  ],
  "conditions": {
   "province": "서울",
-  "date": "2026-10-31",
-  "temp_max": 6.0,
-  "temp_min": 6.0,
-  "rain_prob_max": 30,
-  "precip_type": "",
+  "date": "2026-11-01",
+  "temp_max": 13.0,
+  "temp_min": 5.0,
+  "rain_prob_max": 60,
+  "precip_type": "비",
   "sky": "흐림",
-  "wind_max": 0.6,
-  "pm10": 32.0,
+  "wind_max": 1.2,
+  "pm10": 31.0,
   "pm25": 15.0,
-  "fetched_at": "2026-10-31T22:37+09:00",
+  "fetched_at": "2026-11-01T00:07+09:00",
   "hourly": [
-   {
-    "h": 22,
-    "date": "20261031",
-    "temp": 6.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
-   {
-    "h": 23,
-    "date": "20261031",
-    "temp": 6.0,
-    "pop": 30,
-    "sky": "흐림",
-    "pty": ""
-   },
    {
     "h": 0,
     "date": "20261101",
@@ -209,10 +195,78 @@
     "pop": 30,
     "sky": "흐림",
     "pty": ""
+   },
+   {
+    "h": 22,
+    "date": "20261101",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
+   },
+   {
+    "h": 23,
+    "date": "20261101",
+    "temp": 10.0,
+    "pop": 30,
+    "sky": "흐림",
+    "pty": ""
    }
   ]
  },
  "picks": [
+  {
+   "name": "알베르",
+   "category": "cafe",
+   "distance_km": 8.3,
+   "lat": 37.50305653,
+   "lng": 127.028103,
+   "address": "서울특별시 강남구 강남대로102길 34",
+   "reasons": [
+    "8.3 km",
+    "낮에 영업",
+    "실내",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 72,
+   "tier": "A"
+  },
+  {
+   "name": "대림미술관",
+   "category": "culture",
+   "distance_km": 1.3,
+   "lat": 37.57750388,
+   "lng": 126.973364,
+   "address": "서울특별시 종로구 자하문로4길 21",
+   "reasons": [
+    "1.3 km",
+    "낮에 영업",
+    "소형/중형",
+    "실내",
+    "최근 확인",
+    "댕오늘 추천"
+   ],
+   "match": 72,
+   "tier": "B"
+  },
+  {
+   "name": "원인어밀리언",
+   "category": "cafe",
+   "distance_km": 3.9,
+   "lat": 37.5370311,
+   "lng": 127.001951,
+   "address": "서울특별시 용산구 이태원로54길 31",
+   "reasons": [
+    "3.9 km",
+    "낮에 영업",
+    "실내",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 72,
+   "tier": "S"
+  },
   {
    "name": "남산골한옥마을",
    "category": "travel",
@@ -222,14 +276,30 @@
    "address": "서울특별시 중구 퇴계로34길 28 (필동2가)",
    "reasons": [
     "1.5 km",
-    "내일 영업",
+    "낮에 영업",
     "전 견종 동반 가능",
-    "맑아서 야외",
     "최근 확인",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "match": 70,
+   "match": 58,
+   "tier": "S"
+  },
+  {
+   "name": "혼자두면장판뜯어서차린개카페",
+   "category": "cafe",
+   "distance_km": 9.8,
+   "lat": 37.48512152,
+   "lng": 126.935676,
+   "address": "서울특별시 관악구 남부순환로 1665",
+   "reasons": [
+    "9.8 km",
+    "낮에 영업",
+    "실내",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 72,
    "tier": "S"
   },
   {
@@ -242,93 +312,10 @@
    "reasons": [
     "3.0 km",
     "지금 영업 중",
-    "맑아서 야외",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "match": 72,
-   "tier": "A"
-  },
-  {
-   "name": "종로구립 고희동미술관",
-   "category": "culture",
-   "distance_km": 2.1,
-   "lat": 37.58318551,
-   "lng": 126.988885,
-   "address": "서울특별시 종로구 창덕궁5길 40",
-   "reasons": [
-    "2.1 km",
-    "내일 영업",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 67,
-   "tier": "S"
-  },
-  {
-   "name": "원인어밀리언",
-   "category": "cafe",
-   "distance_km": 3.9,
-   "lat": 37.5370311,
-   "lng": 127.001951,
-   "address": "서울특별시 용산구 이태원로54길 31",
-   "reasons": [
-    "3.9 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 68,
-   "tier": "S"
-  },
-  {
-   "name": "남산공원",
-   "category": "park",
-   "distance_km": 1.2,
-   "lat": 37.55558921,
-   "lng": 126.981204,
-   "address": "서울특별시 중구 회현동1가",
-   "reasons": [
-    "1.2 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 72,
-   "tier": "S"
-  },
-  {
-   "name": "혼자두면장판뜯어서차린개카페",
-   "category": "cafe",
-   "distance_km": 9.8,
-   "lat": 37.48512152,
-   "lng": 126.935676,
-   "address": "서울특별시 관악구 남부순환로 1665",
-   "reasons": [
-    "9.8 km",
-    "내일 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 68,
-   "tier": "S"
-  },
-  {
-   "name": "모스가든",
-   "category": "cafe",
-   "distance_km": 7.1,
-   "lat": 37.51668679,
-   "lng": 127.028327,
-   "address": "서울특별시 강남구 논현로139길 12",
-   "reasons": [
-    "7.1 km",
-    "내일 영업",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 68,
+   "match": 60,
    "tier": "A"
   },
   {
@@ -345,40 +332,57 @@
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "match": 68,
+   "match": 66,
    "tier": "S"
   },
   {
-   "name": "길마중길",
-   "category": "travel",
-   "distance_km": 6.6,
-   "lat": 37.51496793,
-   "lng": 127.015183,
-   "address": "서울특별시 서초구 잠원동 84-3",
+   "name": "오뚜기",
+   "category": "restaurant",
+   "distance_km": 7.3,
+   "lat": 37.60409805,
+   "lng": 126.91058,
+   "address": "서울특별시 은평구 갈현로 70",
    "reasons": [
-    "6.6 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
+    "7.3 km",
+    "낮에 영업",
+    "실내",
+    "댕오늘 추천"
    ],
    "match": 72,
    "tier": "B"
   },
   {
-   "name": "목멱산방 남산타워점",
-   "category": "restaurant",
-   "distance_km": 1.4,
-   "lat": 37.555322,
-   "lng": 126.98527720000001,
-   "address": "서울특별시 중구 남산공원길 627",
+   "name": "남산공원",
+   "category": "park",
+   "distance_km": 1.2,
+   "lat": 37.55558921,
+   "lng": 126.981204,
+   "address": "서울특별시 중구 회현동1가",
    "reasons": [
-    "1.4 km",
+    "1.2 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 60,
+   "tier": "S"
+  },
+  {
+   "name": "스태픽스",
+   "category": "restaurant",
+   "distance_km": 1.5,
+   "lat": 37.577373176,
+   "lng": 126.9676929589,
+   "address": "서울특별시 종로구 사직로9길 22 (필운동)",
+   "reasons": [
+    "1.5 km",
+    "낮에 영업",
+    "맹견 제외 전 견종 동반 가능",
     "최근 확인",
     "교차 확인됨",
     "요즘 인기"
    ],
-   "match": 66,
+   "match": 63,
    "tier": "S"
   }
  ],
@@ -412,116 +416,6 @@
    "status": "ongoing"
   },
   {
-   "id": "fdf7659ea876",
-   "aliases": [],
-   "title": "2026 서울 댕냥데이즈",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "",
-   "venue": "문화비축기지",
-   "address": "서울 마포구 상암동",
-   "lat": 37.57107560511949,
-   "lng": 126.89423666008835,
-   "province": "서울",
-   "kind": "festival",
-   "dog": "leash",
-   "dog_text": "목줄 착용, 배변 수거, 짖음 배려 등 펫티켓 실천을 안내할 예정이다.",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "서울시",
-   "url": "https://www.nsenior.co.kr/news/article.html?no=138933",
-   "image": "",
-   "image_credit": "",
-   "source": "news:www.nsenior.co.kr",
-   "grade": "news",
-   "confidence": 0.75,
-   "summary": "반려동물과 함께하는 문화축제로 공연·전시·체험과 유기견 입양 행사를 열어요.",
-   "status": "ongoing"
-  },
-  {
-   "id": "9600a78cb655",
-   "aliases": [],
-   "title": "2026 서초 웰니스 펫스타",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "13:00~17:00",
-   "venue": "서초문화예술공원 잔디광장",
-   "address": "서울 서초구 바우뫼로12길 40",
-   "lat": 37.467818092082,
-   "lng": 127.030656752773,
-   "province": "서울",
-   "kind": "other",
-   "dog": "ok",
-   "dog_text": "반려견과 함께하는 웰니스 축제 한마당",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "서울 서초구",
-   "url": "https://www.fairnews.co.kr/news/section.html?sec_no=153",
-   "image": "",
-   "image_credit": "",
-   "source": "news:biz.heraldcorp.com",
-   "grade": "news",
-   "confidence": 0.9,
-   "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
-   "status": "ongoing"
-  },
-  {
-   "id": "3551e402fa96",
-   "aliases": [],
-   "title": "2026 서울대 반려동물 한마당",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "12:30~18:00",
-   "venue": "서울대학교 잔디광장",
-   "address": "서울 관악구 관악로 1",
-   "lat": 37.45978574975834,
-   "lng": 126.9511239870991,
-   "province": "서울",
-   "kind": "festival",
-   "dog": "ok",
-   "dog_text": "반려견 동반 참여 가능",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "서울대학교 수의과대학·관악구청 공동 주최, 서울대학교 수의과대학 제42대",
-   "url": "https://www.dailyvet.co.kr/news/college/297864",
-   "image": "",
-   "image_credit": "",
-   "source": "news:www.dailyvet.co.kr",
-   "grade": "news",
-   "confidence": 0.7,
-   "summary": "반려견과 보호자를 위한 대회와 퀴즈, 다양한 체험 프로그램을 진행해요.",
-   "status": "ongoing"
-  },
-  {
-   "id": "86d9f9f91868",
-   "aliases": [
-    "af568816f670"
-   ],
-   "title": "2026 반려동물 페스티벌",
-   "start": "2026-10-31",
-   "end": "2026-10-31",
-   "time": "10:00~16:30",
-   "venue": "성남시청 광장",
-   "address": "경기도 성남시 중원구 성남대로 997",
-   "lat": 37.41993055742254,
-   "lng": 127.12628813511819,
-   "province": "경기",
-   "kind": "festival",
-   "dog": "ok",
-   "dog_text": "반려견과 보호자가 함께하는 건강 달리기와 멍때리기 등 다양한 프로그램을 즐길 수 있다.",
-   "fee": "unknown",
-   "fee_text": "",
-   "organizer": "성남시",
-   "url": "https://m.snvision.seongnam.go.kr/a.html?uid=23528&sc=",
-   "image": "https://cdn.newsx.kr/snvision.seongnam.go.kr/data/snvision/mainimages/202610/202610270552494.jpg",
-   "image_credit": "m.snvision.seongnam.go.kr",
-   "source": "official:m.snvision.seongnam.go.kr",
-   "grade": "official",
-   "confidence": 1.0,
-   "summary": "반려견과 함께 토크콘서트·음악회·명랑운동회·체험을 즐겨요.",
-   "status": "ongoing"
-  },
-  {
    "id": "bd64e682a072",
    "aliases": [],
    "title": "댕댕런 2026",
@@ -546,7 +440,7 @@
    "grade": "news",
    "confidence": 0.7,
    "summary": "댕댕런 2026이 11월 1일 자라섬 중도와 남도에서 열려요.",
-   "status": "upcoming"
+   "status": "ongoing"
   },
   {
    "id": "d2a240d936ed",
