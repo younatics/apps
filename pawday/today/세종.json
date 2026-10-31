@@ -297,6 +297,22 @@
    "tier": "S"
   },
   {
+   "name": "오푼",
+   "category": "cafe",
+   "distance_km": 18.0,
+   "lat": 36.33958148,
+   "lng": 127.390039,
+   "address": "대전광역시 서구 도솔로388번길 44",
+   "reasons": [
+    "18.0 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 68,
+   "tier": "A"
+  },
+  {
    "name": "대전선사박물관",
    "category": "culture",
    "distance_km": 12.4,
@@ -327,21 +343,6 @@
    ],
    "match": 68,
    "tier": "A"
-  },
-  {
-   "name": "레인바우",
-   "category": "cafe",
-   "distance_km": 3.0,
-   "lat": 36.4896483,
-   "lng": 127.25785,
-   "address": "세종특별자치시 나성북로 9",
-   "reasons": [
-    "3.0 km",
-    "지금 영업 중",
-    "소형/중형"
-   ],
-   "match": 66,
-   "tier": "B"
   },
   {
    "name": "한마음 정육식당",

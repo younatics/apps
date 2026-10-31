@@ -288,20 +288,6 @@
    "tier": "B"
   },
   {
-   "name": "카페 미술관아래",
-   "category": "cafe",
-   "distance_km": 17.4,
-   "lat": 34.77512083,
-   "lng": 126.646673,
-   "address": "전라남도 영암군 군서면 왕인로 710-30",
-   "reasons": [
-    "17.4 km",
-    "지금 영업 중"
-   ],
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "나주 우습제",
    "category": "travel",
    "distance_km": 17.4,
@@ -333,6 +319,20 @@
    "tier": "C"
   },
   {
+   "name": "카페넉넉",
+   "category": "cafe",
+   "distance_km": 37.5,
+   "lat": 35.01492507,
+   "lng": 126.794503,
+   "address": "전라남도 나주시 그린로 317-7",
+   "reasons": [
+    "37.5 km",
+    "지금 영업 중"
+   ],
+   "match": 68,
+   "tier": "B"
+  },
+  {
    "name": "죽산수변공원",
    "category": "park",
    "distance_km": 22.8,
@@ -350,5 +350,33 @@
   }
  ],
  "links": [],
- "events": []
+ "events": [
+  {
+   "id": "7766a84e2783",
+   "aliases": [],
+   "title": "2026 전남대학교 반려동물 한마당",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "time": "11:00~16:30",
+   "venue": "전남대학교 광주캠퍼스 제2학생마루 주차장 부지",
+   "address": "전남광주통합특별시 북구 용봉로 77",
+   "lat": 35.17596181776418,
+   "lng": 126.9085652963471,
+   "province": "광주",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려동물 동반 가능",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "전남대학교 수의과대학 제38대 학생회 VETTERY",
+   "url": "https://www.dailyvet.co.kr/news/college/300742",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.dailyvet.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려동물 체험·상담 부스와 김명철 수의사의 토크콘서트가 열려요.",
+   "status": "upcoming"
+  }
+ ]
 }

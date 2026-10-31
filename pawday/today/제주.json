@@ -230,21 +230,6 @@
    "tier": "A"
   },
   {
-   "name": "제주특별자치도 민속자연사박물관",
-   "category": "culture",
-   "distance_km": 0.8,
-   "lat": 33.5063901549,
-   "lng": 126.5313373721,
-   "address": "제주특별자치도 제주시 삼성로 40",
-   "reasons": [
-    "0.8 km",
-    "지금 영업 중",
-    "최근 확인"
-   ],
-   "match": 67,
-   "tier": "B"
-  },
-  {
    "name": "도두봉",
    "category": "travel",
    "distance_km": 5.9,
@@ -258,21 +243,6 @@
     "최근 확인"
    ],
    "match": 64,
-   "tier": "B"
-  },
-  {
-   "name": "국립제주박물관",
-   "category": "culture",
-   "distance_km": 2.2,
-   "lat": 33.51379671,
-   "lng": 126.54791,
-   "address": "제주특별자치도 제주시 일주동로 17",
-   "reasons": [
-    "2.2 km",
-    "지금 영업 중",
-    "최근 확인"
-   ],
-   "match": 67,
    "tier": "B"
   },
   {
@@ -368,6 +338,20 @@
    ],
    "match": 59,
    "tier": "A"
+  },
+  {
+   "name": "캠핑스토리",
+   "category": "lodging",
+   "distance_km": 15.6,
+   "lat": 33.4175616,
+   "lng": 126.3949476,
+   "address": "제주특별자치도 제주시 애월읍 하소로 746",
+   "reasons": [
+    "15.6 km",
+    "최근 확인"
+   ],
+   "match": 59,
+   "tier": "C"
   }
  ],
  "links": [],

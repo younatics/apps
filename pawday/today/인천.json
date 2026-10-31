@@ -249,23 +249,6 @@
    "tier": "A"
   },
   {
-   "name": "수도국산달동네박물관",
-   "category": "culture",
-   "distance_km": 6.3,
-   "lat": 37.4778799,
-   "lng": 126.639297,
-   "address": "인천광역시 동구 솔빛로 51",
-   "reasons": [
-    "6.3 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 67,
-   "tier": "A"
-  },
-  {
    "name": "푸른수목원",
    "category": "park",
    "distance_km": 10.8,
@@ -335,21 +318,21 @@
    "tier": "S"
   },
   {
-   "name": "인천아트플랫폼",
+   "name": "문화비축기지",
    "category": "culture",
-   "distance_km": 7.7,
-   "lat": 37.47278273,
-   "lng": 126.620595,
-   "address": "인천광역시 중구 제물량로218번길 3",
+   "distance_km": 21.0,
+   "lat": 37.5699856862,
+   "lng": 126.8951646315,
+   "address": "서울특별시 마포구 증산로 87",
    "reasons": [
-    "7.7 km",
+    "21.0 km",
     "지금 영업 중",
     "최근 확인",
     "댕오늘 추천",
     "요즘 인기"
    ],
-   "match": 67,
-   "tier": "A"
+   "match": 68,
+   "tier": "S"
   },
   {
    "name": "다남숲멍빌리지",
@@ -381,6 +364,22 @@
    ],
    "match": 68,
    "tier": "S"
+  },
+  {
+   "name": "메종드로이",
+   "category": "cafe",
+   "distance_km": 15.0,
+   "lat": 37.37696681,
+   "lng": 126.84322,
+   "address": "경기도 시흥시 목감전원로 32",
+   "reasons": [
+    "15.0 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 68,
+   "tier": "A"
   }
  ],
  "links": [],
@@ -437,6 +436,33 @@
    "grade": "news",
    "confidence": 0.75,
    "summary": "반려동물과 함께하는 문화축제로 공연·전시·체험과 유기견 입양 행사를 열어요.",
+   "status": "ongoing"
+  },
+  {
+   "id": "3551e402fa96",
+   "aliases": [],
+   "title": "2026 서울대 반려동물 한마당",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "12:30~18:00",
+   "venue": "서울대학교 잔디광장",
+   "address": "서울 관악구 관악로 1",
+   "lat": 37.45978574975834,
+   "lng": 126.9511239870991,
+   "province": "서울",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견 동반 참여 가능",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "서울대학교 수의과대학·관악구청 공동 주최, 서울대학교 수의과대학 제42대",
+   "url": "https://www.dailyvet.co.kr/news/college/297864",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.dailyvet.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려견과 보호자를 위한 대회와 퀴즈, 다양한 체험 프로그램을 진행해요.",
    "status": "ongoing"
   },
   {

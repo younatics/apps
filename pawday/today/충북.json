@@ -267,32 +267,18 @@
    "tier": "S"
   },
   {
-   "name": "국립청주박물관",
+   "name": "한국공예관",
    "category": "culture",
-   "distance_km": 2.2,
-   "lat": 36.64966894,
-   "lng": 127.512009,
-   "address": "충청북도 청주시 상당구 명암로 143",
+   "distance_km": 1.6,
+   "lat": 36.65619554,
+   "lng": 127.492382,
+   "address": "충청북도 청주시 청원구 상당로 314",
    "reasons": [
-    "2.2 km",
+    "1.6 km",
     "지금 영업 중",
     "최근 확인"
    ],
    "match": 67,
-   "tier": "B"
-  },
-  {
-   "name": "그리너리",
-   "category": "cafe",
-   "distance_km": 3.4,
-   "lat": 36.66949303,
-   "lng": 127.471505,
-   "address": "충청북도 청주시 청원구 새터로176번길 157-1",
-   "reasons": [
-    "3.4 km",
-    "지금 영업 중"
-   ],
-   "match": 68,
    "tier": "B"
   },
   {
@@ -311,18 +297,17 @@
    "tier": "B"
   },
   {
-   "name": "한국공예관",
-   "category": "culture",
-   "distance_km": 1.6,
-   "lat": 36.65619554,
-   "lng": 127.492382,
-   "address": "충청북도 청주시 청원구 상당로 314",
+   "name": "레인바우 세종연서점",
+   "category": "cafe",
+   "distance_km": 23.9,
+   "lat": 36.55695744,
+   "lng": 127.243524,
+   "address": "세종특별자치시 연서면 용연로 608",
    "reasons": [
-    "1.6 km",
-    "지금 영업 중",
-    "최근 확인"
+    "23.9 km",
+    "지금 영업 중"
    ],
-   "match": 67,
+   "match": 68,
    "tier": "B"
   },
   {
@@ -342,20 +327,6 @@
    "tier": "C"
   },
   {
-   "name": "레인바우 세종연서점",
-   "category": "cafe",
-   "distance_km": 23.9,
-   "lat": 36.55695744,
-   "lng": 127.243524,
-   "address": "세종특별자치시 연서면 용연로 608",
-   "reasons": [
-    "23.9 km",
-    "지금 영업 중"
-   ],
-   "match": 68,
-   "tier": "B"
-  },
-  {
    "name": "에이디 카페",
    "category": "cafe",
    "distance_km": 21.8,
@@ -366,6 +337,34 @@
     "21.8 km"
    ],
    "match": 62,
+   "tier": "C"
+  },
+  {
+   "name": "히든모먼츠",
+   "category": "cafe",
+   "distance_km": 24.7,
+   "lat": 36.74709523,
+   "lng": 127.244927,
+   "address": "충청남도 천안시 동남구 성남면 신사3길 42-19",
+   "reasons": [
+    "24.7 km",
+    "지금 영업 중"
+   ],
+   "match": 68,
+   "tier": "B"
+  },
+  {
+   "name": "신탄진 휴게소(서울 방향) 반려견 놀이터",
+   "category": "playground",
+   "distance_km": 24.6,
+   "lat": 36.4281311186935,
+   "lng": 127.418571981966,
+   "address": "대전광역시 산업단지로 27",
+   "reasons": [
+    "24.6 km",
+    "맑아서 야외"
+   ],
+   "match": 66,
    "tier": "C"
   }
  ],

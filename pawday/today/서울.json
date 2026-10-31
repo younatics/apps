@@ -266,23 +266,6 @@
    "tier": "S"
   },
   {
-   "name": "종로구립 고희동미술관",
-   "category": "culture",
-   "distance_km": 2.1,
-   "lat": 37.58318551,
-   "lng": 126.988885,
-   "address": "서울특별시 종로구 창덕궁5길 40",
-   "reasons": [
-    "2.1 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 67,
-   "tier": "S"
-  },
-  {
    "name": "남산공원",
    "category": "park",
    "distance_km": 1.2,
@@ -316,22 +299,6 @@
    "tier": "S"
   },
   {
-   "name": "분카샤",
-   "category": "cafe",
-   "distance_km": 1.2,
-   "lat": 37.56532931,
-   "lng": 126.992033,
-   "address": "서울특별시 중구 을지로14길 20",
-   "reasons": [
-    "1.2 km",
-    "지금 영업 중",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 68,
-   "tier": "A"
-  },
-  {
    "name": "문화비축기지",
    "category": "culture",
    "distance_km": 7.3,
@@ -347,6 +314,22 @@
    ],
    "match": 68,
    "tier": "S"
+  },
+  {
+   "name": "분카샤",
+   "category": "cafe",
+   "distance_km": 1.2,
+   "lat": 37.56532931,
+   "lng": 126.992033,
+   "address": "서울특별시 중구 을지로14길 20",
+   "reasons": [
+    "1.2 km",
+    "지금 영업 중",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 68,
+   "tier": "A"
   },
   {
    "name": "길마중길",
@@ -366,20 +349,38 @@
    "tier": "B"
   },
   {
-   "name": "목멱산방 남산타워점",
+   "name": "아이노가든키친",
    "category": "restaurant",
-   "distance_km": 1.4,
-   "lat": 37.555322,
-   "lng": 126.98527720000001,
-   "address": "서울특별시 중구 남산공원길 627",
+   "distance_km": 0.9,
+   "lat": 37.5727758,
+   "lng": 126.97125,
+   "address": "서울특별시 종로구 경희궁2길 10 2층",
    "reasons": [
-    "1.4 km",
+    "0.9 km",
+    "지금 영업 중",
     "최근 확인",
     "교차 확인됨",
     "요즘 인기"
    ],
-   "match": 66,
-   "tier": "S"
+   "match": 64,
+   "tier": "A"
+  },
+  {
+   "name": "사비나미술관",
+   "category": "culture",
+   "distance_km": 8.3,
+   "lat": 37.63012857,
+   "lng": 126.929276,
+   "address": "서울특별시 은평구 진관1로 93",
+   "reasons": [
+    "8.3 km",
+    "지금 영업 중",
+    "최근 확인",
+    "댕오늘 추천",
+    "요즘 인기"
+   ],
+   "match": 67,
+   "tier": "A"
   }
  ],
  "links": [],
@@ -463,6 +464,33 @@
    "grade": "news",
    "confidence": 0.9,
    "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
+   "status": "ongoing"
+  },
+  {
+   "id": "3551e402fa96",
+   "aliases": [],
+   "title": "2026 서울대 반려동물 한마당",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "12:30~18:00",
+   "venue": "서울대학교 잔디광장",
+   "address": "서울 관악구 관악로 1",
+   "lat": 37.45978574975834,
+   "lng": 126.9511239870991,
+   "province": "서울",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견 동반 참여 가능",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "서울대학교 수의과대학·관악구청 공동 주최, 서울대학교 수의과대학 제42대",
+   "url": "https://www.dailyvet.co.kr/news/college/297864",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.dailyvet.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려견과 보호자를 위한 대회와 퀴즈, 다양한 체험 프로그램을 진행해요.",
    "status": "ongoing"
   },
   {

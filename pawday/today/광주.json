@@ -231,23 +231,6 @@
    "tier": "A"
   },
   {
-   "name": "청춘발산마을",
-   "category": "travel",
-   "distance_km": 3.5,
-   "lat": 35.15991724,
-   "lng": 126.891471,
-   "address": "광주광역시 서구 천변좌로 12-16",
-   "reasons": [
-    "3.5 km",
-    "지금 영업 중",
-    "맑아서 야외",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 72,
-   "tier": "A"
-  },
-  {
    "name": "아띠멍멍",
    "category": "cafe",
    "distance_km": 3.0,
@@ -261,23 +244,6 @@
     "요즘 인기"
    ],
    "match": 68,
-   "tier": "A"
-  },
-  {
-   "name": "아시아문화박물관",
-   "category": "culture",
-   "distance_km": 6.3,
-   "lat": 35.1470573,
-   "lng": 126.920031,
-   "address": "광주광역시 동구 문화전당로 38",
-   "reasons": [
-    "6.3 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 67,
    "tier": "A"
   },
   {
@@ -313,19 +279,21 @@
    "tier": "B"
   },
   {
-   "name": "국립광주박물관",
-   "category": "culture",
-   "distance_km": 4.4,
-   "lat": 35.18965658,
-   "lng": 126.883951,
-   "address": "광주광역시 북구 하서로 110",
+   "name": "죽녹원",
+   "category": "travel",
+   "distance_km": 22.3,
+   "lat": 35.3277583239,
+   "lng": 126.9855590131,
+   "address": "전남광주통합특별시 담양군 담양읍 죽녹원로 119",
    "reasons": [
-    "4.4 km",
-    "지금 영업 중",
+    "22.3 km",
+    "몸 전체가 유모차 및 이동장(켄넬) 안에 들어가는 전 견종 동반 가능",
+    "맑아서 야외",
     "최근 확인",
-    "댕오늘 추천"
+    "댕오늘 추천",
+    "요즘 인기"
    ],
-   "match": 67,
+   "match": 65,
    "tier": "A"
   },
   {
@@ -361,24 +329,80 @@
    "tier": "S"
   },
   {
-   "name": "죽녹원",
+   "name": "펭귄마을",
    "category": "travel",
-   "distance_km": 22.3,
-   "lat": 35.3277583239,
-   "lng": 126.9855590131,
-   "address": "전남광주통합특별시 담양군 담양읍 죽녹원로 119",
+   "distance_km": 6.2,
+   "lat": 35.1400765,
+   "lng": 126.917036,
+   "address": "광주광역시 남구 천변좌로446번길 7",
    "reasons": [
-    "22.3 km",
-    "몸 전체가 유모차 및 이동장(켄넬) 안에 들어가는 전 견종 동반 가능",
-    "맑아서 야외",
+    "6.2 km",
+    "지금 영업 중",
+    "맑아서 야외"
+   ],
+   "match": 72,
+   "tier": "B"
+  },
+  {
+   "name": "먼데이오프플리즈",
+   "category": "restaurant",
+   "distance_km": 6.5,
+   "lat": 35.1491043,
+   "lng": 126.9231572,
+   "address": "광주광역시 동구 장동로",
+   "reasons": [
+    "6.5 km",
     "최근 확인",
-    "댕오늘 추천",
+    "교차 확인됨"
+   ],
+   "match": 62,
+   "tier": "B"
+  },
+  {
+   "name": "양림역사문화마을",
+   "category": "culture",
+   "distance_km": 6.2,
+   "lat": 35.14008614102101,
+   "lng": 126.91699121578603,
+   "address": "전남광주통합특별시 남구 천변좌로446번길 7 (양림동)",
+   "reasons": [
+    "6.2 km",
+    "전 견종 동반 가능",
+    "최근 확인",
     "요즘 인기"
    ],
-   "match": 65,
-   "tier": "A"
+   "match": 59,
+   "tier": "B"
   }
  ],
  "links": [],
- "events": []
+ "events": [
+  {
+   "id": "7766a84e2783",
+   "aliases": [],
+   "title": "2026 전남대학교 반려동물 한마당",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "time": "11:00~16:30",
+   "venue": "전남대학교 광주캠퍼스 제2학생마루 주차장 부지",
+   "address": "전남광주통합특별시 북구 용봉로 77",
+   "lat": 35.17596181776418,
+   "lng": 126.9085652963471,
+   "province": "광주",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려동물 동반 가능",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "전남대학교 수의과대학 제38대 학생회 VETTERY",
+   "url": "https://www.dailyvet.co.kr/news/college/300742",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.dailyvet.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려동물 체험·상담 부스와 김명철 수의사의 토크콘서트가 열려요.",
+   "status": "upcoming"
+  }
+ ]
 }

@@ -282,23 +282,6 @@
    "tier": "A"
   },
   {
-   "name": "유엔군 초전기념관",
-   "category": "culture",
-   "distance_km": 9.0,
-   "lat": 37.1846106,
-   "lng": 127.049014,
-   "address": "경기도 오산시 경기도대로 742",
-   "reasons": [
-    "9.0 km",
-    "지금 영업 중",
-    "최근 확인",
-    "댕오늘 추천",
-    "요즘 인기"
-   ],
-   "match": 67,
-   "tier": "S"
-  },
-  {
    "name": "동탄센트럴파크",
    "category": "travel",
    "distance_km": 7.2,
@@ -378,6 +361,22 @@
    ],
    "match": 68,
    "tier": "A"
+  },
+  {
+   "name": "PPK 키친 수원본점",
+   "category": "restaurant",
+   "distance_km": 0.4,
+   "lat": 37.265702399999995,
+   "lng": 127.03156800000001,
+   "address": "경기도 수원시 인계동 1040-3 신일빌딩 1층",
+   "reasons": [
+    "0.4 km",
+    "최근 확인",
+    "교차 확인됨",
+    "요즘 인기"
+   ],
+   "match": 62,
+   "tier": "B"
   }
  ],
  "links": [],
@@ -463,6 +462,33 @@
    "grade": "news",
    "confidence": 0.9,
    "summary": "반려견 건강 체험과 독댄스 공연, 만들기 체험을 진행해요.",
+   "status": "ongoing"
+  },
+  {
+   "id": "3551e402fa96",
+   "aliases": [],
+   "title": "2026 서울대 반려동물 한마당",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "time": "12:30~18:00",
+   "venue": "서울대학교 잔디광장",
+   "address": "서울 관악구 관악로 1",
+   "lat": 37.45978574975834,
+   "lng": 126.9511239870991,
+   "province": "서울",
+   "kind": "festival",
+   "dog": "ok",
+   "dog_text": "반려견 동반 참여 가능",
+   "fee": "unknown",
+   "fee_text": "",
+   "organizer": "서울대학교 수의과대학·관악구청 공동 주최, 서울대학교 수의과대학 제42대",
+   "url": "https://www.dailyvet.co.kr/news/college/297864",
+   "image": "",
+   "image_credit": "",
+   "source": "news:www.dailyvet.co.kr",
+   "grade": "news",
+   "confidence": 0.7,
+   "summary": "반려견과 보호자를 위한 대회와 퀴즈, 다양한 체험 프로그램을 진행해요.",
    "status": "ongoing"
   },
   {
