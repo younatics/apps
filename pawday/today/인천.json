@@ -1,9 +1,9 @@
 {
  "province": "인천",
  "date": "2026-10-31",
- "walk_index": 92,
+ "walk_index": 100,
  "reasons": [
-  "대기질 보통"
+  "산책하기 좋은 날"
  ],
  "conditions": {
   "province": "인천",
@@ -14,9 +14,9 @@
   "precip_type": "",
   "sky": "맑음",
   "wind_max": 3.5,
-  "pm10": 34.0,
-  "pm25": 10.0,
-  "fetched_at": "2026-10-31T14:37+09:00",
+  "pm10": 30.0,
+  "pm25": 9.0,
+  "fetched_at": "2026-10-31T15:37+09:00",
   "hourly": [
    {
     "h": 15,
