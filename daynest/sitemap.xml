@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Submit this file directly in Google Search Console, Bing Webmaster Tools and
+  Naver Search Advisor:
+  https://younatics.github.io/apps/daynest/sitemap.xml
+
+  It lives in the app subdirectory on purpose. younatics.github.io/apps is a
+  shared Pages repo owned by several apps, so Daynest must not write a
+  site-wide robots.txt or root sitemap. A sitemap submitted by URL is honoured
+  from any path, and an absent robots.txt already means "crawl everything" —
+  so nothing is lost by staying inside our own subdirectory.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://younatics.github.io/apps/daynest/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://younatics.github.io/apps/daynest/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://younatics.github.io/apps/daynest/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://younatics.github.io/apps/daynest/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://younatics.github.io/apps/daynest/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://younatics.github.io/apps/daynest/ko/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://younatics.github.io/apps/daynest/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://younatics.github.io/apps/daynest/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://younatics.github.io/apps/daynest/support/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://younatics.github.io/apps/daynest/privacy/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

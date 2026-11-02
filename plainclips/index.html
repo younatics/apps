@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PlainClips</title>
+  <meta name="description" content="PlainClips is a small Mac clipboard history app for plain text only.">
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f7f7f8;
+      --fg: #1d1d1f;
+      --muted: #5f6368;
+      --panel: rgba(255, 255, 255, 0.78);
+      --line: rgba(0, 0, 0, 0.11);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #101113;
+        --fg: #f5f5f7;
+        --muted: #b4b7bd;
+        --panel: rgba(31, 32, 36, 0.82);
+        --line: rgba(255, 255, 255, 0.13);
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font: 17px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+    }
+    main {
+      width: min(880px, calc(100% - 40px));
+      margin: 0 auto;
+      padding: 84px 0 64px;
+    }
+    nav {
+      display: flex;
+      gap: 18px;
+      margin-bottom: 64px;
+      color: var(--muted);
+      font-size: 15px;
+    }
+    a { color: inherit; text-underline-offset: 3px; }
+    h1 {
+      margin: 0 0 14px;
+      font-size: clamp(44px, 8vw, 78px);
+      line-height: 1.02;
+      letter-spacing: 0;
+    }
+    .lead {
+      margin: 0 0 34px;
+      max-width: 650px;
+      color: var(--muted);
+      font-size: 22px;
+      line-height: 1.42;
+    }
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 28px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 14px;
+      margin-top: 22px;
+    }
+    .item {
+      border-top: 1px solid var(--line);
+      padding-top: 16px;
+    }
+    h2 { margin: 0 0 10px; font-size: 20px; }
+    p { margin: 0; }
+    footer {
+      margin-top: 42px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <nav>
+      <a href="./">PlainClips</a>
+      <a href="./support/">Support</a>
+      <a href="./privacy/">Privacy</a>
+    </nav>
+    <h1>PlainClips</h1>
+    <p class="lead">A small Mac clipboard history app that keeps only plain text, locally on your Mac.</p>
+    <section class="panel">
+      <h2>Built for quick recall</h2>
+      <p>Copy text, press Shift-Command-V, move through recent clips, and paste the one you need. PlainClips skips images, files, rich text, cloud sync, accounts, ads, and analytics.</p>
+      <div class="grid">
+        <div class="item">Plain text clips only</div>
+        <div class="item">Up to 50 recent clips</div>
+        <div class="item">Local storage only</div>
+        <div class="item">No account or network transfer</div>
+      </div>
+    </section>
+    <footer>© 2026 SeungYoun YI</footer>
+  </main>
+</body>
+</html>
